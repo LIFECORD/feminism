@@ -1,0 +1,23 @@
+[khan_flatflat38]
+title = "경향신문 ─ 플랫"
+url = "http://www.khan.co.kr/reporter_article.html?id=584"
+entrySelector = "ul.list_df li"
+titleSelector = "strong.tit_thumb.line_clamp3"
+linkSelector = "a.link_cont"
+contentSelector = "span.lead"
+dateSelector =  "span.info_area span.byline em.letter"
+dateFormat = "yyyy. MM. dd hh:mm"
+imageSelector = "img.thumb_g"
+waitUntil = "networkidle"
+
+[ildaro]
+title = "일다 ─ 전체기사"
+url = "https://ildaro.com/sub_view.html"
+entrySelector = "div.masonry div.news_list.masonry-brick"
+titleSelector = "dd.title"
+linkSelector = "dt a.link"
+contentSelector = "dd.body a.link"
+dateSelector =  "span.wdate"
+dateFormat = "yyyy.MM.dd hh:mm"
+imageSelector = "img.p_w"
+waitUntil = "networkidle"
