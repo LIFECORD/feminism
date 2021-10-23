@@ -10,6 +10,16 @@ dateFormat = "yyyy. MM. dd hh:mm"
 imageSelector = "img.thumb_g"
 waitUntil = "networkidle"
 
+[hankookilbo_herstory]
+title = "한국일보 ─ 뉴스레터 ─ 허스토리"
+url = "https://www.hankookilbo.com/NewsLetter/herstory"
+entrySelector = "ol.newjam-list li.newjam-item"
+titleSelector = "h3"
+linkSelector = "a"
+contentSelector = "p.lead"
+imageSelector = "div.thumb img"
+waitUntil = "networkidle"
+
 [ildaro]
 title = "일다 ─ 전체기사"
 url = "https://ildaro.com/sub_view.html"
