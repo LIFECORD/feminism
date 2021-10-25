@@ -24,6 +24,16 @@ imageSelector = "img.thumb"
 waitForSelector = "ul.issue_reco_list li"
 onFail = "stale"
 
+[khan_series_as257]
+title = "경향신문 ─ 연재 ─ 플랫"
+url = "https://www.khan.co.kr/series/articles/as257"
+entrySelector = "ul.df-list li"
+titleSelector = "h2.tit a"
+linkSelector = "h2.tit a"
+contentSelector = "a.line_clamp2"
+imageSelector = "a picture img"
+waitUntil = "networkidle"
+
 [hankookilbo_herstory]
 title = "한국일보 ─ 뉴스레터 ─ 허스토리"
 url = "https://www.hankookilbo.com/NewsLetter/herstory"
