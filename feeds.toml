@@ -18,7 +18,7 @@ titleSelector = "h3"
 linkSelector = "a"
 contentSelector = "p.lead"
 imageSelector = "div.thumb img"
-waitUntil = "networkidle"
+waitForSelector = "li.newjam-item"
 
 [ildaro]
 title = "일다 ─ 전체기사"
