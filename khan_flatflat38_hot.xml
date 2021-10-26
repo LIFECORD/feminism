@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/26/l_2021101901002321600197886.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정부위원회 여성 비율 '역대 최다' 43%라지만···실제론 31%[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110251043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110251043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 25]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/25/l_2021102201002923200248711.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아직 0.5%에 불과하지만…이집트 바꿀 98명의 여성 판사들[플랫]]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202110261443001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202110261443001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 10. 26]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/26/l_2021102501003127300268171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

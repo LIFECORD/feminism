@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직 0.5%에 불과하지만…이집트 바꿀 98명의 여성 판사들]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202110261443001</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202110261443001</guid>
+            <pubDate>Tue, 26 Oct 2021 06:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[이집트 최고 행정법원인 국무원에 사상 최초로 여성 판사들이 임명됐다. 이로써 이집트에서는 모든 사법기관 판사직에 여성이 진출할 수 있게 됐다. 이집트 여성들은 이번 여성 판사들의 임용으로 남성중심적이었던 각종 판결과 행정부 제도가 바뀔 수 있을 것이라고 기대하고 있다.아프리카뉴스는 20일(현지시간) 기자 국무원 건물에서 여성 판사 98명이 전날 판사 임용 선서를 마친 뒤 정식 임용됐다고 보도했다. 이날 취임한 여성 판사인 라드와 헬미는 “이것(여성 판사 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/26/l_2021102501003127300268171.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["판을 바꾸는 자리까지는 무조건 버틸 생각" 여성 오마카세 셰프의 다짐]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202110260700001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[지난해 코로나19 탓에 124년 만에 처음으로 취소됐던 미국 보스턴 마라톤 대회가 지난 12일 개최됐다. 이날 대회 현장에선 뜻깊은 행사가 있었다. 1966년 여성 최초로 보스턴 마라톤 코스를 완주한 로버타 기브의 동상 제막식이 거행됐다.뉴욕타임스에 따르면 1960년대는 대회 주최 측이 여성을 생리학적으로 무능하다고 간주하고 여성의 대회 참가를 불허하던 시절이었다. 기브는 대회 관계자들에게 붙잡히지 않으려고 덤불 뒤에 숨어 있다가 경주가 시작되자 코스로 뛰어들었...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/19/l_2021101901002318700197612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강릉 소녀들은 '서울'이라는 무지개를 좇아 대관령을 넘었다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110191028001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110191028001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[‘안녕히 가십시오 - 강원도(Good-bye, Gangwon-do).’차가운 새벽 공기를 가르며 구불거리는 대관령 길을 넘는 아버지 차 안에서 김현주씨(당시 19세)의 가슴은 울렁거렸다. 트렁크가 꽉 차 뒷좌석에 실은 짐가방을 그는 꼭 끌어안았다. 고향 강릉을 떠나 ‘대관령을 넘는’ 것은 오랜 바람이었다. “중·고등학교 6년 내내 목표는 강릉 밖으로 나가는 거였어요. 어쩌면 모두의 목표였겠지만요.”2008년 2월의 그날 그가 짐을 푼 곳은 경기 수원의 한 대학 기숙사. 모든 것이 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/19/l_2021101801002159000184551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
