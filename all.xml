@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,7 +129,7 @@
             <title><![CDATA[아직 0.5%에 불과하지만…이집트 바꿀 98명의 여성 판사들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202110261443001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/mideast-africa/article/202110261443001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 Oct 2021 06:11:47 GMT</pubDate>
             <content:encoded><![CDATA[2021. 10. 26]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/26/l_2021102501003127300268171.jpg" length="0" type="image/jpg"/>
         </item>
@@ -294,6 +294,14 @@
             <enclosure url="https://image.hankookilbo.com/board/fe7a104b-245e-4142-b819-78e4fbb3a939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘여자춤’과 ‘남자춤’ 사이 어디쯤에서 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9183</link>
+            <guid>https://ildaro.com/9183</guid>
+            <pubDate>Tue, 26 Oct 2021 07:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[브레이크 댄스는 그 당시 이름부터 비보잉(B-Boying)이었고 학원을 겨우 찾아가면 힘 센 남자애들밖에 없었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110261613242.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임신중지 기억부터 몸에 새겨진 낙인까지 ‘선언이 된 몸’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9182</link>
             <guid>https://ildaro.com/9182</guid>
@@ -444,14 +452,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[“‘마이너 필링스’란 일상에서 겪는 인종적 체험의 앙금이 쌓이고 내가 인식하는 현실이 끊임없이 의심받거나 무시당하는 것에 자극받아 생긴 일련의 인종화된 감...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021100426043039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이만 없는 집 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9163</link>
-            <guid>https://ildaro.com/9163</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 어린이는 알게 모르게 소외를 받고 고독을 느낀다. 어른들은 이를 단순히 ‘덜 놀아줘서’로 치부한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110033504986.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
