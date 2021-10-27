@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 09:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 10:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목화에서 옷 키우기…에코페미니스트들의 ‘슬로패션’]]></title>
+            <link>https://ildaro.com/9184</link>
+            <guid>https://ildaro.com/9184</guid>
+            <pubDate>Wed, 27 Oct 2021 10:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[재미있는 건 대표적인 패스트패션 브랜드인 H&amp;M도 중고 의류를 판매하고 재활용 소재로 옷을 만들기 시작했다는 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102726494152.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘여자춤’과 ‘남자춤’ 사이 어디쯤에서]]></title>
             <link>https://ildaro.com/9183</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[구술채록본들은 콩쥐라는 한 아이가 강인한 여성으로 자라, 죽음의 고비를 넘기고 끝내 생존하여 세상을 향해 발언하는 과정을 공들여 그리고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110055229388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이 감정들은 사소하지 않다” 비백인 여성의 문학하기]]></title>
-            <link>https://ildaro.com/9164</link>
-            <guid>https://ildaro.com/9164</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[“‘마이너 필링스’란 일상에서 겪는 인종적 체험의 앙금이 쌓이고 내가 인식하는 현실이 끊임없이 의심받거나 무시당하는 것에 자극받아 생긴 일련의 인종화된 감...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021100426043039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
