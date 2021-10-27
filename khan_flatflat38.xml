@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙태죄 폐지 후에도 '내 몸'이 '내 것'이 되지 못한 사람들]]></title>
+            <link>https://www.khan.co.kr/culture/art-architecture/article/202110271426001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/art-architecture/article/202110271426001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 27 Oct 2021 07:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘배우 김선호의 낙태 종용 사건’은 ‘낙태죄’ 폐지 이후에도 몸에 대한 여성의 자기 결정권 문제가 해결되지 못한 현실을 드러낸다. ‘폭로 여성의 진짜 정체는’이라는 보도가 나오는가 하면 ‘꽃뱀’이란 가해의 말도 등장했다.
+서울 통의동 보안1942 아트스페이스에서 진행 중인 ‘몸이 선언이 될 때’전(11월3일까지)은 여성의 성적 권리와 재생산을 국가·남성이 통제·결정해온 문제를 다룬다. 군부독재 때 ‘가족계획’이란 이름으로 많은 태아가 낙태됐다. 초음파 진단이 등장한 후엔 주로 여아들이 ‘남아선호’ 때문에 낙태됐다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/27/2021102701003485700299474.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해킹 후 개인정보 '성적 모욕글'로 바꾼 스토커, 성범죄는 아니다?]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202110271007001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -99,15 +108,6 @@
             <content:encoded><![CDATA[지난해 코로나19 탓에 124년 만에 처음으로 취소됐던 미국 보스턴 마라톤 대회가 지난 12일 개최됐다. 이날 대회 현장에선 뜻깊은 행사가 있었다. 1966년 여성 최초로 보스턴 마라톤 코스를 완주한 로버타 기브의 동상 제막식이 거행됐다.
 뉴욕타임스에 따르면 1960년대는 대회 주최 측이 여성을 생리학적으로 무능하다고 간주하고 여성의 대회 참가를 불허하던 시절이었다. 기브는 대회 관계자들에게 붙잡히지 않으려고 덤불 뒤에 숨어 있다가 경주가 시작되자 코스로 뛰어들었다. 오빠의 운동화를 빌려 신은 기브는 발의 통증이 심한데도 끝까지 달려 결승선을 통과했다. 역사가 탄생한 순간이었다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/19/2021101901002318700197612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강릉 소녀들은 '서울'이라는 무지개를 좇아 대관령을 넘었다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110191028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110191028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 19 Oct 2021 10:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘안녕히 가십시오 - 강원도(Good-bye, Gangwon-do).’
-차가운 새벽 공기를 가르며 구불거리는 대관령 길을 넘는 아버지 차 안에서 김현주씨(당시 19세)의 가슴은 울렁거렸다. 트렁크가 꽉 차 뒷좌석에 실은 짐가방을 그는 꼭 끌어안았다. 고향 강릉을 떠나 ‘대관령을 넘는’ 것은 오랜 바람이었다. “중·고등학교 6년 내내 목표는 강릉 밖으로 나가는 거였어요. 어쩌면 모두의 목표였겠지만요.”]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/19/2021101801002159000184551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

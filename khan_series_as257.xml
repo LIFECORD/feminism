@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙태죄 폐지 후에도 '내 몸'이 '내 것'이 되지 못한 사람들]]></title>
+            <link>https://www.khan.co.kr/culture/art-architecture/article/202110271426001</link>
+            <guid>https://www.khan.co.kr/culture/art-architecture/article/202110271426001</guid>
+            <pubDate>Wed, 27 Oct 2021 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘배우 김선호의 낙태 종용 사건’은 ‘낙태죄’ 폐지 이후에도 몸에 대한 여성의 자기 결정권 문제가 해결되지 못한 현실을 드러낸다. ‘폭로 여성의 진짜 정체는’이라는 보도가 나오는가 하면 ‘꽃뱀’이란 가해의 말도 등장했다.서울 통의동 보안1942 아트스페이스에서 진행 중인 ‘몸이 선언이 될 때’전(11월3일까지)은 여성의 성적 권리와 재생산을 국가·남성이 통제·결정해온 문제를 다룬다. 군부독재 때 ‘가족계획’이란 이름으로 많은 태아가 낙태됐다. 초음파 진...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/27/l_2021102701003485700299474.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해킹 후 개인정보 '성적 모욕글'로 바꾼 스토커, 성범죄는 아니다?]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202110271007001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[2017년 10월5일(현지시간). 할리우드 거물 제작자 하비 와인스타인의 성범죄를 고발한 뉴욕타임스의 보도가 미투운동의 시작을 알렸다. 여배우들과 여직원들이 30년간 원치 않은 신체적 접촉과 성희롱 심지어는 성폭행에 시달렸다는 내용의 기사는 전세계를 충격에 빠뜨렸다. 이후 영화배우 알리사 밀라노가 10월15일 처음으로 트위터에 “당신이 성희롱이나 성폭력을 당한 적이 있다면 이 트윗에 ‘미투(me too)’를 써 달라며 호소하자 단 하루만에 약 50만건의 트윗이 달렸다. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/20/l_2021101901002424100205301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갯마을 차차차'의 '사람 냄새'가 감추는 여성대상 범죄의 현실]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202110201011001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202110201011001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;갯마을 차차차&gt;는 신민아(윤혜진 역), 김선호(홍반장 역) 주연의 tvN 드라마다. 2004년 영화 &lt;어디선가 누군가에 무슨 일이 생기면 틀림없이 나타난다 홍반장&gt;을 원작으로 한다. “현실주의 치과의사 윤혜진과 만능 백수 홍반장이 짠내 사람 내음 가득한 바닷마을 ‘공진’에서 벌이는 티키타카 로맨스를 그린 드라마”라는 공식 설명처럼, 힐링과 로맨스가 잘 어우러졌다는 평가를 받으며 인기리에 방영 중이다. 신민아는 사랑스럽고 김선호는 훈훈하다. 그러나 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/20/l_2021101801002201300187921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
