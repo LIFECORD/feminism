@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 00:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 01:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해킹 후 개인정보 '성적 모욕글'로 바꾼 스토커, 성범죄는 아니다?]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202110271007001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202110271007001</guid>
+            <pubDate>Wed, 27 Oct 2021 01:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 평소 스토킹하던 여성 A씨의 국가기술자격 포털 계정에 수차례 접속해 ‘비밀번호 찾기 답변란’에 성적 모욕감을 주는 메시지를 남긴 30대 남성 B씨에 대해 성폭력 범죄의 처벌 등에 관한 특례법(성폭력처벌법)상 통신매체이용음란죄 혐의가 없다고 판단했다. 검찰은 B씨에게 A씨의 계정을 해킹한 혐의만 있다고 보고 정보통신망 이용 촉진 및 정보보호 등에 관한 법률(정보통신망법) 위반 혐의만 적용해 재판에 넘겼다.24일 경향신문 취재 결과 B씨는 2016년 2월부터...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/27/l_2021102501003154600270841.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직 0.5%에 불과하지만…이집트 바꿀 98명의 여성 판사들]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202110261443001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[&lt;갯마을 차차차&gt;는 신민아(윤혜진 역), 김선호(홍반장 역) 주연의 tvN 드라마다. 2004년 영화 &lt;어디선가 누군가에 무슨 일이 생기면 틀림없이 나타난다 홍반장&gt;을 원작으로 한다. “현실주의 치과의사 윤혜진과 만능 백수 홍반장이 짠내 사람 내음 가득한 바닷마을 ‘공진’에서 벌이는 티키타카 로맨스를 그린 드라마”라는 공식 설명처럼, 힐링과 로맨스가 잘 어우러졌다는 평가를 받으며 인기리에 방영 중이다. 신민아는 사랑스럽고 김선호는 훈훈하다. 그러나 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/20/l_2021101801002201300187921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가해자는 왜 반성하지 않을까]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202110191348001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202110191348001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 코로나19 탓에 124년 만에 처음으로 취소됐던 미국 보스턴 마라톤 대회가 지난 12일 개최됐다. 이날 대회 현장에선 뜻깊은 행사가 있었다. 1966년 여성 최초로 보스턴 마라톤 코스를 완주한 로버타 기브의 동상 제막식이 거행됐다.뉴욕타임스에 따르면 1960년대는 대회 주최 측이 여성을 생리학적으로 무능하다고 간주하고 여성의 대회 참가를 불허하던 시절이었다. 기브는 대회 관계자들에게 붙잡히지 않으려고 덤불 뒤에 숨어 있다가 경주가 시작되자 코스로 뛰어들었...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/19/l_2021101901002318700197612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
