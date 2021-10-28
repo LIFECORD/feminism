@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/20/2021101801002201300187921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아직 0.5%에 불과하지만…이집트 바꿀 98명의 여성 판사들[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/mideast-africa/article/202110261443001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/mideast-africa/article/202110261443001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 26 Oct 2021 06:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 26]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/26/l_2021102501003127300268171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[낙태죄 폐지 후에도 '내 몸'이 '내 것'이 되지 못한 사람들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/art-architecture/article/202110271426001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/art-architecture/article/202110271426001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -132,6 +124,14 @@
             <pubDate>Wed, 27 Oct 2021 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 10. 27]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/27/l_2021102501003154600270841.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝내 이해할 수 없더라도 다가서는, 김초엽이 모은 마음의 조각들[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202110281009001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202110281009001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 28 Oct 2021 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 10. 28]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/28/l_2021102701003473000298241.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끝내 이해할 수 없더라도 다가서는, 김초엽이 모은 마음의 조각들 (경향신문 ─ 연재 ─ 플랫)]]></title>
