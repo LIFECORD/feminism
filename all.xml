@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 23:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 00:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/20/l_2021101901002424100205301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['로지' '이루다' '시리' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/504</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/504</guid>
+            <pubDate>Thu, 28 Oct 2021 00:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[이들은 인공지능(AI)으로 만들어진 가상의 존재라는 공통점이 있어요. 로지는 SNS 팔로워 수가 10만 명이 넘는 인플루언서인데요. 고도의 AI와 그래픽 기술로 빚어낸 가상인간이라 사람보다 더 사람 같아 보여요. '이루다'는 올해 초에 공개된 AI 챗봇 프로그램이었죠. 그리고 '시리'는 애플에서 내놓은 AI 음성비서입니다. 이들의 공통점이 하나 더 있어요. 모두 여성이라는 점입니다]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/d88ac346-e8c4-4b13-a252-f30b2f84b05f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신은 악마가 아니라 범죄자일 뿐이다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/490</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/490</guid>
@@ -284,14 +292,6 @@
             <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
             <content:encoded><![CDATA[이슬람 근본주의 무장 조직 탈레반이 20년 만에 아프가니스탄을 탈환했다는 소식에, 국제 정세에 대한 우려만큼이나 그 곳에 삶의 터전을 두고 있는 많은 여성들에 대한 걱정이 커지고 있습니다. 많은 여성들이 사회관계망서비스(SNS)에 아프간 여성들의 소식을 공유하며 마음을 보태고 있습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e82a26a9-0c3d-40d1-b9a9-69ed90262a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니즘 감별사들의 세상 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/374</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/374</guid>
-            <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주에는 "페미니즘도 건강한 페미니즘이어야 한다"는 60대 남성 예비 대선후보의 의식을 짚어보려고 해요. 머리 모양으로 미뤄 페미니스트로 짐작된다며 올림픽 국가대표 선수에게 온라인 학대가 행해지고, 초등학교 성평등 교육이 '페미니즘 세뇌'라며 공격당하는 사회에서 남성 정치인들이 말하는 '건강한 페미니즘'은 대체 무엇일까요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/fe7a104b-245e-4142-b819-78e4fbb3a939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[목화에서 옷 키우기…에코페미니스트들의 ‘슬로패션’ (일다 ─ 전체기사)]]></title>
