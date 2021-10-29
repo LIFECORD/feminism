@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 00:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['따라하고 싶은 탄소제로'를 고민하는 낯선 예능의 탄생]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202110291009001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202110291009001</guid>
+            <pubDate>Fri, 29 Oct 2021 01:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[KBS 신규 예능 ‘오늘부터 무해하게’의 스토리는 언뜻 보면 단순하다. 에너지 자립 섬 죽도에서 ‘흔적을 남기지 않고’ 캠핑하기. 그런데 흔적을 안 남기기가 생각보다 어렵다. ‘흔적’이 그냥 쓰레기 뿐 아니라 눈에 보이지 않는 ‘탄소’ 배출을 최소화하는 것을 의미하기 때문이다. 배우 공효진과 이천희, 전혜진은 일주일 간 ‘탄소 제로’를 지향하는 캠핑을 한다. 미처 집에서 가져오지 못한 용품을 빌리거나 사려면 방송 내 화폐인 ‘그루’를 내야 하는데, 생산...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/29/l_2021102801003753300322751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[끝내 이해할 수 없더라도 다가서는, 김초엽이 모은 마음의 조각들]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202110281009001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[21일부터 스토킹처벌법이 시행된다. 반복적으로 스토킹 범죄를 저지르면 최대 징역 3년 또는 벌금 3000만원에 처한다. 흉기를 이용하면 최대 5년 징역 또는 벌금 5000만원으로 처벌이 무거워진다.스토킹처벌법에 따른 처벌의 핵심 요건은 ‘지속성’과 ‘반복성’이다. 스토킹 행위는 상대 의사에 반해 정당한 이유 없이 상대 또는 그의 가족, 동거인을 대상으로 접근하거나 진로를 막아서는 행위, 주거지나 그 부근에서 기다리거나 지켜보는 행위 등을 말한다.피해자 측이 원하...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/21/l_2021102101002791000236201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["범죄자의 팬이 됐지만 '그 사람' 때문에 울고싶진 않아"]]></title>
-            <link>https://www.khan.co.kr/culture/movie/article/202110211009001</link>
-            <guid>https://www.khan.co.kr/culture/movie/article/202110211009001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[오세연 감독(22)은 ‘성덕’이었다. 팬 사인회에 한복을 입고 나타나 스타의 눈에 띄더니, 급기야 그와 함께 TV에 출연해 직접 러브레터를 낭독하는 영광까지 누린 명실상부 ‘성공한 덕후’였다. “공부 열심히 하고 효도하라”는 스타의 말에, 전교 1등까지 냅다 꿰찬 ‘성실한 덕후’기도 했다. 문제는 그가 사랑한 스타가 정준영이라는 데 있다. 2019년 3월 폭로된 이른바 ‘정준영 단톡방’ 사건과 함께 오 감독은 졸지에 성범죄자의 팬이 됐다. 돌아보니 온통 폐허였다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/21/l_2021101801002187400186931.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
