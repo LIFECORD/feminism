@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 08:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e82a26a9-0c3d-40d1-b9a9-69ed90262a70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성산업 종사자, 나의 일상을 지키기 위한 싸움들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9186</link>
+            <guid>https://ildaro.com/9186</guid>
+            <pubDate>Fri, 29 Oct 2021 08:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[손님하고 있었던 안 좋은 일들에 대해서는 아무리 친한 친구라도 이야기를 안 했어요. 그 말을 또 듣는 게 부담스럽고 반응하기도 힘들다는 걸 서로가 아니까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102921235268.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“우리는 정당들보다 거리에서 훨씬 더 많은 것을 성취했다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9185</link>
             <guid>https://ildaro.com/9185</guid>
@@ -446,14 +454,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[머큐리 상 심사평은 ‘음악가 자신의 세계와 깊이 연결되고, 지금 영국의 삶이 담긴 다양성을 반영하고 있다’고 했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021100852096336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성관계에서 ‘좋았어?’ 질문 대신 묻고 말해야 할 것 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9166</link>
-            <guid>https://ildaro.com/9166</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[성적 행위를 하기 전에 동의를 구하거나 합의를 하는 것이 과하다는 듯이 말하지만, 실제로 계약서를 쓴다면 어떻게 될까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110061949342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
