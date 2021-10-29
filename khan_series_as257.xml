@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그레이 아나토미'의 인턴은 과장이 됐고, 나는 여전히 미드를 본다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202110291502001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202110291502001</guid>
+            <pubDate>Fri, 29 Oct 2021 06:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.나의 첫 미드는 ‘로스트’였다. 막 고3이 된 어느날, 야자 후 인터넷 강의를 찾아보다(?) 로스트를 발견했다. 추락한 비행기와 무인도, 이 많은 사람들 간 갈등과 협력과 로맨스와 배신과 어쩌구저쩌구가 영화가 아니라 드라마라구...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/29/l_2021102901003860300333333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['따라하고 싶은 탄소제로'를 고민하는 낯선 예능의 탄생]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202110291009001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[일본 센다이시에 사는 히구치 시즈에(91)는 어릴 적 아버지가 일찍 사망했다. 결혼할 때가 되자 시즈에의 어머니는 사위가 처가의 성(姓)을 따르길 원했다. 가족은 같은 성을 써야 한다는 이유에서였다. 시즈에의 예비 남편은 난색을 표했다. 일본은 메이지 시대인 1875년 성씨 사용을 의무화했고 1898년 부부가 같은 성을 쓰도록 했다. 보통 아내가 남편 성을 사용한다. 시즈에는 결국 남편 성(히구치)을 따라 쓰게 됐고 어머니에게서 원망을 들어야 했다.시즈에의 딸이자 현...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/22/l_2021102001002496200212831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 '스토킹 처벌법' 시행된다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110211640001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110211640001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[21일부터 스토킹처벌법이 시행된다. 반복적으로 스토킹 범죄를 저지르면 최대 징역 3년 또는 벌금 3000만원에 처한다. 흉기를 이용하면 최대 5년 징역 또는 벌금 5000만원으로 처벌이 무거워진다.스토킹처벌법에 따른 처벌의 핵심 요건은 ‘지속성’과 ‘반복성’이다. 스토킹 행위는 상대 의사에 반해 정당한 이유 없이 상대 또는 그의 가족, 동거인을 대상으로 접근하거나 진로를 막아서는 행위, 주거지나 그 부근에서 기다리거나 지켜보는 행위 등을 말한다.피해자 측이 원하...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/21/l_2021102101002791000236201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
