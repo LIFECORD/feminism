@@ -4,9 +4,16 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 10:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 11:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We Can’t even Call Menstruation by Its Name]]></title>
+            <link>https://ildaro.com/9187</link>
+            <guid>https://ildaro.com/9187</guid>
+            <pubDate>Sat, 30 Oct 2021 11:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[In the wake of revelations about the danger of menstrual products, a lecture called “This is your first time chatting about menstruation, isn’t it?” was held in Ulsan....]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[성산업 종사자, 나의 일상을 지키기 위한 싸움들]]></title>
             <link>https://ildaro.com/9186</link>
@@ -158,14 +165,6 @@
             <pubDate>Sat, 09 Oct 2021 00:36:00 GMT</pubDate>
             <content:encoded><![CDATA[가끔 내 20대 좋은 시절이 그 때문에 날아갔고, 그 후유증까지 합치면 나를 몇 년을 고생시키는 건가 싶기도 하지만, 그가 뭐라고 내 인생을 휘두르게 놔둔단 말인가....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110094132237.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 시대의 음악, ‘다양성’과 ‘연결’이라는 키워드]]></title>
-            <link>https://ildaro.com/9167</link>
-            <guid>https://ildaro.com/9167</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[머큐리 상 심사평은 ‘음악가 자신의 세계와 깊이 연결되고, 지금 영국의 삶이 담긴 다양성을 반영하고 있다’고 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021100852096336.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
