@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 00:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 01:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e82a26a9-0c3d-40d1-b9a9-69ed90262a70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소란 떨고 냄새피우는 여자 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9188</link>
+            <guid>https://ildaro.com/9188</guid>
+            <pubDate>Sun, 31 Oct 2021 10:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[그녀들은 소란 떨고 냄새피우며 억척스레 살아남아 그들의 집을 흔들어왔다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021103140445189.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[We Can’t even Call Menstruation by Its Name (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9187</link>
             <guid>https://ildaro.com/9187</guid>
@@ -445,14 +453,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[트랜스젠더의 삶에서 성별 위화감이나 외과적 이슈만이 있는 게 아님을, 온오프라인 상으로 살아가는 존재로서 여전히 성폭력에 취약한 상태라는 것을 알리고 싶었다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101039059159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이트폭력 경험 이후 ‘나는 달라지기로 했다’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9168</link>
-            <guid>https://ildaro.com/9168</guid>
-            <pubDate>Sat, 09 Oct 2021 00:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[가끔 내 20대 좋은 시절이 그 때문에 날아갔고, 그 후유증까지 합치면 나를 몇 년을 고생시키는 건가 싶기도 하지만, 그가 뭐라고 내 인생을 휘두르게 놔둔단 말인가....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110094132237.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
