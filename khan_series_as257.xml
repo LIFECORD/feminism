@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 00:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 01:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈이 현실이 되는 슬픔]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111011011001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111011011001</guid>
+            <pubDate>Mon, 01 Nov 2021 01:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[소설 같은 이야기였다. 1966년 방영을 시작한 미국 SF드라마 &lt;스타트렉&gt;에서 우주 함선 ‘엔터프라이즈호’를 몰았던 제임스 커크 선장이 아흔 살의 나이에 세트장이 아닌, 진짜 우주로 날아간 것이다. 외신의 표현대로 “공상 과학과 실제 과학의 수렴”이었다.&lt;스타트렉&gt;은 그 시절 미국인들에게 우주와 동의어였다. 어느 정도였는가 하면 1976년 일명 ‘트레커’라 불리는 &lt;스타트렉&gt; 팬들이 미국의 첫 우주왕복선에 ‘엔터프라이즈’라는 이름을 붙여야 한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/01/l_2021102601003315800285851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그레이 아나토미'의 인턴은 과장이 됐고, 나는 여전히 미드를 본다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202110291502001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[중앙정부 산하 544개 법정 정부위원회의 위원 가운데 여성이 차지하는 비율이 30%를 간신히 넘기는 수준인 것으로 조사됐다. 정부위원회에 당연직으로 참여하는 고위공무원단에 남성이 압도적으로 많기 때문으로, 공직사회에서 여성에 대한 ‘유리천장’이 여전히 존재하고 있다는 의미다. 그럼에도 현행 양성평등기본법은 정부위원회 구성시 당연직은 제외하고 ‘위촉직’에 한해서만 성비 불균형을 맞추도록 규정하고 있어, 법 개정이 필요하다는 목소리가 높다.권인숙 더불어민주당...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/25/l_2021102201002923200248711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['결혼하면 왜 남편 성을 따라야 하나?' 일본 여성들이 묻기 시작했다]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202110221033001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202110221033001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[일본 센다이시에 사는 히구치 시즈에(91)는 어릴 적 아버지가 일찍 사망했다. 결혼할 때가 되자 시즈에의 어머니는 사위가 처가의 성(姓)을 따르길 원했다. 가족은 같은 성을 써야 한다는 이유에서였다. 시즈에의 예비 남편은 난색을 표했다. 일본은 메이지 시대인 1875년 성씨 사용을 의무화했고 1898년 부부가 같은 성을 쓰도록 했다. 보통 아내가 남편 성을 사용한다. 시즈에는 결국 남편 성(히구치)을 따라 쓰게 됐고 어머니에게서 원망을 들어야 했다.시즈에의 딸이자 현...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/22/l_2021102001002496200212831.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
