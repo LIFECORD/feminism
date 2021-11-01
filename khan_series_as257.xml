@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 06:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 07:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무대 위' 씨엘과 '무대 밖' 채린이 함께한 씨엘의 홀로서기]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111011513001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111011513001</guid>
+            <pubDate>Mon, 01 Nov 2021 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[가수 씨엘(CL)이 홀로서기 후 첫 앨범인 ‘ALPHA(알파)’를 발매했다. “씨엘의 ‘블루 프린트’를 담았다”고 소개한 그는 이번 작업이 “독립 아티스트로서 하고 싶었던 것, 할 수 있는 것들을 자유롭게 할 수 있어서 즐거웠다”고 했다.YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리스마를 뽐내던 씨엘은 2019년 이 기획사를 떠났다. 2020년에는 ‘Very Cherry(베리 체리)’ 팀을 꾸렸다. 체리는 씨엘의 오래된 별명이다. 본명인 채린과 발음이 비슷하다. ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/01/l_2021102901003821600329681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈이 현실이 되는 슬픔]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111011011001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
             <content:encoded><![CDATA[“여자 비행사들은 화장을 하면 기분 전환이 될 수 있을 거라 생각해서 근무중 좋은 컨디션을 유지하라고 우주선에 화장품을 실어 주었습니다.”중국 인민해방군 공군 비행사이자 베테랑 우주비행사 왕야핑(王亞平·41). 그는 지난 16일 선저우 13호에 탑승해 우주 정거장 건설에 참여하는 첫 여성 우주비행사가 됐다. 두 명의 남성 우주비행사와 함께 우주로 향한 그는 앞으로 약 6개월 동안 기술 검증과 각종 장비 설치, 과학 실험 등을 수행할 예정이다.왕야핑은 한때 마...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/25/l_2021102501003124600267871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부위원회 여성 비율 '역대 최다' 43%라지만···실제론 31%]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110251043001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110251043001</guid>
-            <pubDate>Mon, 25 Oct 2021 09:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[중앙정부 산하 544개 법정 정부위원회의 위원 가운데 여성이 차지하는 비율이 30%를 간신히 넘기는 수준인 것으로 조사됐다. 정부위원회에 당연직으로 참여하는 고위공무원단에 남성이 압도적으로 많기 때문으로, 공직사회에서 여성에 대한 ‘유리천장’이 여전히 존재하고 있다는 의미다. 그럼에도 현행 양성평등기본법은 정부위원회 구성시 당연직은 제외하고 ‘위촉직’에 한해서만 성비 불균형을 맞추도록 규정하고 있어, 법 개정이 필요하다는 목소리가 높다.권인숙 더불어민주당...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/25/l_2021102201002923200248711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

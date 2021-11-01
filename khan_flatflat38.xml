@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 06:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 07:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무대 위' 씨엘과 '무대 밖' 채린이 함께한 씨엘의 홀로서기]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111011513001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111011513001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 01 Nov 2021 07:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[가수 씨엘(CL)이 홀로서기 후 첫 앨범인 ‘ALPHA(알파)’를 발매했다. “씨엘의 ‘블루 프린트’를 담았다”고 소개한 그는 이번 작업이 “독립 아티스트로서 하고 싶었던 것, 할 수 있는 것들을 자유롭게 할 수 있어서 즐거웠다”고 했다.
+YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리스마를 뽐내던 씨엘은 2019년 이 기획사를 떠났다. 2020년에는 ‘Very Cherry(베리 체리)’ 팀을 꾸렸다. 체리는 씨엘의 오래된 별명이다. 본명인 채린과 발음이 비슷하다. 이번 앨범은 오로지 베리 체리 팀과 작업한 결과물이다. 거기에 미국 유명 배우 존 말코비치의 “프리스타일 내레이션”을 더했다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/01/2021102901003821600329681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈이 현실이 되는 슬픔]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111011011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -102,15 +111,6 @@
             <pubDate>Fri, 22 Oct 2021 10:33:00 GMT</pubDate>
             <content:encoded><![CDATA[일본 센다이시에 사는 히구치 시즈에(91)는 어릴 적 아버지가 일찍 사망했다. 결혼할 때가 되자 시즈에의 어머니는 사위가 처가의 성(姓)을 따르길 원했다. 가족은 같은 성을 써야 한다는 이유에서였다. 시즈에의 예비 남편은 난색을 표했다. 일본은 메이지 시대인 1875년 성씨 사용을 의무화했고 1898년 부부가 같은 성을 쓰도록 했다. 보통 아내가 남편 성을 사용한다. 시즈에는 결국 남편 성(히구치)을 따라 쓰게 됐고 어머니에게서 원망을 들어야 했다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/22/2021102001002496200212831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 '스토킹 처벌법' 시행된다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110211640001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110211640001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[21일부터 스토킹처벌법이 시행된다. 반복적으로 스토킹 범죄를 저지르면 최대 징역 3년 또는 벌금 3000만원에 처한다. 흉기를 이용하면 최대 5년 징역 또는 벌금 5000만원으로 처벌이 무거워진다.
-스토킹처벌법에 따른 처벌의 핵심 요건은 ‘지속성’과 ‘반복성’이다. 스토킹 행위는 상대 의사에 반해 정당한 이유 없이 상대 또는 그의 가족, 동거인을 대상으로 접근하거나 진로를 막아서는 행위, 주거지나 그 부근에서 기다리거나 지켜보는 행위 등을 말한다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/21/2021102101002791000236201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
