@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갈색 ‘피부’에 담긴 정체성을 음악으로 이야기하다]]></title>
+            <link>https://ildaro.com/9190</link>
+            <guid>https://ildaro.com/9190</guid>
+            <pubDate>Tue, 02 Nov 2021 08:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[앨범명과 같은 제목의 곡 “Skin”에는 “당신에게 주어진 피부는 살기 위해 만들어진 것임을 모릅니까?”라는 가사가 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110224531420.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시 공간을 먹을 수 있는 ‘숲밭’으로 만드는 기후농부들]]></title>
             <link>https://ildaro.com/9189</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[우리는 누군가의 미래, 희망도 아니며 그렇게 되고 싶지도 않다. 우리는 정치적인 목소리를 내는 사람들이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101249189580.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시민청원 통과! ‘24만채 주택 국유화’ 베를린은 해낼까?]]></title>
-            <link>https://ildaro.com/9170</link>
-            <guid>https://ildaro.com/9170</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[로우츠베 타헤리는 이번 시민청원 결과에 대해 “베를린 시민들이 새로운 역사를 썼다”며, 독일 역사상 처음으로 거대 부동산 기업의 국유화를 위한 길에 들어선 것...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101125242558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
