@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['문턱'을 넘으려는 한국과 중국 청년 여성들의 분투]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111021538001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111021538001</guid>
+            <pubDate>Tue, 02 Nov 2021 07:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국 미디어에 종종 등장하는 중국 청년의 이미지는 과격하거나 납작할 때가 많다. 김치와 한복 등 한국 문화가 중국에서 기원했다고 인터넷상에서 억지를 부리는 20~30대 애국주의자 ‘분노청년’의 이미지가 대표적이다. 한국 아이돌을 좋아하는 중국 팬들의 극성스러운 행각도 자주 보도된다. 아이돌이 타는 항공편을 미리 알아내 옆 좌석을 한꺼번에 예약했다가 불시에 취소한다거나, 위험천만한 추격 택시를 타고 아이돌의 일정에 따라붙는 사생팬들의 일화다. 조문영 연세대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/02/l_2021110101000216000013491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“기혼여성은 친부모 아닌 시부모 부양의무자” 정한 정부지침이 개정됐다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111021043001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Oct 2021 06:12:52 GMT</pubDate>
             <content:encoded><![CDATA[이집트 최고 행정법원인 국무원에 사상 최초로 여성 판사들이 임명됐다. 이로써 이집트에서는 모든 사법기관 판사직에 여성이 진출할 수 있게 됐다. 이집트 여성들은 이번 여성 판사들의 임용으로 남성중심적이었던 각종 판결과 행정부 제도가 바뀔 수 있을 것이라고 기대하고 있다.아프리카뉴스는 20일(현지시간) 기자 국무원 건물에서 여성 판사 98명이 전날 판사 임용 선서를 마친 뒤 정식 임용됐다고 보도했다. 이날 취임한 여성 판사인 라드와 헬미는 “이것(여성 판사 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/26/l_2021102501003127300268171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["판을 바꾸는 자리까지는 무조건 버틸 생각" 여성 오마카세 셰프의 다짐]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202110260700001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202110260700001</guid>
-            <pubDate>Mon, 25 Oct 2021 23:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[[출근하는 여자들] 여성 오마카세 셰프 이슬기 75년간 도쿄의 작은 가게에서 오로지 맛과 품질에만 집중했던 오노 지로는 일본 최고의 ‘스시 장인’으로 불린다. 가업을 물려받은 그의 큰아들에게 월스트리트저널 기자가 물었다. “당신 가게에는 여자 직원이 왜 한 명도 없습니까.” 아들 장인은 진지하게 답했다. “여성이 생리를 하기 때문입니다. 배란주기에 따라 미각이 불균형하기 때문에 여성은 초밥 요리사가 될 수 없습니다.” 과학적으로 증명되지도, 사회적으로 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/26/l_2021101901002321600197886.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

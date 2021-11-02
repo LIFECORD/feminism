@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['문턱'을 넘으려는 한국과 중국 청년 여성들의 분투]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111021538001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111021538001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 02 Nov 2021 07:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[한국 미디어에 종종 등장하는 중국 청년의 이미지는 과격하거나 납작할 때가 많다. 김치와 한복 등 한국 문화가 중국에서 기원했다고 인터넷상에서 억지를 부리는 20~30대 애국주의자 ‘분노청년’의 이미지가 대표적이다. 한국 아이돌을 좋아하는 중국 팬들의 극성스러운 행각도 자주 보도된다. 아이돌이 타는 항공편을 미리 알아내 옆 좌석을 한꺼번에 예약했다가 불시에 취소한다거나, 위험천만한 추격 택시를 타고 아이돌의 일정에 따라붙는 사생팬들의 일화다. 조문영 연세대 문화인류학과 교수는 “확실히 근래 발생한 사건들이 디지털 미디어를 통해 빠르게 공론화되면서 중국의 부상을 ‘위협’으로 보는 시선에 불을 지폈다”고 말한다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/02/2021110101000216000013491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“기혼여성은 친부모 아닌 시부모 부양의무자” 정한 정부지침이 개정됐다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111021043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,14 +113,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <content:encoded><![CDATA[“여자 비행사들은 화장을 하면 기분 전환이 될 수 있을 거라 생각해서 근무중 좋은 컨디션을 유지하라고 우주선에 화장품을 실어 주었습니다.”
 중국 인민해방군 공군 비행사이자 베테랑 우주비행사 왕야핑(王亞平·41). 그는 지난 16일 선저우 13호에 탑승해 우주 정거장 건설에 참여하는 첫 여성 우주비행사가 됐다. 두 명의 남성 우주비행사와 함께 우주로 향한 그는 앞으로 약 6개월 동안 기술 검증과 각종 장비 설치, 과학 실험 등을 수행할 예정이다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/25/2021102501003124600267871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부위원회 여성 비율 '역대 최다' 43%라지만···실제론 31%]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110251043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110251043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 25 Oct 2021 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[중앙정부 산하 544개 법정 정부위원회의 위원 가운데 여성이 차지하는 비율이 30%를 간신히 넘기는 수준인 것으로 조사됐다. 정부위원회에 당연직으로 참여하는 고위공무원단에 남성이 압도적으로 많기 때문으로, 공직사회에서 여성에 대한 ‘유리천장’이 여전히 존재하고 있다는 의미다. 그럼에도 현행 양성평등기본법은 정부위원회 구성시 당연직은 제외하고 ‘위촉직’에 한해서만 성비 불균형을 맞추도록 규정하고 있어, 법 개정이 필요하다는 목소리가 높다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/25/2021102201002923200248711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
