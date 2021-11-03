@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 22:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 23:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['새 판 짜기' 함께할 동료 모집 중]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/518</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/518</guid>
+            <pubDate>Wed, 03 Nov 2021 23:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난주에 예고했듯 오늘(11월 4일) 허스토리의 새 프로젝트를 공개해요. 자신이 분투하는 곳에서 여성의 영토를 넓혀가며, 결과적으로 다른 여성을 돕는 이들의 서사를 기록하는 시리즈, '여자를 돕는 여자들(여.돕.여)' 인터뷰가 공개됐습니다. 평소에 허스토리의 SNS를 팔로우하고 계신 분들은 이미 첫 화의 주인공을 눈치채고 계셨죠?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/eac05ee4-3cb6-45b5-9705-8ecb9e6fb224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['로지' '이루다' '시리']]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/504</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 검찰은 내부 훈령에서 '성적 수치심'이라는 표현을 '성적 불쾌감'으로 바꾸기로 했는데요. 이 소식이 참 반가웠어요. 수치심에는 '스스로 떳떳하지 못함'이라는 의미가 담겨 있어서 마치 '성폭력 피해자는 떳떳하지 못해야 한다'는 굴레를 덧씌운다고 생각했거든요.이번 주 허스토리는 수치심은 피해자의 것이 아니라 바로 가해자의 것임을 보여주고 있는 이들의 이야기를 나눠보려 해요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/9ba45b96-fef4-469e-9e27-f392914367a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반 총구 앞에서 시위한 아프간 여성들]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/386</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/386</guid>
-            <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[이슬람 근본주의 무장 조직 탈레반이 20년 만에 아프가니스탄을 탈환했다는 소식에, 국제 정세에 대한 우려만큼이나 그 곳에 삶의 터전을 두고 있는 많은 여성들에 대한 걱정이 커지고 있습니다. 많은 여성들이 사회관계망서비스(SNS)에 아프간 여성들의 소식을 공유하며 마음을 보태고 있습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e82a26a9-0c3d-40d1-b9a9-69ed90262a70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
