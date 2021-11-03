@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 07:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,6 +299,14 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <enclosure url="https://image.hankookilbo.com/board/e82a26a9-0c3d-40d1-b9a9-69ed90262a70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성 연기노동자의 삶, 프리랜서는 오늘도 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9191</link>
+            <guid>https://ildaro.com/9191</guid>
+            <pubDate>Wed, 03 Nov 2021 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 여성 연기노동자를 어떻게 바라봐야 할까. 문소리 감독은 서사로, 손수현 감독은 충돌로 반항하며 표현한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110357337297.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[갈색 ‘피부’에 담긴 정체성을 음악으로 이야기하다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9190</link>
             <guid>https://ildaro.com/9190</guid>
@@ -448,14 +456,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <pubDate>Thu, 14 Oct 2021 11:35:00 GMT</pubDate>
             <content:encoded><![CDATA[전제가 같아야 웃을 수 있는 것 같아요. 전제를 만든다는 게, 말하자면 우리 입장에선 ‘내러티브 운동’인데요. 어떤 사회적 서사가 통용될 수 있도록 하는 거죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101446045403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년은 미래가 아닌, 현재 기후위기 ‘당사자’이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9171</link>
-            <guid>https://ildaro.com/9171</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 누군가의 미래, 희망도 아니며 그렇게 되고 싶지도 않다. 우리는 정치적인 목소리를 내는 사람들이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101249189580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
