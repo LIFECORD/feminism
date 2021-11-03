@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 00:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 01:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 서사다. 검은 일족의 상처가 담긴 '엄마의 역사'다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111031016001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111031016001</guid>
+            <pubDate>Wed, 03 Nov 2021 01:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[“우리가 춤을 출 때 나는 열여섯 살의 멜로디가 아니다. 오래전 엄마와 아빠가 혼외로 낳은 자식이 아니다. 나는 서사다. 하마터면 잊힐 뻔한 누군가의 이야기다. 기억이다.”2001년 봄, 미국 브루클린의 저택에선 막 열여섯이 된 멜로디를 위한 호화로운 성인식이 한창이었다. 오케스트라 선율에 맞춰 춤을 추는 멜로디는 제 몸에 흐르는 장대한 종족의 역사를 알았다. 어른들의 시선을 의식하며 멜로디의 파트너가 속삭인다. “우리는 너무나 검고 사랑스러워. 저들 모두 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/03/l_2021110101000218200013701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['문턱'을 넘으려는 한국과 중국 청년 여성들의 분투]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111021538001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Oct 2021 01:53:18 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 평소 스토킹하던 여성 A씨의 국가기술자격 포털 계정에 수차례 접속해 ‘비밀번호 찾기 답변란’에 성적 모욕감을 주는 메시지를 남긴 30대 남성 B씨에 대해 성폭력 범죄의 처벌 등에 관한 특례법(성폭력처벌법)상 통신매체이용음란죄 혐의가 없다고 판단했다. 검찰은 B씨에게 A씨의 계정을 해킹한 혐의만 있다고 보고 정보통신망 이용 촉진 및 정보보호 등에 관한 법률(정보통신망법) 위반 혐의만 적용해 재판에 넘겼다.24일 경향신문 취재 결과 B씨는 2016년 2월부터...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/27/l_2021102501003154600270841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직 0.5%에 불과하지만…이집트 바꿀 98명의 여성 판사들]]></title>
-            <link>https://www.khan.co.kr/world/mideast-africa/article/202110261443001</link>
-            <guid>https://www.khan.co.kr/world/mideast-africa/article/202110261443001</guid>
-            <pubDate>Tue, 26 Oct 2021 06:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[이집트 최고 행정법원인 국무원에 사상 최초로 여성 판사들이 임명됐다. 이로써 이집트에서는 모든 사법기관 판사직에 여성이 진출할 수 있게 됐다. 이집트 여성들은 이번 여성 판사들의 임용으로 남성중심적이었던 각종 판결과 행정부 제도가 바뀔 수 있을 것이라고 기대하고 있다.아프리카뉴스는 20일(현지시간) 기자 국무원 건물에서 여성 판사 98명이 전날 판사 임용 선서를 마친 뒤 정식 임용됐다고 보도했다. 이날 취임한 여성 판사인 라드와 헬미는 “이것(여성 판사 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/26/l_2021102501003127300268171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

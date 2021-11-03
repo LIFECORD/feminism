@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 00:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 01:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 서사다. 검은 일족의 상처가 담긴 '엄마의 역사'다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111031016001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111031016001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 03 Nov 2021 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[“우리가 춤을 출 때 나는 열여섯 살의 멜로디가 아니다. 오래전 엄마와 아빠가 혼외로 낳은 자식이 아니다. 나는 서사다. 하마터면 잊힐 뻔한 누군가의 이야기다. 기억이다.”
+2001년 봄, 미국 브루클린의 저택에선 막 열여섯이 된 멜로디를 위한 호화로운 성인식이 한창이었다. 오케스트라 선율에 맞춰 춤을 추는 멜로디는 제 몸에 흐르는 장대한 종족의 역사를 알았다. 어른들의 시선을 의식하며 멜로디의 파트너가 속삭인다. “우리는 너무나 검고 사랑스러워. 저들 모두 까맣고 파랗게 멍든 것처럼 마음이 아플 거야.”]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/03/2021110101000218200013701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['문턱'을 넘으려는 한국과 중국 청년 여성들의 분투]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111021538001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -104,15 +113,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <content:encoded><![CDATA[[출근하는 여자들] 여성 오마카세 셰프 이슬기
 75년간 도쿄의 작은 가게에서 오로지 맛과 품질에만 집중했던 오노 지로는 일본 최고의 ‘스시 장인’으로 불린다. 가업을 물려받은 그의 큰아들에게 월스트리트저널 기자가 물었다. “당신 가게에는 여자 직원이 왜 한 명도 없습니까.” 아들 장인은 진지하게 답했다. “여성이 생리를 하기 때문입니다. 배란주기에 따라 미각이 불균형하기 때문에 여성은 초밥 요리사가 될 수 없습니다.” 과학적으로 증명되지도, 사회적으로 도전받지도 않은 편견은 ‘전통’이라는 외피를 두르고 지금도 하이엔드 스시야(고급 초밥 식당)의 주방을 떠돌고 있다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/26/2021101901002321600197886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중력보다 벗어나기 힘든 '여성=화장'이라는 편견]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202110251541011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/china/article/202110251541011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 25 Oct 2021 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[“여자 비행사들은 화장을 하면 기분 전환이 될 수 있을 거라 생각해서 근무중 좋은 컨디션을 유지하라고 우주선에 화장품을 실어 주었습니다.”
-중국 인민해방군 공군 비행사이자 베테랑 우주비행사 왕야핑(王亞平·41). 그는 지난 16일 선저우 13호에 탑승해 우주 정거장 건설에 참여하는 첫 여성 우주비행사가 됐다. 두 명의 남성 우주비행사와 함께 우주로 향한 그는 앞으로 약 6개월 동안 기술 검증과 각종 장비 설치, 과학 실험 등을 수행할 예정이다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/25/2021102501003124600267871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
