@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 01:57:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성들의 리더십, 열정, 의리… 떠나는 스우파가 진짜로 남긴 것들]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111041015001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111041015001</guid>
+            <pubDate>Thu, 04 Nov 2021 01:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[“전체적으로 댄스신 분위기가 되게 업돼있는 상태예요. 너무 감사하고, 너무 좋습니다.”(허니제이)“인생의 터닝포인트”(모니카) 원래 서바이벌 프로그램은 고달프다. 그런데 지난 26일 종영한 엠넷(Mnet) 댄스 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파) 참가자들은 피말리는 서바이벌을 거치고도 제작진에게 “감사하다”는 뜻을 수차례 전했다. ‘댄서들을 조역에서 주역으로 만들겠다’는 프로그램의 기획의도가 제대로 통한 덕분이다. 초반만 해도 ‘또 서바이벌물이냐...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/04/l_2021110101000085800003701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본과 한국 사이 '1인치의 장벽'을 허물어 낸 배우 최희서]]></title>
             <link>https://www.khan.co.kr/culture/movie/article/202111031504001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Oct 2021 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[“사랑하지만 끝내 이해할 수 없는 것이 당신에게도 있지 않나요.” 김초엽의 소설집 &lt;방금 떠나온 세계&gt;에 수록된 단편 ‘로라’에서 ‘진’은 존재하지 않는 세번째 팔에 통증을 느끼는 연인 ‘로라’에 대해 이렇게 말한다. 진은 로라의 고통에 다가서려 하지만, 동시에 세번째 기계 팔을 장착해 ‘트랜스 휴먼’이 된 그의 선택에 대해서는 혼란을 느낀다. 그러나 “증강도 향상도 아닌” 그 선택을, 그 선택에 이르기까지의 고통과 고민을 이해하려는 노력까지 멈...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/28/l_2021102701003473000298241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙태죄 폐지 후에도 '내 몸'이 '내 것'이 되지 못한 사람들]]></title>
-            <link>https://www.khan.co.kr/culture/art-architecture/article/202110271426001</link>
-            <guid>https://www.khan.co.kr/culture/art-architecture/article/202110271426001</guid>
-            <pubDate>Wed, 27 Oct 2021 07:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘배우 김선호의 낙태 종용 사건’은 ‘낙태죄’ 폐지 이후에도 몸에 대한 여성의 자기 결정권 문제가 해결되지 못한 현실을 드러낸다. ‘폭로 여성의 진짜 정체는’이라는 보도가 나오는가 하면 ‘꽃뱀’이란 가해의 말도 등장했다.서울 통의동 보안1942 아트스페이스에서 진행 중인 ‘몸이 선언이 될 때’전(11월3일까지)은 여성의 성적 권리와 재생산을 국가·남성이 통제·결정해온 문제를 다룬다. 군부독재 때 ‘가족계획’이란 이름으로 많은 태아가 낙태됐다. 초음파 진...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/27/l_2021102701003485700299474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
