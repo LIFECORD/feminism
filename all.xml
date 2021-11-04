@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 02:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,20 +124,20 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/03/l_2021102901003868000333751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나는 서사다. 검은 일족의 상처가 담긴 '엄마의 역사'다[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202111031016001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202111031016001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 03 Nov 2021 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 03]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/03/l_2021110101000218200013701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[여성들의 리더십, 열정, 의리… 떠나는 스우파가 진짜로 남긴 것들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111041015001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202111041015001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 04]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/04/l_2021110101000085800003701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 서사다. 검은 일족의 상처가 담긴 '엄마의 역사'다[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111031016001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111031016001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 03 Nov 2021 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 03]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/03/l_2021110101000218200013701.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여성들의 리더십, 열정, 의리… 떠나는 스우파가 진짜로 남긴 것들 (경향신문 ─ 연재 ─ 플랫)]]></title>
