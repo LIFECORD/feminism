@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 01:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['페미니즘 단체 폐지가 범사회적 흐름?' 사라지는 대학 내 여성 기구]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111051059001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111051059001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 05 Nov 2021 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[“이건 ‘젠더 갈등’이 아니라 ‘젠더 폭력’이다.”
+지난 2일 오후 3시 서울 동작구에 있는 중앙대학교에서 총학생회 산하 성평등위원회(성평위) 폐지를 반대하는 집회가 열렸다. 성평위는 2014년 중앙대학교 총여학생회가 폐지된 뒤 총학생회 산하에 설치된 대안기구다. 집회를 주최한 ‘대학 내 백래시 규탄 공동행동’은 이번 성평위 폐지 결정이 대학사회에 만연한 반페미니즘 현상을 보여준다고 밝혔다. 공동행동 참가자들은 여성과 남성의 동등한 권리를 상징하는 장미꽃을 들고 “성평위 폐지는 학생사회의 재난”이라는 구호를 외쳤다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/05/2021110401000627600054931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성들의 리더십, 열정, 의리… 떠나는 스우파가 진짜로 남긴 것들]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111041015001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -106,14 +115,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <content:encoded><![CDATA[최근 ‘배우 김선호의 낙태 종용 사건’은 ‘낙태죄’ 폐지 이후에도 몸에 대한 여성의 자기 결정권 문제가 해결되지 못한 현실을 드러낸다. ‘폭로 여성의 진짜 정체는’이라는 보도가 나오는가 하면 ‘꽃뱀’이란 가해의 말도 등장했다.
 서울 통의동 보안1942 아트스페이스에서 진행 중인 ‘몸이 선언이 될 때’전(11월3일까지)은 여성의 성적 권리와 재생산을 국가·남성이 통제·결정해온 문제를 다룬다. 군부독재 때 ‘가족계획’이란 이름으로 많은 태아가 낙태됐다. 초음파 진단이 등장한 후엔 주로 여아들이 ‘남아선호’ 때문에 낙태됐다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/27/2021102701003485700299474.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해킹 후 개인정보 '성적 모욕글'로 바꾼 스토커, 성범죄는 아니다?]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202110271007001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202110271007001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 27 Oct 2021 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 평소 스토킹하던 여성 A씨의 국가기술자격 포털 계정에 수차례 접속해 ‘비밀번호 찾기 답변란’에 성적 모욕감을 주는 메시지를 남긴 30대 남성 B씨에 대해 성폭력 범죄의 처벌 등에 관한 특례법(성폭력처벌법)상 통신매체이용음란죄 혐의가 없다고 판단했다. 검찰은 B씨에게 A씨의 계정을 해킹한 혐의만 있다고 보고 정보통신망 이용 촉진 및 정보보호 등에 관한 법률(정보통신망법) 위반 혐의만 적용해 재판에 넘겼다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/27/2021102501003154600270841.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

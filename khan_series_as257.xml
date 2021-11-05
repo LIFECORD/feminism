@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 01:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['페미니즘 단체 폐지가 범사회적 흐름?' 사라지는 대학 내 여성 기구]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111051059001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111051059001</guid>
+            <pubDate>Fri, 05 Nov 2021 02:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[“이건 ‘젠더 갈등’이 아니라 ‘젠더 폭력’이다.”지난 2일 오후 3시 서울 동작구에 있는 중앙대학교에서 총학생회 산하 성평등위원회(성평위) 폐지를 반대하는 집회가 열렸다. 성평위는 2014년 중앙대학교 총여학생회가 폐지된 뒤 총학생회 산하에 설치된 대안기구다. 집회를 주최한 ‘대학 내 백래시 규탄 공동행동’은 이번 성평위 폐지 결정이 대학사회에 만연한 반페미니즘 현상을 보여준다고 밝혔다. 공동행동 참가자들은 여성과 남성의 동등한 권리를 상징하는 장미꽃을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/05/l_2021110401000627600054931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성들의 리더십, 열정, 의리… 떠나는 스우파가 진짜로 남긴 것들]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111041015001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Oct 2021 01:52:30 GMT</pubDate>
             <content:encoded><![CDATA[KBS 신규 예능 ‘오늘부터 무해하게’의 스토리는 언뜻 보면 단순하다. 에너지 자립 섬 죽도에서 ‘흔적을 남기지 않고’ 캠핑하기. 그런데 흔적을 안 남기기가 생각보다 어렵다. ‘흔적’이 그냥 쓰레기 뿐 아니라 눈에 보이지 않는 ‘탄소’ 배출을 최소화하는 것을 의미하기 때문이다. 배우 공효진과 이천희, 전혜진은 일주일 간 ‘탄소 제로’를 지향하는 캠핑을 한다. 미처 집에서 가져오지 못한 용품을 빌리거나 사려면 방송 내 화폐인 ‘그루’를 내야 하는데, 생산...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/29/l_2021102801003753300322751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝내 이해할 수 없더라도 다가서는, 김초엽이 모은 마음의 조각들]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202110281009001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202110281009001</guid>
-            <pubDate>Thu, 28 Oct 2021 01:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[“사랑하지만 끝내 이해할 수 없는 것이 당신에게도 있지 않나요.” 김초엽의 소설집 &lt;방금 떠나온 세계&gt;에 수록된 단편 ‘로라’에서 ‘진’은 존재하지 않는 세번째 팔에 통증을 느끼는 연인 ‘로라’에 대해 이렇게 말한다. 진은 로라의 고통에 다가서려 하지만, 동시에 세번째 기계 팔을 장착해 ‘트랜스 휴먼’이 된 그의 선택에 대해서는 혼란을 느낀다. 그러나 “증강도 향상도 아닌” 그 선택을, 그 선택에 이르기까지의 고통과 고민을 이해하려는 노력까지 멈...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/10/28/l_2021102701003473000298241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
