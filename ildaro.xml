@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:54:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조감독 응모대상이 ‘대졸 남성’이던 시대, 여성 개척자들]]></title>
+            <link>https://ildaro.com/9192</link>
+            <guid>https://ildaro.com/9192</guid>
+            <pubDate>Fri, 05 Nov 2021 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금 여성 영화인을 발굴하고자 하는 이유는 첫 번째, 영화라는 창의적인 노동에서 남녀의 기회가 전혀 균등하지 않기 때문입니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110544077770.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 연기노동자의 삶, 프리랜서는 오늘도]]></title>
             <link>https://ildaro.com/9191</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[학교에서 지금처럼 당위적인 생태환경교육, 즉 리사이클이나 제로웨이스트에만 머물러서는 안 된다고 생각한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101519187160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 커뮤니티의 ‘농담’이 모두를 웃길 수 있기를]]></title>
-            <link>https://ildaro.com/9172</link>
-            <guid>https://ildaro.com/9172</guid>
-            <pubDate>Thu, 14 Oct 2021 11:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[전제가 같아야 웃을 수 있는 것 같아요. 전제를 만든다는 게, 말하자면 우리 입장에선 ‘내러티브 운동’인데요. 어떤 사회적 서사가 통용될 수 있도록 하는 거죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101446045403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
