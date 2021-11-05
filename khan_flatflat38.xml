@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물의 숲 과몰입 중, '무임승차' 이웃들과 살아가는 기쁨]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 05 Nov 2021 08:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[[퇴근 후, 만나요] 동물의 숲 과몰입 중, ‘무임승차’ 이웃들과 살아가는 기쁨
+‘살까 말까, 살까 말까?’ 1년을 고민했다. 필요한 물건이면 고민하느니 사는 게 낫다는 여유있는 소비기준을 가졌음에도 구매를 할 수 없었던 데에는 이유가 있다. 아무 쓸모도 없는데 가지고 싶어. 하지만 단지 가지고 싶다는 이유만으로 사기엔 너무 비싸다! 게임 하나 플레이하는데 30만 원!]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/05/2021072501003528600296141.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['페미니즘 단체 폐지가 범사회적 흐름?' 사라지는 대학 내 여성 기구]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111051059001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -106,15 +115,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <content:encoded><![CDATA[“사랑하지만 끝내 이해할 수 없는 것이 당신에게도 있지 않나요.”
 김초엽의 소설집 &lt;방금 떠나온 세계&gt;에 수록된 단편 ‘로라’에서 ‘진’은 존재하지 않는 세번째 팔에 통증을 느끼는 연인 ‘로라’에 대해 이렇게 말한다. 진은 로라의 고통에 다가서려 하지만, 동시에 세번째 기계 팔을 장착해 ‘트랜스 휴먼’이 된 그의 선택에 대해서는 혼란을 느낀다. 그러나 “증강도 향상도 아닌” 그 선택을, 그 선택에 이르기까지의 고통과 고민을 이해하려는 노력까지 멈추지는 않는다. 끝내 이해할 수 없을 것을 알면서도, “광막한 우주 속을 영원토록 홀로 떠돈”(‘작가의 말’)다고 해도 타인의 세계에 다가서고 그 세계의 회복을 바라는 마음. 그런 조심스러운 마음의 조각들이 이 책에 담겼다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/28/2021102701003473000298241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙태죄 폐지 후에도 '내 몸'이 '내 것'이 되지 못한 사람들]]></title>
-            <link>https://www.khan.co.kr/culture/art-architecture/article/202110271426001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/art-architecture/article/202110271426001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 27 Oct 2021 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘배우 김선호의 낙태 종용 사건’은 ‘낙태죄’ 폐지 이후에도 몸에 대한 여성의 자기 결정권 문제가 해결되지 못한 현실을 드러낸다. ‘폭로 여성의 진짜 정체는’이라는 보도가 나오는가 하면 ‘꽃뱀’이란 가해의 말도 등장했다.
-서울 통의동 보안1942 아트스페이스에서 진행 중인 ‘몸이 선언이 될 때’전(11월3일까지)은 여성의 성적 권리와 재생산을 국가·남성이 통제·결정해온 문제를 다룬다. 군부독재 때 ‘가족계획’이란 이름으로 많은 태아가 낙태됐다. 초음파 진단이 등장한 후엔 주로 여아들이 ‘남아선호’ 때문에 낙태됐다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/10/27/2021102701003485700299474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

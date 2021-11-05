@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/05/l_2021110401000627600054931.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본과 한국 사이 '1인치의 장벽'을 허물어 낸 배우 최희서[플랫]]]></title>
-            <link>https://www.khan.co.kr/culture/movie/article/202111031504001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/movie/article/202111031504001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 03]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/03/l_2021102901003868000333751.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[동물의 숲 과몰입 중, '무임승차' 이웃들과 살아가는 기쁨[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 05]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/05/l_2021072501003528600296141.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
