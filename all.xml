@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 10:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 11:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -303,6 +303,14 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <enclosure url="https://image.hankookilbo.com/board/9ba45b96-fef4-469e-9e27-f392914367a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성소수자, 제주사람…사적인 이야기를 ‘우리의 역사’로 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9193</link>
+            <guid>https://ildaro.com/9193</guid>
+            <pubDate>Sat, 06 Nov 2021 11:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[가난하게 살았고, 이사를 자주 다녀야 해서 불필요한 건 다 버려야 했어요. 소중한 책이나 물건도요. 역사라는 것도, 있는 사람들이 가질 수 있는 거라고 생각해요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110650494337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조감독 응모대상이 ‘대졸 남성’이던 시대, 여성 개척자들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9192</link>
             <guid>https://ildaro.com/9192</guid>
@@ -452,14 +460,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[“이런 사업 운영 방식도 괜찮지 않나 싶어요. 모두의 꿈을 등에 업고 있으니 그걸 뭉개버릴 수는 없죠.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101650319621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영어실, 음악실처럼 ‘텃밭, 텃논’도 교실이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9173</link>
-            <guid>https://ildaro.com/9173</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[학교에서 지금처럼 당위적인 생태환경교육, 즉 리사이클이나 제로웨이스트에만 머물러서는 안 된다고 생각한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101519187160.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
