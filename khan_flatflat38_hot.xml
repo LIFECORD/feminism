@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[동물의 숲 과몰입 중, '무임승차' 이웃들과 살아가는 기쁨[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 05]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/05/l_2021072501003528600296141.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[트위터코리아가 '디지털 성착취의 온상'이라는 비판에 입을 열었다[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111081019001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 08]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/08/l_2021110401000614700053841.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물의 숲 과몰입 중, '무임승차' 이웃들과 살아가는 기쁨[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111051706001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 05]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/05/l_2021072501003528600296141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탈레반 재집권 후 처음으로 아프간 여성운동가가 피살됐다[플랫]]]></title>
