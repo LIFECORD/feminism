@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 07:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 08:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈레반 재집권 후 처음으로 아프간 여성운동가가 피살됐다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202111081644001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202111081644001</guid>
+            <pubDate>Mon, 08 Nov 2021 08:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[탈레반이 장악한 아프가니스탄에서 여성 인권 보장을 요구해온 20대 여성운동가를 비롯한 여성 4명이 숨진 채 발견됐다.AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 전날 성명을 통해 “마자르이샤리프에서 여성 4명을 살해한 용의자 2명을 체포했고, 용의자들로부터 여성들을 집으로 유인했다는 자백을 받았다”고 발표했다고 보도했다.앞서 영국 일간 가디언은 아프간 발흐주의 주도 마자르이샤리프의 한 병원 영안실에서 여성 활동가이자 경제학 강사인 프로잔 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/08/l_2021110801001017500091921.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터코리아가 '디지털 성착취의 온상'이라는 비판에 입을 열었다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111081019001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Nov 2021 07:11:37 GMT</pubDate>
             <content:encoded><![CDATA[가수 씨엘(CL)이 홀로서기 후 첫 앨범인 ‘ALPHA(알파)’를 발매했다. “씨엘의 ‘블루 프린트’를 담았다”고 소개한 그는 이번 작업이 “독립 아티스트로서 하고 싶었던 것, 할 수 있는 것들을 자유롭게 할 수 있어서 즐거웠다”고 했다.YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리스마를 뽐내던 씨엘은 2019년 이 기획사를 떠났다. 2020년에는 ‘Very Cherry(베리 체리)’ 팀을 꾸렸다. 체리는 씨엘의 오래된 별명이다. 본명인 채린과 발음이 비슷하다. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/01/l_2021102901003821600329681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈이 현실이 되는 슬픔]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202111011011001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202111011011001</guid>
-            <pubDate>Mon, 01 Nov 2021 01:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[소설 같은 이야기였다. 1966년 방영을 시작한 미국 SF드라마 &lt;스타트렉&gt;에서 우주 함선 ‘엔터프라이즈호’를 몰았던 제임스 커크 선장이 아흔 살의 나이에 세트장이 아닌, 진짜 우주로 날아간 것이다. 외신의 표현대로 “공상 과학과 실제 과학의 수렴”이었다.&lt;스타트렉&gt;은 그 시절 미국인들에게 우주와 동의어였다. 어느 정도였는가 하면 1976년 일명 ‘트레커’라 불리는 &lt;스타트렉&gt; 팬들이 미국의 첫 우주왕복선에 ‘엔터프라이즈’라는 이름을 붙여야 한...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/01/l_2021102601003315800285851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
