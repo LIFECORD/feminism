@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 11:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 12:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <enclosure url="https://image.hankookilbo.com/board/9ba45b96-fef4-469e-9e27-f392914367a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Don’t Express Your Feminist Thoughts if You Don’t Want to be Bullied at School? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9195</link>
+            <guid>https://ildaro.com/9195</guid>
+            <pubDate>Tue, 09 Nov 2021 12:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[Three years have passed since the bullying and harassment I experienced, but I still feel helpless against school violence [if I were to experience it again]....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110949218662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘아픈 몸’을 가지고, 당신에게 말 걸기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9194</link>
             <guid>https://ildaro.com/9194</guid>
@@ -451,14 +459,6 @@ YG엔터테인먼트 대표 걸그룹 투애니원(2NE1)의 리더로서 카리�
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[이 작품을 통해 동의/합의, 바디 포지티브(자기 몸 긍정하기), 여성의 욕망에 대해 논의해야 함을 알게 되었다고 말한 바 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101804345821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹색당 총리후보 “우리는 더 많은 것을 원했었다” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9175</link>
-            <guid>https://ildaro.com/9175</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[‘녹색 기후 히스테리’, ‘베어보크는 그의 성별 이상을 보여줄 수 없다.’ 도가 지나치다는 평가가 나올 정도로, 총선에서 젊은 여성 총리 후보에 대한 비방이 퍼졌...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101700477337.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
