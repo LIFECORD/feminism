@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 04:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 05:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["내 입장이 되어봐" 멕시코 청소년 백신접종 이끈 12세 어린이의 일침]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202111091407001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202111091407001</guid>
+            <pubDate>Tue, 09 Nov 2021 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[“내 입장이 되어봐.” 멕시코의 12세 소녀가 사회관계망서비스(SNS) 올린 2분짜리 동영상이 뒤늦게 화제가 되고 있다.멕시코뉴스데일리 등 현지매체에 따르면 줄마 곤잘레스 가르시아가 지난 9월 트위터에 올린 영상이 멕시코 어린이·청소년 코로나19 백신 접종권 논의를 촉발시켰다. 자신의 입장이 되어보라는 제목처럼 영상은 어린이·청소년의 코로나19 백신 접종권을 외면하는 멕시코의 현실을 비판했다.가르시아는 1형 당뇨를 앓고 있어 코로나19에 취약했지만, 멕시코 보건 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/09/l_2021110401000644200056031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“성차별은 싫지만 농촌은 좋으니, 여기서 계속 살려면 바꿔야죠”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111091003011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Nov 2021 07:13:05 GMT</pubDate>
             <content:encoded><![CDATA[한국 미디어에 종종 등장하는 중국 청년의 이미지는 과격하거나 납작할 때가 많다. 김치와 한복 등 한국 문화가 중국에서 기원했다고 인터넷상에서 억지를 부리는 20~30대 애국주의자 ‘분노청년’의 이미지가 대표적이다. 한국 아이돌을 좋아하는 중국 팬들의 극성스러운 행각도 자주 보도된다. 아이돌이 타는 항공편을 미리 알아내 옆 좌석을 한꺼번에 예약했다가 불시에 취소한다거나, 위험천만한 추격 택시를 타고 아이돌의 일정에 따라붙는 사생팬들의 일화다. 조문영 연세대...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/02/l_2021110101000216000013491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“기혼여성은 친부모 아닌 시부모 부양의무자” 정한 정부지침이 개정됐다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111021043001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111021043001</guid>
-            <pubDate>Tue, 02 Nov 2021 01:56:09 GMT</pubDate>
-            <content:encoded><![CDATA[질병관리청이 성별에 따라 부양의무자를 다르게 정한 ‘희귀질환자 의료비 지원사업’ 지침을 개정하라는 국가인권위원회 권고를 받아들였다.인권위는 질병청이 ‘희귀질환자 의료비 지원사업’ 대상자를 선정할 때 성별에 따라 부양의무자를 다르게 한 지침을 개정해 2022년부터 적용하겠다는 이행계획을 회신했다고 1일 밝혔다.진정인 A씨는 희귀난치병을 진단받고 보건소에서 의료비를 신청하려다 시부모의 소득내역을 제출하라는 요청을 받았다. 기혼여성은 시부모가 부양의무자가 되...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/02/l_2021110101000169600010361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
