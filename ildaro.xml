@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘폭포의 여왕’ 할머니의 실패담에 마음 끌리는 이유]]></title>
+            <link>https://ildaro.com/9196</link>
+            <guid>https://ildaro.com/9196</guid>
+            <pubDate>Wed, 10 Nov 2021 08:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[중년이라고 불리는 나이가 된 지금, 나 역시 애니처럼 앞으로 어떻게 살아야 할까, 어떻게 늙어 가야 할까 고민하곤 한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111018574661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Don’t Express Your Feminist Thoughts if You Don’t Want to be Bullied at School?]]></title>
             <link>https://ildaro.com/9195</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[누구에게나 인생에는 고비가 찾아온다. 직장 내 성희롱, 성폭력도 그런 일이었다. 상처가 남았고, 내 인생에 큰 영향을 남겼지만, 결국 그 사건은 지나갔다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101936203612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나쁜’ 성교육만 받아 본 사람들을 위한 드라마]]></title>
-            <link>https://ildaro.com/9176</link>
-            <guid>https://ildaro.com/9176</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[이 작품을 통해 동의/합의, 바디 포지티브(자기 몸 긍정하기), 여성의 욕망에 대해 논의해야 함을 알게 되었다고 말한 바 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101804345821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
