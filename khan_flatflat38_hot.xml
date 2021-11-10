@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 00:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 01:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/09/l_2021110901001153800103711.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈레반 재집권 후 처음으로 아프간 여성운동가가 피살됐다[플랫]]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202111081644001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202111081644001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 08]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/08/l_2021110801001017500091921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["내 입장이 되어봐" 멕시코 청소년 백신접종 이끈 12세 어린이의 일침[플랫]]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202111091407001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202111091407001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 09]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/09/l_2021110401000644200056031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개 깃발 휘날리며 평등길을 걷는다, 당신과 함께[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111101005001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111101005001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 10]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/10/l_2021110401000631600055181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
