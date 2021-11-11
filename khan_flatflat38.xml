@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 00:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 01:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일하고 돌보는 청소년, 우리가 외면한 존재들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111111028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111111028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 11 Nov 2021 10:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[세차장, 편의점, 미용실. 우리 주위 많은 곳에 일하는 청소년이 있다. 우리들은 택배 배달 알림음을 깜박 놓치고 1초 만에 배달 완료 문자를 삭제하듯이 일하는 청소년들의 존재를 잊는다. 그들은 급여를 착취당하기도 하고 가족 내의 환자를 돌보면서 급여와 무관한 곳에서 일하기도 한다. 저숙련 노동자로서 재해의 위험에 방치되지만 실습이 끝나면 위험은 없는 일처럼 지워진다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/11/2021110801001039100093911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무지개 깃발 휘날리며 평등길을 걷는다, 당신과 함께]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111101005001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,16 +113,6 @@ AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 �
             <pubDate>Tue, 02 Nov 2021 07:12:48 GMT</pubDate>
             <content:encoded><![CDATA[한국 미디어에 종종 등장하는 중국 청년의 이미지는 과격하거나 납작할 때가 많다. 김치와 한복 등 한국 문화가 중국에서 기원했다고 인터넷상에서 억지를 부리는 20~30대 애국주의자 ‘분노청년’의 이미지가 대표적이다. 한국 아이돌을 좋아하는 중국 팬들의 극성스러운 행각도 자주 보도된다. 아이돌이 타는 항공편을 미리 알아내 옆 좌석을 한꺼번에 예약했다가 불시에 취소한다거나, 위험천만한 추격 택시를 타고 아이돌의 일정에 따라붙는 사생팬들의 일화다. 조문영 연세대 문화인류학과 교수는 “확실히 근래 발생한 사건들이 디지털 미디어를 통해 빠르게 공론화되면서 중국의 부상을 ‘위협’으로 보는 시선에 불을 지폈다”고 말한다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/02/2021110101000216000013491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“기혼여성은 친부모 아닌 시부모 부양의무자” 정한 정부지침이 개정됐다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111021043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111021043001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 02 Nov 2021 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[질병관리청이 성별에 따라 부양의무자를 다르게 정한 ‘희귀질환자 의료비 지원사업’ 지침을 개정하라는 국가인권위원회 권고를 받아들였다.
-인권위는 질병청이 ‘희귀질환자 의료비 지원사업’ 대상자를 선정할 때 성별에 따라 부양의무자를 다르게 한 지침을 개정해 2022년부터 적용하겠다는 이행계획을 회신했다고 1일 밝혔다.
-진정인 A씨는 희귀난치병을 진단받고 보건소에서 의료비를 신청하려다 시부모의 소득내역을 제출하라는 요청을 받았다. 기혼여성은 시부모가 부양의무자가 되기 때문이다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/02/2021110101000169600010361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
