@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["생리대 유해성 공론화 공정했다" 여성의 손 들어준 법원]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111111458001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111111458001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 11 Nov 2021 06:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[여성생리대 ‘릴리안’의 제조회사 ‘깨끗한나라’가 여성환경연대와 김만구 강원대 교수 등을 상대로 낸 손해배상청구소송 1심에서 패소했다.
+여성환경연대와 김만구 강원대 환경융합학부 교수는 2017년 3월 국내 유통되는 생리대 10종의 유해물질 방출시험 결과 제품 모두에서 유해물질이 나왔다는 발표를 내놓으면서 ‘월경용품의 안정성 문제’를 공론의 장으로 이끌어냈다. 이후 ‘릴리안 부작용 논란’이 발생하면서 당시 여성환경연대가 조사한 제품 중 릴리안이 포함돼 있다는 사실이 뒤늦게 밝혀졌다. 깨끗한 나라는 논란 발생 후 릴리안 전 제품 생산을 중단하고 환불절차를 밟았다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/11/2021111101001546800139242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일하고 돌보는 청소년, 우리가 외면한 존재들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111111028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,14 +114,6 @@ AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 �
             <content:encoded><![CDATA[“우리가 춤을 출 때 나는 열여섯 살의 멜로디가 아니다. 오래전 엄마와 아빠가 혼외로 낳은 자식이 아니다. 나는 서사다. 하마터면 잊힐 뻔한 누군가의 이야기다. 기억이다.”
 2001년 봄, 미국 브루클린의 저택에선 막 열여섯이 된 멜로디를 위한 호화로운 성인식이 한창이었다. 오케스트라 선율에 맞춰 춤을 추는 멜로디는 제 몸에 흐르는 장대한 종족의 역사를 알았다. 어른들의 시선을 의식하며 멜로디의 파트너가 속삭인다. “우리는 너무나 검고 사랑스러워. 저들 모두 까맣고 파랗게 멍든 것처럼 마음이 아플 거야.”]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/03/2021110101000218200013701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['문턱'을 넘으려는 한국과 중국 청년 여성들의 분투]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202111021538001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202111021538001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 02 Nov 2021 07:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[한국 미디어에 종종 등장하는 중국 청년의 이미지는 과격하거나 납작할 때가 많다. 김치와 한복 등 한국 문화가 중국에서 기원했다고 인터넷상에서 억지를 부리는 20~30대 애국주의자 ‘분노청년’의 이미지가 대표적이다. 한국 아이돌을 좋아하는 중국 팬들의 극성스러운 행각도 자주 보도된다. 아이돌이 타는 항공편을 미리 알아내 옆 좌석을 한꺼번에 예약했다가 불시에 취소한다거나, 위험천만한 추격 택시를 타고 아이돌의 일정에 따라붙는 사생팬들의 일화다. 조문영 연세대 문화인류학과 교수는 “확실히 근래 발생한 사건들이 디지털 미디어를 통해 빠르게 공론화되면서 중국의 부상을 ‘위협’으로 보는 시선에 불을 지폈다”고 말한다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/02/2021110101000216000013491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

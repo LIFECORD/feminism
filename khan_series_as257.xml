@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["생리대 유해성 공론화 공정했다" 여성의 손 들어준 법원]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111111458001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111111458001</guid>
+            <pubDate>Thu, 11 Nov 2021 06:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[여성생리대 ‘릴리안’의 제조회사 ‘깨끗한나라’가 여성환경연대와 김만구 강원대 교수 등을 상대로 낸 손해배상청구소송 1심에서 패소했다.여성환경연대와 김만구 강원대 환경융합학부 교수는 2017년 3월 국내 유통되는 생리대 10종의 유해물질 방출시험 결과 제품 모두에서 유해물질이 나왔다는 발표를 내놓으면서 ‘월경용품의 안정성 문제’를 공론의 장으로 이끌어냈다. 이후 ‘릴리안 부작용 논란’이 발생하면서 당시 여성환경연대가 조사한 제품 중 릴리안이 포함돼 있다는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/11/l_2021111101001546800139242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일하고 돌보는 청소년, 우리가 외면한 존재들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111111028001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Nov 2021 01:57:07 GMT</pubDate>
             <content:encoded><![CDATA[“전체적으로 댄스신 분위기가 되게 업돼있는 상태예요. 너무 감사하고, 너무 좋습니다.”(허니제이)“인생의 터닝포인트”(모니카) 원래 서바이벌 프로그램은 고달프다. 그런데 지난 26일 종영한 엠넷(Mnet) 댄스 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파) 참가자들은 피말리는 서바이벌을 거치고도 제작진에게 “감사하다”는 뜻을 수차례 전했다. ‘댄서들을 조역에서 주역으로 만들겠다’는 프로그램의 기획의도가 제대로 통한 덕분이다. 초반만 해도 ‘또 서바이벌물이냐...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/04/l_2021110101000085800003701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본과 한국 사이 '1인치의 장벽'을 허물어 낸 배우 최희서]]></title>
-            <link>https://www.khan.co.kr/culture/movie/article/202111031504001</link>
-            <guid>https://www.khan.co.kr/culture/movie/article/202111031504001</guid>
-            <pubDate>Wed, 03 Nov 2021 06:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[한·일관계가 경색된 시기라는 점을 고려하면 &lt;당신은 믿지 않겠지만&gt;(감독 이시이 유야)의 제작과정은 의미심장하다. 일본 감독이 일본 자본으로 찍은 일본 영화다. 주연은 일본 배우인데, 한국 배우도 거의 동등한 분량으로 출연한다. 촬영지는 전부 한국이다. 코로나19 확산 직전인 지난해 2~3월 서울과 강원도에서 촬영했다.최희서(35)는 일본 감독·배우와 한국 배우의 가교 역할을 했다. &lt;박열&gt;(2017)에서 보여준 일본어 실력 덕분이다. 감독이 쓴 시나리오의 뉘앙...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/03/l_2021102901003868000333751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
