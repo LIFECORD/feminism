@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 12:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 13:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,6 +300,14 @@ AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 �
             <enclosure url="https://image.hankookilbo.com/board/5b07a2b0-204b-481f-96c4-c98f9d7e9e07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차별금지법 제정, 아직도 시간이 필요하다는 국회에게 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9197</link>
+            <guid>https://ildaro.com/9197</guid>
+            <pubDate>Thu, 11 Nov 2021 13:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[국회엔 정말 ‘충분한’ 시간이 없었던 것일까? 한국 사회는 여전히 차별금지법 제정을 하기에 이른 것일까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111142404870.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘폭포의 여왕’ 할머니의 실패담에 마음 끌리는 이유 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9196</link>
             <guid>https://ildaro.com/9196</guid>
@@ -449,14 +457,6 @@ AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 �
             <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
             <content:encoded><![CDATA[결국 이들의 말은 한마디로 요약된다. “삼국지는 그런 이야기가 아닙니다.” 이때 슬쩍 묻고 싶어지는 것이다. “이 이야기가 당신 것인가요?”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102004585419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성희롱 가해자가 사장님의 아들이었다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9177</link>
-            <guid>https://ildaro.com/9177</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[누구에게나 인생에는 고비가 찾아온다. 직장 내 성희롱, 성폭력도 그런 일이었다. 상처가 남았고, 내 인생에 큰 영향을 남겼지만, 결국 그 사건은 지나갔다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021101936203612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
