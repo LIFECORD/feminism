@@ -4,9 +4,25 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 08:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 09:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['먹방같은 걸 왜 보냐'던 내가 침대에 누워 먹방을 보는 이유]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111121722001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111121722001</guid>
+            <pubDate>Fri, 12 Nov 2021 09:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.“모두모두 어서오세요. 오늘도 수고하셨어요. 저녁은 뭐 드셨어요?”평일 밤 10시 즈음, 유튜브 피드에 ‘먹는 중’ 이미지가 뜨면 부리나케 클릭한다. 입짧은햇님, 그러니까 햇님 언니의 먹방 라이브가 시작됐다는 뜻이다. 늘 그렇...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/12/l_2021111201001683000150851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안티페미니즘이 휩쓰는 대선, 음소거된 여성들의 목소리]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202111121720001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202111121720001</guid>
+            <pubDate>Fri, 12 Nov 2021 09:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘안티 페미니즘’이 대선 정국을 휩쓸고 있다. 윤석열 국민의힘 후보는 성폭력 무고죄 처벌 강화를 ‘청년 공약’으로 내놓았고, 이재명 더불어민주당 후보는 “민주당이 페미니즘과 거리를 둬야한다”는 취지의 글을 ‘경청할만한 의견’으로 소개했다. 2030 남성 표심을 잡겠다는 전략적 판단이다. 그 사이 청년 여성들의 목소리는 소외되고 있다.▼구호 넘어 공약에도 반영되는 ‘반페미니즘’▲이재명 더불어민주당 후보는 지난 10일 사회관계망서비스(SNS)에 ‘홍카단이 이 후...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/12/l_2021111201001707800153011.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["생리대 유해성 공론화 공정했다" 여성의 손 들어준 법원]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111111458001</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 05 Nov 2021 08:11:51 GMT</pubDate>
             <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.[퇴근 후, 만나요] 동물의 숲 과몰입 중, ‘무임승차’ 이웃들과 살아가는 기쁨 ‘살까 말까, 살까 말까?’ 1년을 고민했다. 필요한 물건이면 고민하느니 사는 게 낫다는 여유있는 소비기준을 가졌음에도 구매를 할 수 없었던 데...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/05/l_2021072501003528600296141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['페미니즘 단체 폐지가 범사회적 흐름?' 사라지는 대학 내 여성 기구]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111051059001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111051059001</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[“이건 ‘젠더 갈등’이 아니라 ‘젠더 폭력’이다.”지난 2일 오후 3시 서울 동작구에 있는 중앙대학교에서 총학생회 산하 성평등위원회(성평위) 폐지를 반대하는 집회가 열렸다. 성평위는 2014년 중앙대학교 총여학생회가 폐지된 뒤 총학생회 산하에 설치된 대안기구다. 집회를 주최한 ‘대학 내 백래시 규탄 공동행동’은 이번 성평위 폐지 결정이 대학사회에 만연한 반페미니즘 현상을 보여준다고 밝혔다. 공동행동 참가자들은 여성과 남성의 동등한 권리를 상징하는 장미꽃을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/05/l_2021110401000627600054931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성들의 리더십, 열정, 의리… 떠나는 스우파가 진짜로 남긴 것들]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202111041015001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202111041015001</guid>
-            <pubDate>Thu, 04 Nov 2021 01:57:07 GMT</pubDate>
-            <content:encoded><![CDATA[“전체적으로 댄스신 분위기가 되게 업돼있는 상태예요. 너무 감사하고, 너무 좋습니다.”(허니제이)“인생의 터닝포인트”(모니카) 원래 서바이벌 프로그램은 고달프다. 그런데 지난 26일 종영한 엠넷(Mnet) 댄스 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파) 참가자들은 피말리는 서바이벌을 거치고도 제작진에게 “감사하다”는 뜻을 수차례 전했다. ‘댄서들을 조역에서 주역으로 만들겠다’는 프로그램의 기획의도가 제대로 통한 덕분이다. 초반만 해도 ‘또 서바이벌물이냐...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/04/l_2021110101000085800003701.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
