@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 23:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 00:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/12/l_2021111201001707800153011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['먹방같은 걸 왜 보냐'던 내가 침대에 누워 먹방을 보는 이유[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111121722001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111121722001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 12]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/12/l_2021111201001683000150851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["생리대 유해성 공론화 공정했다" 여성의 손 들어준 법원[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111111458001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202111111458001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 11]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/11/l_2021111101001546800139242.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['먹방같은 걸 왜 보냐'던 내가 침대에 누워 먹방을 보는 이유[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111121722001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111121722001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 12]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/12/l_2021111201001683000150851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
