@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 12:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 13:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,6 +300,14 @@ AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 �
             <enclosure url="https://image.hankookilbo.com/board/5b07a2b0-204b-481f-96c4-c98f9d7e9e07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본의 미투(#MeToo)는 이렇게 시작됐다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9199</link>
+            <guid>https://ildaro.com/9199</guid>
+            <pubDate>Sat, 13 Nov 2021 13:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[플라워 시위에 참여한 사람들은 99% 여성이었고, 세대도 폭넓은 사람들이 왔어요. 모두 자신의 이야기를 시작하는데. 그때 아 드디어 시작했구나 라고 느낀 순간이었어...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111328372182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자들의 해방과 욕망을 찾아서: 섹스굿즈에서 한류까지 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9198</link>
             <guid>https://ildaro.com/9198</guid>
@@ -449,14 +457,6 @@ AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 �
             <pubDate>Fri, 22 Oct 2021 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[지역 사회에서 상당수의 사람들이 폐쇄적이고 가부장적인 관계망의 구조에 대해 환멸과 실망감을 공유하고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102244347511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Listening to the Life Stories of Women Storekeepers, Listening to the Times (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9179</link>
-            <guid>https://ildaro.com/9179</guid>
-            <pubDate>Sat, 23 Oct 2021 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[I hope that the readers will first pay attention to the list of women storekeepers....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110212544340.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
