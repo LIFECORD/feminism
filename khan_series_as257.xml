@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 00:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 01:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기후위기와 불평등, 25살 우간다 활동가에겐 별개의 문제가 아니었다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202111151018011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202111151018011</guid>
+            <pubDate>Mon, 15 Nov 2021 01:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[스물다섯 살 우간다 여성이 기후위기로부터 아프리카를 구하기 위해 나섰다. 기후정의 활동가 버네사 나카테는 지난 5일(현지시간) 제26차 유엔 기후변화협약 당사국총회(COP26)가 열린 영국 글래스고에서 시민들과 함께 시위에 참여했다. 그는 “기후위기는 바로 여기에 있다”며 세계 정상들의 보다 적극적인 대응을 요구했다. 개발도상국 출신 나카테에게 기후위기는 미래가 아닌 지금 당장 몸소 겪고 있는 일이기 때문이다.우간다에서는 기후위기로 인한 피해가 일상적으로 일...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/15/l_2021111501001910300171841.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['먹방같은 걸 왜 보냐'던 내가 침대에 누워 먹방을 보는 이유]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111121722001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Nov 2021 01:52:36 GMT</pubDate>
             <content:encoded><![CDATA[트위터코리아가 3일 한국 기자들을 대상으로 한 첫 ‘정책 브리핑’을 열고 디지털 성범죄·불법 콘텐츠 유통 문제 등에 대한 입장을 밝혔다. 트위터코리아는 내년 대선을 대비해 전담팀(TF)을 꾸린다는 구상도 밝혔다.그간 트위터는 성착취물·마약 판매 등 불법 콘텐츠 유통의 온상으로 지목돼 왔다. 윤채은 트위터코리아 공공정책 총괄 상무는 이같은 지적에 “(공공정책) 업무를 4년 동안 해보니 왜 그렇게 느끼시는가에 대해선 알겠더라”며 “콘텐츠 이용이 자유롭고, 검색이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/08/l_2021110401000614700053841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물의 숲 과몰입 중, '무임승차' 이웃들과 살아가는 기쁨]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111051706001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111051706001</guid>
-            <pubDate>Fri, 05 Nov 2021 08:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.[퇴근 후, 만나요] 동물의 숲 과몰입 중, ‘무임승차’ 이웃들과 살아가는 기쁨 ‘살까 말까, 살까 말까?’ 1년을 고민했다. 필요한 물건이면 고민하느니 사는 게 낫다는 여유있는 소비기준을 가졌음에도 구매를 할 수 없었던 데...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/05/l_2021072501003528600296141.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
