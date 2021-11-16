@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 04:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성평등 대신 '남'과 '여'만 있는 대선]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202111161349001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202111161349001</guid>
+            <pubDate>Tue, 16 Nov 2021 05:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[“페미니즘을 선거와 집권 연장에 유리하게 해선 안 된다”(윤석열, 8월2일 국민의힘 초선 의원 모임서 발언) “민주당은 각종 페미니즘 정책으로 남자들을 역차별했다”(이재명, 11월8일 당 중앙선거대책위 회의서 커뮤니티글 공유) ‘반페미니즘’ 부추기는 게시물 공유, 성폭력에 대한 무고죄 신설, 여성가족부 명칭 변경·기능 조정…거대 양당의 대선후보인 이재명 더불어민주당 후보와 윤석열 국민의힘 후보가 최근 보여온 젠더·성평등 관련 발언·행보들이다. 사회 통합을 위한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/16/l_2021111601002078800186932.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['좋은 학교'에 발을 들이면 끝일 줄 알았는데]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111161016001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Nov 2021 05:10:32 GMT</pubDate>
             <content:encoded><![CDATA[“내 입장이 되어봐.” 멕시코의 12세 소녀가 사회관계망서비스(SNS) 올린 2분짜리 동영상이 뒤늦게 화제가 되고 있다.멕시코뉴스데일리 등 현지매체에 따르면 줄마 곤잘레스 가르시아가 지난 9월 트위터에 올린 영상이 멕시코 어린이·청소년 코로나19 백신 접종권 논의를 촉발시켰다. 자신의 입장이 되어보라는 제목처럼 영상은 어린이·청소년의 코로나19 백신 접종권을 외면하는 멕시코의 현실을 비판했다.가르시아는 1형 당뇨를 앓고 있어 코로나19에 취약했지만, 멕시코 보건 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/09/l_2021110401000644200056031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“성차별은 싫지만 농촌은 좋으니, 여기서 계속 살려면 바꿔야죠”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111091003011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111091003011</guid>
-            <pubDate>Tue, 09 Nov 2021 01:53:01 GMT</pubDate>
-            <content:encoded><![CDATA[“2년 내내 같은 길을 매일 걷는데 질리지가 않는 거예요. 강은 계절마다 다르니까요. 도시보다 더디고 느리지만 그래서 좋아요. 나처럼 살 수도 있다는 걸 알려주고 싶어요.”서울역을 출발한 지 2시간, 비좁은 열차에서 내리자 탁 트인 평야 너머로 정좌한 지리산이 낯선 이를 맞이했다. 전남 곡성이다. 자전거를 타고 느릿하게 일터로 향하는 농부 옆에서 곡성천이 천천히 섬진강 쪽으로 흘렀다.서울에서 나고 자란 손지현씨(27)는 곡성에 반해 2년째 살고 있다. 지역에서...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/09/l_2021110901001153800103711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
