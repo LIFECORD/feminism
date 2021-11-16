@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 11:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 12:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short Hair and Necktie: Girl Who Was Dressed Like Boy]]></title>
+            <link>https://ildaro.com/9201</link>
+            <guid>https://ildaro.com/9201</guid>
+            <pubDate>Tue, 16 Nov 2021 12:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[I look in the mirror. What I see is unfamiliar. Awkward. My hair, cut short last week, bothers me....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111609543863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무수한 ‘나’와 ‘너’가 서로에게 말을 걸 때]]></title>
             <link>https://ildaro.com/9200</link>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 25 Oct 2021 08:39:00 GMT</pubDate>
             <content:encoded><![CDATA[입구에 들어서자마자 만나게 되는 강렬한 포스터 이미지 “I WAS NEVER YOURS”(난 한번도 당신의 것이었던 적이 없다)에 잠시 매료된다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110255428481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 세계에서 돌 만드는 여자, 메두사]]></title>
-            <link>https://ildaro.com/9181</link>
-            <guid>https://ildaro.com/9181</guid>
-            <pubDate>Sat, 23 Oct 2021 10:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[“애기들 맘에는 돌 같은 거 안 쌓이게 해주소. 내가 많아 알아. 돌은 아무리 울어도 안 깨져.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110234026612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
