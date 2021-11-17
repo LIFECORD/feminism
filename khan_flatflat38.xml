@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 03:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강유미와 안영미를 동경하던 연기학도, 주현영이 그려가는 코미디의 미래]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111171014001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111171014001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 17 Nov 2021 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 주현영은 과연 ‘인턴기자 주현영’과는 달랐다. 말간 얼굴을 가진 배우 주현영은 자신의 생각을 차분하면서도 명료하게 말할 줄 아는 멋진 20대였다. 뛰어난 연기자라는 것을 직감할 수 있었다. 그는 신중하게 단어를 골랐고, 흐트러짐 없는 문장으로 질문들에 답했다. 쿠팡플레이 &lt;SNL 코리아&gt;의 주현영 인턴기자를 연기한 주현영을 8일 이 프로그램 제작사가 있는 서울 마포구 에이스토리에서 만났다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/17/2021111701002233200200401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성평등 대신 '남'과 '여'만 있는 대선]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202111161349001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -103,15 +111,6 @@
             <content:encoded><![CDATA[“2년 내내 같은 길을 매일 걷는데 질리지가 않는 거예요. 강은 계절마다 다르니까요. 도시보다 더디고 느리지만 그래서 좋아요. 나처럼 살 수도 있다는 걸 알려주고 싶어요.”
 서울역을 출발한 지 2시간, 비좁은 열차에서 내리자 탁 트인 평야 너머로 정좌한 지리산이 낯선 이를 맞이했다. 전남 곡성이다. 자전거를 타고 느릿하게 일터로 향하는 농부 옆에서 곡성천이 천천히 섬진강 쪽으로 흘렀다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/09/2021110901001153800103711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반 재집권 후 처음으로 아프간 여성운동가가 피살됐다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202111081644001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202111081644001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 08 Nov 2021 08:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[탈레반이 장악한 아프가니스탄에서 여성 인권 보장을 요구해온 20대 여성운동가를 비롯한 여성 4명이 숨진 채 발견됐다.
-AFP통신은 7일 카리 사예드 호스티 탈레반 내무부 대변인이 전날 성명을 통해 “마자르이샤리프에서 여성 4명을 살해한 용의자 2명을 체포했고, 용의자들로부터 여성들을 집으로 유인했다는 자백을 받았다”고 발표했다고 보도했다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/08/2021110801001017500091921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

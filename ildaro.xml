@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 03:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로 노점상 김종분, 노년 여성의 노동과 삶에 담긴 역사]]></title>
+            <link>https://ildaro.com/9202</link>
+            <guid>https://ildaro.com/9202</guid>
+            <pubDate>Wed, 17 Nov 2021 11:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울 지하철 왕십리역 11번 출구 앞에서 노점상을 하는 김종분 씨는 80대 여성이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111733484866.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Short Hair and Necktie: Girl Who Was Dressed Like Boy]]></title>
             <link>https://ildaro.com/9201</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 26 Oct 2021 07:11:36 GMT</pubDate>
             <content:encoded><![CDATA[브레이크 댄스는 그 당시 이름부터 비보잉(B-Boying)이었고 학원을 겨우 찾아가면 힘 센 남자애들밖에 없었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021103102471957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임신중지 기억부터 몸에 새겨진 낙인까지 ‘선언이 된 몸’]]></title>
-            <link>https://ildaro.com/9182</link>
-            <guid>https://ildaro.com/9182</guid>
-            <pubDate>Mon, 25 Oct 2021 08:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[입구에 들어서자마자 만나게 되는 강렬한 포스터 이미지 “I WAS NEVER YOURS”(난 한번도 당신의 것이었던 적이 없다)에 잠시 매료된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/202110255428481.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
