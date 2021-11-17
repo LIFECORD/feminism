@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 06:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 08:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이 중사 사건 불구속 수사, 공군 법무실장이 직접 지시했다"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111171626001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111171626001</guid>
+            <pubDate>Wed, 17 Nov 2021 08:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[실장님이 다 생각이 있으셨겠지. 직접 불구속 지휘하는데 뭐 어쩌라고? 입단속이나 잘해” 전익수 공군 법무실장이 공군 성추행 피해자 고 이예람 중사 사망 사건 수사를 무마하려 했다는 주장이 나왔다. 전 실장이 수사 초기 직접 가해자에 대한 불구속 수사를 지휘했다는 것이다.군인권센터는 17일 마포구 센터 건물에서 기자회견을 열고 군검사들이 나눈 대화 녹취록을 공개했다. 임태훈 소장은 “녹취록에 따르면 전 실장이 수사 초기 직접 가해자에 대한 불구속 수사를...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/17/l_2021111701002315600206622.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 공산당 고위 간부를 고발한 테니스 스타의 첫 #미투]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202111171423001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Nov 2021 06:15:11 GMT</pubDate>
             <content:encoded><![CDATA[여성생리대 ‘릴리안’의 제조회사 ‘깨끗한나라’가 여성환경연대와 김만구 강원대 교수 등을 상대로 낸 손해배상청구소송 1심에서 패소했다.여성환경연대와 김만구 강원대 환경융합학부 교수는 2017년 3월 국내 유통되는 생리대 10종의 유해물질 방출시험 결과 제품 모두에서 유해물질이 나왔다는 발표를 내놓으면서 ‘월경용품의 안정성 문제’를 공론의 장으로 이끌어냈다. 이후 ‘릴리안 부작용 논란’이 발생하면서 당시 여성환경연대가 조사한 제품 중 릴리안이 포함돼 있다는 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/11/l_2021111101001546800139242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일하고 돌보는 청소년, 우리가 외면한 존재들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111111028001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111111028001</guid>
-            <pubDate>Thu, 11 Nov 2021 01:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[세차장, 편의점, 미용실. 우리 주위 많은 곳에 일하는 청소년이 있다. 우리들은 택배 배달 알림음을 깜박 놓치고 1초 만에 배달 완료 문자를 삭제하듯이 일하는 청소년들의 존재를 잊는다. 그들은 급여를 착취당하기도 하고 가족 내의 환자를 돌보면서 급여와 무관한 곳에서 일하기도 한다. 저숙련 노동자로서 재해의 위험에 방치되지만 실습이 끝나면 위험은 없는 일처럼 지워진다. 보호자와 고리가 끊어졌다는 것을 간파한 이들에게 폭력이나 성범죄의 표적이 되기도 한다....]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/11/l_2021110801001039100093911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
