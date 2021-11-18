@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 07:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 08:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111181617011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111181617011</guid>
+            <pubDate>Thu, 18 Nov 2021 08:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[최근의 나는 성추행 피해를 거의 입지 않는다. 대학생 때까지 버스, 지하철 안에서 성추행당했던 일들이 종종 있었고, 대학병원에서 일하던 수련의 시절에도 남자 환자로부터 성추행을 당했던 적이 있다. 한창 성추행을 많이 겪던 시절에는 대중교통만 타도 몸을 사리곤 했는데, 요즘은 ‘성추행’을 떠올리는 일조차 드물다. 이럴 때 ‘와, 요즘은 성추행이 줄었네?’라고 생각하면 안 된다. ‘왜 나에게 성추행이 덜 일어날까?’ 생각해야 한다. ‘세상 참 좋아졌어’라는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/18/l_2021111701002249000201911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄마의 노동을 값싸게 사려는 대형마트, 그들에게 시간을 빼앗긴 여자들]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202111181031001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Nov 2021 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.“모두모두 어서오세요. 오늘도 수고하셨어요. 저녁은 뭐 드셨어요?”평일 밤 10시 즈음, 유튜브 피드에 ‘먹는 중’ 이미지가 뜨면 부리나케 클릭한다. 입짧은햇님, 그러니까 햇님 언니의 먹방 라이브가 시작됐다는 뜻이다. 늘 그렇...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/12/l_2021111201001683000150851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안티페미니즘이 휩쓰는 대선, 음소거된 여성들의 목소리]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202111121720001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202111121720001</guid>
-            <pubDate>Fri, 12 Nov 2021 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[‘안티 페미니즘’이 대선 정국을 휩쓸고 있다. 윤석열 국민의힘 후보는 성폭력 무고죄 처벌 강화를 ‘청년 공약’으로 내놓았고, 이재명 더불어민주당 후보는 “민주당이 페미니즘과 거리를 둬야한다”는 취지의 글을 ‘경청할만한 의견’으로 소개했다. 2030 남성 표심을 잡겠다는 전략적 판단이다. 그 사이 청년 여성들의 목소리는 소외되고 있다.▼구호 넘어 공약에도 반영되는 ‘반페미니즘’▲이재명 더불어민주당 후보는 지난 10일 사회관계망서비스(SNS)에 ‘홍카단이 이 후...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/12/l_2021111201001707800153011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

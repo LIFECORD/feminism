@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 07:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 08:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[중국 공산당 고위 간부를 고발한 테니스 스타의 첫 #미투[플랫]]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202111171423001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202111171423001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 17]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/17/l_2021111701002282100204601.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA["이 중사 사건 불구속 수사, 공군 법무실장이 직접 지시했다" [플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111171626001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111801002428600216951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111701002249000201911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
