@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 00:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["악플을 모아 전시회를 열어볼까요?"]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/541</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/541</guid>
+            <pubDate>Thu, 18 Nov 2021 01:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 드디어 '여자를 돕는 여자들(여.돕.여)' 크라우드 펀딩이 열렸습니다! 18일 오전 9시부터 시작되는 크라우드 펀딩은 12월 23일까지 35일간 진행됩니다. 지금을 살아가는 여러분들께 어떤 여성의 이야기가 필요할까 고민하면서, 매 회마다 진심을 꾹꾹 눌러 담았어요. 그리고 이 문장이 우리를 단단하게 엮는 하나의 열쇳말이 되기를 바라요. "당신을 도운 여성은 누구인가요?"]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c4899ca6-19be-4c7f-89b7-6aeccb521590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자도 총리 할 수 있나요?]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/529</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
             <content:encoded><![CDATA[여성들에게 백신 접종은 또 다른 두려움으로 다가왔습니다. 백신 접종 후 부정출혈, 월경 주기 이상 등의 증세를 겪을 수 있기 때문이에요. 질병관리청은 예방접종 후 나타날 수 있는 '흔한' 이상반응으로 접종부위 통증, 발열, 피로감, 두통 등을 안내하고 있는데요. 왜 부정출혈이나 월경 주기 이상은 미리 안내되지 않았을까요? 더 사소한 증상이기 때문일까요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/08a2dfca-e83f-40ed-9069-c079caebc2e6.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[여자들을 살려내라]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/412</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/412</guid>
-            <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 허스토리는 8월 한 달 동안 보도된 세상을 떠난 여성들에 대한 부고로 내용을 채웠어요. 다만, 보통의 부고 기사처럼 망자가 누구인지에 주목하지 않을 거예요. 대신 '어떻게' 죽었는지에 집중합니다. 누군가는 죽임 당했고, 누군가는 죽음으로 내몰렸습니다. 그러나 이 모든 형태의 죽음은 여성 혐오 사회가 만들어낸 '가해의 결과'였습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/5b07a2b0-204b-481f-96c4-c98f9d7e9e07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 00:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마의 노동을 값싸게 사려는 대형마트, 그들에게 시간을 빼앗긴 여자들]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202111181031001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202111181031001</guid>
+            <pubDate>Thu, 18 Nov 2021 01:53:03 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부에서 주 52시간제를 확대하고 노동시간 단축에 대대적으로 나서면서, 어떤 사람들의 삶은 확실히 나아진 것처럼 보였다. 2018년 7월, 공공기관 및 공기업과 300인 이상 사업장을 대상으로 52시간제가 처음 시행됐다. 1년이 지나자 언론에서는 미담이 쏟아졌다. 더 일하고 싶은데 업무용 PC가 꺼지고 인사팀으로부터 정시에 퇴근하라는 기분 좋은 눈치를 받는다는 사무직 노동자들의 사연이 담긴 기사가 포털 사이트를 장식했다. 동네 피트니스센터와 요가 학원이 일...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/18/l_2021111801002428600216951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 중사 사건 불구속 수사, 공군 법무실장이 직접 지시했다"]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111171626001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Nov 2021 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[‘안티 페미니즘’이 대선 정국을 휩쓸고 있다. 윤석열 국민의힘 후보는 성폭력 무고죄 처벌 강화를 ‘청년 공약’으로 내놓았고, 이재명 더불어민주당 후보는 “민주당이 페미니즘과 거리를 둬야한다”는 취지의 글을 ‘경청할만한 의견’으로 소개했다. 2030 남성 표심을 잡겠다는 전략적 판단이다. 그 사이 청년 여성들의 목소리는 소외되고 있다.▼구호 넘어 공약에도 반영되는 ‘반페미니즘’▲이재명 더불어민주당 후보는 지난 10일 사회관계망서비스(SNS)에 ‘홍카단이 이 후...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/12/l_2021111201001707800153011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["생리대 유해성 공론화 공정했다" 여성의 손 들어준 법원]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111111458001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111111458001</guid>
-            <pubDate>Thu, 11 Nov 2021 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[여성생리대 ‘릴리안’의 제조회사 ‘깨끗한나라’가 여성환경연대와 김만구 강원대 교수 등을 상대로 낸 손해배상청구소송 1심에서 패소했다.여성환경연대와 김만구 강원대 환경융합학부 교수는 2017년 3월 국내 유통되는 생리대 10종의 유해물질 방출시험 결과 제품 모두에서 유해물질이 나왔다는 발표를 내놓으면서 ‘월경용품의 안정성 문제’를 공론의 장으로 이끌어냈다. 이후 ‘릴리안 부작용 논란’이 발생하면서 당시 여성환경연대가 조사한 제품 중 릴리안이 포함돼 있다는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/11/l_2021111101001546800139242.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
