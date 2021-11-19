@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,20 +114,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/12/2021111201001707800153011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 18 Nov 2021 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111701002249000201911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엄마의 노동을 값싸게 사려는 대형마트, 그들에게 시간을 빼앗긴 여자들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202111181031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/book/article/202111181031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 18 Nov 2021 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111801002428600216951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 18 Nov 2021 08:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111701002249000201911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[90년대생 여성 노동자 "우리는 일에 진심이다"[플랫] (경향신문 ─ 플랫)]]></title>
@@ -298,6 +298,14 @@
             <enclosure url="https://image.hankookilbo.com/board/08a2dfca-e83f-40ed-9069-c079caebc2e6.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[국제사회는 아프간 여성들의 저항에 연대하라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9203</link>
+            <guid>https://ildaro.com/9203</guid>
+            <pubDate>Fri, 19 Nov 2021 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[9.11 충격 등으로 아프간은 갑자기 국제적으로 높은 관심을 받기 시작했지만, 그것은 2003년 봄 이라크전쟁이 시작될 때까지의 일시적인 것에 불과했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111952306207.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[프로 노점상 김종분, 노년 여성의 노동과 삶에 담긴 역사 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9202</link>
             <guid>https://ildaro.com/9202</guid>
@@ -447,14 +455,6 @@
             <pubDate>Wed, 27 Oct 2021 10:11:59 GMT</pubDate>
             <content:encoded><![CDATA[재미있는 건 대표적인 패스트패션 브랜드인 H&amp;M도 중고 의류를 판매하고 재활용 소재로 옷을 만들기 시작했다는 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102726494152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여자춤’과 ‘남자춤’ 사이 어디쯤에서 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9183</link>
-            <guid>https://ildaro.com/9183</guid>
-            <pubDate>Tue, 26 Oct 2021 07:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[브레이크 댄스는 그 당시 이름부터 비보잉(B-Boying)이었고 학원을 겨우 찾아가면 힘 센 남자애들밖에 없었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021103102471957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
