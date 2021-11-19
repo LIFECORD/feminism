@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 00:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 01:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[90년대생 여성 노동자 "우리는 일에 진심이다"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111191022001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111191022001</guid>
+            <pubDate>Fri, 19 Nov 2021 01:53:39 GMT</pubDate>
+            <content:encoded><![CDATA[청년 여성 노동자들은 ‘일’을 독립적인 인간으로 살기 위한 수단이며, 존재의 가치를 증명하는 활동으로 생각하는 것으로 나타났다. 이들은 일을 인생의 ‘디폴트(기본값)’라고 생각하며, 결혼과 출산은 삶의 부수적인 부분이라고 여겼다.한국여성노동자회는 이 같은 결과가 담긴 90년대생 여성노동자 4632명에 대한 온라인 설문조사와 19명에 대한 심층 인터뷰 결과를 16일 발표했다. 인터뷰 등은 저임금 및 단기 고용관계를 맺고 있는 2차 노동시장 노동자를 중심으로 했다....]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/19/l_2021111701002266400203781.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111181617011</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 01:54:25 GMT</pubDate>
             <content:encoded><![CDATA[스물다섯 살 우간다 여성이 기후위기로부터 아프리카를 구하기 위해 나섰다. 기후정의 활동가 버네사 나카테는 지난 5일(현지시간) 제26차 유엔 기후변화협약 당사국총회(COP26)가 열린 영국 글래스고에서 시민들과 함께 시위에 참여했다. 그는 “기후위기는 바로 여기에 있다”며 세계 정상들의 보다 적극적인 대응을 요구했다. 개발도상국 출신 나카테에게 기후위기는 미래가 아닌 지금 당장 몸소 겪고 있는 일이기 때문이다.우간다에서는 기후위기로 인한 피해가 일상적으로 일...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/15/l_2021111501001910300171841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['먹방같은 걸 왜 보냐'던 내가 침대에 누워 먹방을 보는 이유]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111121722001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111121722001</guid>
-            <pubDate>Fri, 12 Nov 2021 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.“모두모두 어서오세요. 오늘도 수고하셨어요. 저녁은 뭐 드셨어요?”평일 밤 10시 즈음, 유튜브 피드에 ‘먹는 중’ 이미지가 뜨면 부리나케 클릭한다. 입짧은햇님, 그러니까 햇님 언니의 먹방 라이브가 시작됐다는 뜻이다. 늘 그렇...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/12/l_2021111201001683000150851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
