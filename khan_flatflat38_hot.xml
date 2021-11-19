@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엄마의 노동을 값싸게 사려는 대형마트, 그들에게 시간을 빼앗긴 여자들[플랫]]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202111181031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202111181031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111801002428600216951.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 19]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/19/l_2021111701002266400203781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규수, 여류로 불렸던 '화가' 최욱경 다시 보기[플랫]]]></title>
+            <link>https://www.khan.co.kr/culture/art-architecture/article/202111191450001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/art-architecture/article/202111191450001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 19]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/19/l_2021111501001923000173081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

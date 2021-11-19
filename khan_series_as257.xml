@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규수, 여류로 불렸던 '화가' 최욱경 다시 보기]]></title>
+            <link>https://www.khan.co.kr/culture/art-architecture/article/202111191450001</link>
+            <guid>https://www.khan.co.kr/culture/art-architecture/article/202111191450001</guid>
+            <pubDate>Fri, 19 Nov 2021 06:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[‘최욱경, 앨리스의 고양이’전(국립현대미술관 과천)은 다재다능했던 최욱경(1940~1985)의 면모를 보여주는 코너를 마련했다. 문방사우와 낙관, 화구, 책들을 탁자에 모아 전시한다.최욱경은 1970년대 초 서예의 추상성을 구현한 작품을 선보였는데, 그 작품에 썼을 법한 대형 붓들이 벽에 걸렸다. 미술사 책들 옆 가로 놓인 책더미에 시집 4권이 있다. 미국 시인 다이앤 바코스키의 시집이다. 탁자 상판에 별도로 표지가 보이게 한 권 올려둔 게 &lt;Dancing on the Grave...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/19/l_2021111501001923000173081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년대생 여성 노동자 "우리는 일에 진심이다"]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111191022001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 06:12:57 GMT</pubDate>
             <content:encoded><![CDATA[상관의 성추행과 군의 2차 가해로 이예람 중사가 사망한 지난 5월, 공군에서 비슷한 나이의 하사가 성추행을 당한 뒤 극단적 선택을 한 사실이 확인됐다. 군인권센터는 공군이 강제추행 사실을 조사하고도 유족들에게 숨기고 가해자를 주거침입으로만 기소하려 하는 등 성추행 사실을 감추려 했다고 주장했다.군인권센터는 15일 마포구 센터 건물에서 열린 기자회견에서 “군은 이예람 중사 사망 이후 재발 방지를 약속했으나 또 다른 성폭력 피해자 사망 사건을 엉망진창으로...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/15/l_2021111501001939500174811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기와 불평등, 25살 우간다 활동가에겐 별개의 문제가 아니었다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202111151018011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202111151018011</guid>
-            <pubDate>Mon, 15 Nov 2021 01:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[스물다섯 살 우간다 여성이 기후위기로부터 아프리카를 구하기 위해 나섰다. 기후정의 활동가 버네사 나카테는 지난 5일(현지시간) 제26차 유엔 기후변화협약 당사국총회(COP26)가 열린 영국 글래스고에서 시민들과 함께 시위에 참여했다. 그는 “기후위기는 바로 여기에 있다”며 세계 정상들의 보다 적극적인 대응을 요구했다. 개발도상국 출신 나카테에게 기후위기는 미래가 아닌 지금 당장 몸소 겪고 있는 일이기 때문이다.우간다에서는 기후위기로 인한 피해가 일상적으로 일...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/15/l_2021111501001910300171841.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
