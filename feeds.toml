@@ -32,7 +32,8 @@ titleSelector = "h2.tit a"
 linkSelector = "h2.tit a"
 contentSelector = "a.line_clamp2"
 imageSelector = "a picture img"
-waitUntil = "networkidle"
+waitForSelector = "ul.df-list li"
+onFail = "stale"
 
 [hankookilbo_herstory]
 title = "한국일보 ─ 뉴스레터 ─ 허스토리"
