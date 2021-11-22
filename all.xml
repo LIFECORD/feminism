@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,12 +129,12 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/19/l_2021111701002266400203781.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111181617011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 18 Nov 2021 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 18]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/l_2021111701002249000201911.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['성소수자 부모'라는 새로운 세계를 만난 두 여자의 성장기[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/movie/article/202111221127001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/movie/article/202111221127001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 22 Nov 2021 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 22]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/22/l_2021111501001918300172621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성소수자 부모'라는 새로운 세계를 만난 두 여자의 성장기 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -297,6 +297,14 @@
             <enclosure url="https://image.hankookilbo.com/board/08a2dfca-e83f-40ed-9069-c079caebc2e6.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[‘좋은 집’의 의미, 그 무궁무진한 가능성 찾기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9205</link>
+            <guid>https://ildaro.com/9205</guid>
+            <pubDate>Mon, 22 Nov 2021 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 집이란 대게 그런 식으로 통용된다. 좋은 집은 비싼 집. 좋은 집이란 내 소유의 집, 번듯한 집, 집 밑에 헬스장이나 수영장이 있는 집, 그거 다 있어도 임대아파트...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112205345406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[천 명을 잡아먹어야 될 수 있다는 ‘사람’은 누구인가 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9204</link>
             <guid>https://ildaro.com/9204</guid>
@@ -446,14 +454,6 @@
             <pubDate>Fri, 29 Oct 2021 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA[손님하고 있었던 안 좋은 일들에 대해서는 아무리 친한 친구라도 이야기를 안 했어요. 그 말을 또 듣는 게 부담스럽고 반응하기도 힘들다는 걸 서로가 아니까....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102921235268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우리는 정당들보다 거리에서 훨씬 더 많은 것을 성취했다” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9185</link>
-            <guid>https://ildaro.com/9185</guid>
-            <pubDate>Thu, 28 Oct 2021 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 기후위기에 가장 큰 영향을 받는 세대이지만, 투표권이 없고, 의회에 우리를 대표할 사람이 없습니다. 이것이 바로 우리 운동이 커진 이유입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021102823343670.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
