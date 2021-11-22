@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 07:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 08:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠더폭력 막으라는 요구가 '페미니즘 선동'이라는 이준석 대표]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111221643001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111221643001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 22 Nov 2021 08:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[[플랫브리핑] 젠더폭력 막으라는 요구가 '페미니즘 선동'이라는 이준석 대표
+데이트 폭력으로 신변 보호를 받던 여성이 숨진 사실이 알려지자 빈발하는 스토킹범죄를 근절하기 위한 적극적인 노력을 촉구하는 목소리가 커지고 있다. 정작 여성 안전 대책을 마련해야 할 정치인들은 이러한 목소리를 ‘페미니즘 선동’으로 규정해 구설에 올랐다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/22/2021112201002889300259372.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['성소수자 부모'라는 새로운 세계를 만난 두 여자의 성장기]]></title>
             <link>https://www.khan.co.kr/culture/movie/article/202111221127001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -103,14 +112,6 @@
             <content:encoded><![CDATA[상관의 성추행과 군의 2차 가해로 이예람 중사가 사망한 지난 5월, 공군에서 비슷한 나이의 하사가 성추행을 당한 뒤 극단적 선택을 한 사실이 확인됐다. 군인권센터는 공군이 강제추행 사실을 조사하고도 유족들에게 숨기고 가해자를 주거침입으로만 기소하려 하는 등 성추행 사실을 감추려 했다고 주장했다.
 군인권센터는 15일 마포구 센터 건물에서 열린 기자회견에서 “군은 이예람 중사 사망 이후 재발 방지를 약속했으나 또 다른 성폭력 피해자 사망 사건을 엉망진창으로 처리하고 있었다”며 “군이 가해자의 자백을 받고도 의도적으로 성폭력 사건을 묻으려 했다”고 밝혔다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/15/2021111501001939500174811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기와 불평등, 25살 우간다 활동가에겐 별개의 문제가 아니었다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202111151018011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202111151018011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 15 Nov 2021 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[스물다섯 살 우간다 여성이 기후위기로부터 아프리카를 구하기 위해 나섰다. 기후정의 활동가 버네사 나카테는 지난 5일(현지시간) 제26차 유엔 기후변화협약 당사국총회(COP26)가 열린 영국 글래스고에서 시민들과 함께 시위에 참여했다. 그는 “기후위기는 바로 여기에 있다”며 세계 정상들의 보다 적극적인 대응을 요구했다. 개발도상국 출신 나카테에게 기후위기는 미래가 아닌 지금 당장 몸소 겪고 있는 일이기 때문이다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/15/2021111501001910300171841.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
