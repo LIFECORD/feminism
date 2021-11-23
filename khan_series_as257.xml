@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6번이나 도움 요청했지만… 경찰은 "방법이 없다"고만 했다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111231433001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111231433001</guid>
+            <pubDate>Tue, 23 Nov 2021 06:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[집요한 스토킹을 당하다 살해된 서울 중구의 신변보호 여성은 사고 발생 전 최소 여섯 차례 경찰에 도움을 요청한 것으로 확인됐다. 경찰이 범행을 막을 수 있는 기회가 그만큼 있었지만 신변보호에 실패한 것이다.22일 피해여성 A씨의 직장동료들에 따르면, A씨는 전 남자친구 B씨와 헤어진 이후 약 11개월간 흉기를 통한 지속적인 협박과 스토킹, 괴롭힘을 당해왔다. “다시 만나달라”는 요구였다. A씨는 부산에서 근무하던 지난해 말 B씨를 주거침입으로 경찰에 한 차...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/23/l_2021112301002976500268121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무력감을 느낄 이들에게 버티는 사람이 있음을 전하는 편지들]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202111231025001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Nov 2021 06:17:09 GMT</pubDate>
             <content:encoded><![CDATA[중국에서 공산당 고위 간부의 성폭력을 폭로하는 미투(Me Too·나도 고발한다) 사건이 발생했다.뉴욕타임스는(NYT)는 중국의 여성 테니스 스타 펑솨이(彭師·36)가 지난 2일 밤 자신의 웨이보 공식 계정에 장가오리(張高麗·75) 중국 국무원 전 부총리부터 여러 차례 성폭행을 당했다는 내용의 글을 올렸다고 3일 보도했다. 펑솨이는 2013년 윔블던과 2014년 프랑스 오픈에서 두 번의 그랜드 슬램 타이틀을 거머쥔 전 세계 1위 테니스 복식 선수다. 2011년에 14개의 최고 싱글 랭...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/17/l_2021111701002282100204601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강유미와 안영미를 동경하던 연기학도, 주현영이 그려가는 코미디의 미래]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202111171014001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202111171014001</guid>
-            <pubDate>Wed, 17 Nov 2021 01:55:32 GMT</pubDate>
-            <content:encoded><![CDATA[배우 주현영은 과연 ‘인턴기자 주현영’과는 달랐다. 말간 얼굴을 가진 배우 주현영은 자신의 생각을 차분하면서도 명료하게 말할 줄 아는 멋진 20대였다. 뛰어난 연기자라는 것을 직감할 수 있었다. 그는 신중하게 단어를 골랐고, 흐트러짐 없는 문장으로 질문들에 답했다. 쿠팡플레이 &lt;SNL 코리아&gt;의 주현영 인턴기자를 연기한 주현영을 8일 이 프로그램 제작사가 있는 서울 마포구 에이스토리에서 만났다.주현영 인턴은 대중에게 20대 사회초년생의 말투와 몸짓을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/17/l_2021111701002233200200401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
