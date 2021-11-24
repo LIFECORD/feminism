@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 01:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 02:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/17/2021111701002233200200401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[젠더폭력 막으라는 요구가 '페미니즘 선동'이라는 이준석 대표[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111221643001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111221643001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 22]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/22/l_2021112201002889300259372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[무력감을 느낄 이들에게 버티는 사람이 있음을 전하는 편지들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202111231025001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/book/article/202111231025001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 23 Nov 2021 06:12:01 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 23]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/23/l_2021112301002976500268121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 보는 '청년'은 누구입니까[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202111241030011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202111241030011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 24 Nov 2021 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 24]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/24/l_2021112301002983000268901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 보는 '청년'은 누구입니까 (경향신문 ─ 연재 ─ 플랫)]]></title>
