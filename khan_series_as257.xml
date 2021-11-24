@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 06:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토킹처벌법 시행 한 달, 법에도 구멍이 너무 많다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111241424011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111241424011</guid>
+            <pubDate>Wed, 24 Nov 2021 06:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 21일 스토킹처벌법이 시행된지 한 달이 지났지만 법이 지닌 한계가 뚜렷해 개정이 시급하다는 지적이 잇따르고 있다. 전문가들은 제한적인 스토킹 범위와 보호 대상을 넓히고 가해자 제재수단을 보강하는 동시에 피해자 지원을 더 확대해야 한다고 말한다.박보람 법률사무소 비움 변호사는 23일 한국여성정책연구원이 ‘스토킹 피해자 보호와 지원 강화를 위한 입법과제’를 주제로 진행하는 제32차 젠더와 입법포럼에서 “스토킹처벌법의 목적이 스토킹 행위의 제지와 피해...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/24/l_2021112301002973800267831.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 보는 '청년'은 누구입니까]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202111241030011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Nov 2021 01:53:03 GMT</pubDate>
             <content:encoded><![CDATA[문재인 정부에서 주 52시간제를 확대하고 노동시간 단축에 대대적으로 나서면서, 어떤 사람들의 삶은 확실히 나아진 것처럼 보였다. 2018년 7월, 공공기관 및 공기업과 300인 이상 사업장을 대상으로 52시간제가 처음 시행됐다. 1년이 지나자 언론에서는 미담이 쏟아졌다. 더 일하고 싶은데 업무용 PC가 꺼지고 인사팀으로부터 정시에 퇴근하라는 기분 좋은 눈치를 받는다는 사무직 노동자들의 사연이 담긴 기사가 포털 사이트를 장식했다. 동네 피트니스센터와 요가 학원이 일...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/18/l_2021111801002428600216951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 중사 사건 불구속 수사, 공군 법무실장이 직접 지시했다"]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111171626001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111171626001</guid>
-            <pubDate>Wed, 17 Nov 2021 08:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[실장님이 다 생각이 있으셨겠지. 직접 불구속 지휘하는데 뭐 어쩌라고? 입단속이나 잘해” 전익수 공군 법무실장이 공군 성추행 피해자 고 이예람 중사 사망 사건 수사를 무마하려 했다는 주장이 나왔다. 전 실장이 수사 초기 직접 가해자에 대한 불구속 수사를 지휘했다는 것이다.군인권센터는 17일 마포구 센터 건물에서 기자회견을 열고 군검사들이 나눈 대화 녹취록을 공개했다. 임태훈 소장은 “녹취록에 따르면 전 실장이 수사 초기 직접 가해자에 대한 불구속 수사를...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/17/l_2021111701002315600206622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
