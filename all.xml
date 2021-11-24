@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 22:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 23:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/18/l_2021111801002428600216951.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 여성들은 왜 죽어야 했나요 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/553</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/553</guid>
+            <pubDate>Wed, 24 Nov 2021 23:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 21일부터 스토킹처벌법이 시행되고 있습니다. 하지만 지난 한 주간 우리는 스토킹과 데이트 폭력에 시달리다 사망한 여성들의 부고를 또 들어야 했습니다. 스토킹 피해 신고 후 신변보호를 받던 피해자는 긴급신고 버튼을 눌렀지만 생사의 갈림길에서 도움을 받지 못했습니다. 같은 사건이 되풀이되지 않도록 머리를 맞대도 모자라지만, 정치권에서는 '단순 살해 사건을 젠더와 엮지 말라'는 발언이 나옵니다. 우리가 제대로 목소리를 내야 하는 지점은 어디인지, 허스토리가 짚어봤습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["악플을 모아 전시회를 열어볼까요?" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/541</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/541</guid>
@@ -287,14 +295,6 @@
             <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 '돈'에 대해 이야기 해보려고 해요. 혹시 여러분은 여자라서 얼마를 '더' 손해 보는지, 계산을 해본 적 있으신가요? 그냥 고시원 말고 더 비싼 비용을 지불하고 '여성 전용' 고시원에 들어간 적은 없나요? 자취방 안전을 확보하기 위해 현관에 내어 놓은 '남성 신발'은 얼마였나요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e33ae7b6-9a7f-4df0-9c81-75459f0b9bad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['표준=남성'이라는 고정관념 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/425</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/425</guid>
-            <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[여성들에게 백신 접종은 또 다른 두려움으로 다가왔습니다. 백신 접종 후 부정출혈, 월경 주기 이상 등의 증세를 겪을 수 있기 때문이에요. 질병관리청은 예방접종 후 나타날 수 있는 '흔한' 이상반응으로 접종부위 통증, 발열, 피로감, 두통 등을 안내하고 있는데요. 왜 부정출혈이나 월경 주기 이상은 미리 안내되지 않았을까요? 더 사소한 증상이기 때문일까요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/08a2dfca-e83f-40ed-9069-c079caebc2e6.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[성중립 화장실은 ‘삶의 존엄’ 같은 것 (일다 ─ 전체기사)]]></title>
