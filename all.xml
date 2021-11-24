@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 12:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 13:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,20 +113,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/17/2021111701002282100204601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6번이나 도움 요청했지만… 경찰은 "방법이 없다"고만 했다[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111231433001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111231433001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 23 Nov 2021 06:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 23]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/23/l_2021112301002976500268121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[당신이 보는 '청년'은 누구입니까[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202111241030011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202111241030011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 24 Nov 2021 10:30:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 24]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/24/l_2021112301002983000268901.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6번이나 도움 요청했지만… 경찰은 "방법이 없다"고만 했다[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111231433001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111231433001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 23 Nov 2021 06:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 23]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/23/l_2021112301002976500268121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스토킹처벌법 시행 한 달, 법에도 구멍이 너무 많다[플랫] (경향신문 ─ 플랫)]]></title>
@@ -297,6 +297,14 @@
             <enclosure url="https://image.hankookilbo.com/board/08a2dfca-e83f-40ed-9069-c079caebc2e6.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[성중립 화장실은 ‘삶의 존엄’ 같은 것 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9207</link>
+            <guid>https://ildaro.com/9207</guid>
+            <pubDate>Wed, 24 Nov 2021 13:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[성중립 화장실을 어떤 거대한 음모로 여기는 사람들을 종종 마주했다. 돌이켜 보면 모두 내 존재를 이해하지 못하는 사람들이라는 공통점이 있었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112437413264.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[90년대생 노동자들, 안녕하지 못합니다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9206</link>
             <guid>https://ildaro.com/9206</guid>
@@ -447,13 +455,6 @@
             <pubDate>Sun, 31 Oct 2021 10:34:00 GMT</pubDate>
             <content:encoded><![CDATA[그녀들은 소란 떨고 냄새피우며 억척스레 살아남아 그들의 집을 흔들어왔다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202110/2021103140445189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We Can’t even Call Menstruation by Its Name (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9187</link>
-            <guid>https://ildaro.com/9187</guid>
-            <pubDate>Sat, 30 Oct 2021 11:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[In the wake of revelations about the danger of menstrual products, a lecture called “This is your first time chatting about menstruation, isn’t it?” was held in Ulsan....]]></content:encoded>
         </item>
     </channel>
 </rss>
