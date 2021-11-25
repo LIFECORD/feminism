@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 06:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 07:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선후배가 함께 만든 '용화여고 창문미투' 그 후 3년간의 이야기]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111251530001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111251530001</guid>
+            <pubDate>Thu, 25 Nov 2021 07:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[“#WITH YOU(위드유)”, “WE CAN DO ANYTHING(위캔두애니싱)”, “#ME TOO(미투)” 2018년 봄 서울 노원구 용화여고에는 이런 문구의 포스트잇이 붙었다. 졸업생들이 2012년 겪은 성폭력을 고발하자 재학생들이 호응한 ‘창문미투’였다. ‘더는 참지 않겠다’는 서로의 마음을 확인한 소녀들은 거침이 없었다. 용화여고 이후 스쿨미투는 전국 100곳 남짓의 학교로 급격히 확산됐다. 한국의 학생인권사와 성평등사에 길이 남을 만한 스쿨미투는 이렇게 시작됐다.그후 3년 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/25/l_2021112201002891800259554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“축구는 그냥… 사랑” 차고, 달리고, 싸우는 언니들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111251018001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Nov 2021 01:53:39 GMT</pubDate>
             <content:encoded><![CDATA[청년 여성 노동자들은 ‘일’을 독립적인 인간으로 살기 위한 수단이며, 존재의 가치를 증명하는 활동으로 생각하는 것으로 나타났다. 이들은 일을 인생의 ‘디폴트(기본값)’라고 생각하며, 결혼과 출산은 삶의 부수적인 부분이라고 여겼다.한국여성노동자회는 이 같은 결과가 담긴 90년대생 여성노동자 4632명에 대한 온라인 설문조사와 19명에 대한 심층 인터뷰 결과를 16일 발표했다. 인터뷰 등은 저임금 및 단기 고용관계를 맺고 있는 2차 노동시장 노동자를 중심으로 했다....]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/19/l_2021111701002266400203781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세상 참 좋아졌어'란 꼰대 감성]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111181617011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111181617011</guid>
-            <pubDate>Thu, 18 Nov 2021 08:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[최근의 나는 성추행 피해를 거의 입지 않는다. 대학생 때까지 버스, 지하철 안에서 성추행당했던 일들이 종종 있었고, 대학병원에서 일하던 수련의 시절에도 남자 환자로부터 성추행을 당했던 적이 있다. 한창 성추행을 많이 겪던 시절에는 대중교통만 타도 몸을 사리곤 했는데, 요즘은 ‘성추행’을 떠올리는 일조차 드물다. 이럴 때 ‘와, 요즘은 성추행이 줄었네?’라고 생각하면 안 된다. ‘왜 나에게 성추행이 덜 일어날까?’ 생각해야 한다. ‘세상 참 좋아졌어’라는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/18/l_2021111701002249000201911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

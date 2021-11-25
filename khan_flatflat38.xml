@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 06:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 07:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선후배가 함께 만든 '용화여고 창문미투' 그 후 3년간의 이야기]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111251530001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111251530001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 25 Nov 2021 07:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[“#WITH YOU(위드유)”, “WE CAN DO ANYTHING(위캔두애니싱)”, “#ME TOO(미투)” 2018년 봄 서울 노원구 용화여고에는 이런 문구의 포스트잇이 붙었다. 졸업생들이 2012년 겪은 성폭력을 고발하자 재학생들이 호응한 ‘창문미투’였다. ‘더는 참지 않겠다’는 서로의 마음을 확인한 소녀들은 거침이 없었다. 용화여고 이후 스쿨미투는 전국 100곳 남짓의 학교로 급격히 확산됐다. 한국의 학생인권사와 성평등사에 길이 남을 만한 스쿨미투는 이렇게 시작됐다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/25/2021112201002891800259554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“축구는 그냥… 사랑” 차고, 달리고, 싸우는 언니들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111251018001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -100,16 +108,6 @@
             <pubDate>Thu, 18 Nov 2021 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[문재인 정부에서 주 52시간제를 확대하고 노동시간 단축에 대대적으로 나서면서, 어떤 사람들의 삶은 확실히 나아진 것처럼 보였다. 2018년 7월, 공공기관 및 공기업과 300인 이상 사업장을 대상으로 52시간제가 처음 시행됐다. 1년이 지나자 언론에서는 미담이 쏟아졌다. 더 일하고 싶은데 업무용 PC가 꺼지고 인사팀으로부터 정시에 퇴근하라는 기분 좋은 눈치를 받는다는 사무직 노동자들의 사연이 담긴 기사가 포털 사이트를 장식했다. 동네 피트니스센터와 요가 학원이 일찍 퇴근하는 직장인들로 붐빈다는 기사도 잇따랐다. 한 취업포털 사이트에서 실시한 설문조사에서 300인 이상 기업에 다니는 직장인 10명 중 8명은 “노동시간 단축으로 삶의 질이 나아졌다”고 답했다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/18/2021111801002428600216951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 중사 사건 불구속 수사, 공군 법무실장이 직접 지시했다"]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111171626001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111171626001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 17 Nov 2021 08:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[실장님이 다 생각이 있으셨겠지. 직접 불구속 지휘하는데 뭐 어쩌라고? 입단속이나 잘해”
-전익수 공군 법무실장이 공군 성추행 피해자 고 이예람 중사 사망 사건 수사를 무마하려 했다는 주장이 나왔다. 전 실장이 수사 초기 직접 가해자에 대한 불구속 수사를 지휘했다는 것이다.
-군인권센터는 17일 마포구 센터 건물에서 기자회견을 열고 군검사들이 나눈 대화 녹취록을 공개했다. 임태훈 소장은 “녹취록에 따르면 전 실장이 수사 초기 직접 가해자에 대한 불구속 수사를 지휘했고 이 과정에서 가해자 변호사가 소속된 로펌에 대한 전관예우가 있었던 것으로 확인했다”고 밝혔다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/17/2021111701002315600206622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
