@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 16:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/25/l_2021112201002891800259554.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실[플랫]]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 26]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/l_2021112201002888600259301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['묵음처리' 되었던 농촌 여성에게 소설은 해방구였다[플랫]]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202111261529001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/book/article/202111261529001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 26]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/l_2021112201002859600257111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실[플랫]]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 26]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/l_2021112201002888600259301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
