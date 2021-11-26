@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금, 한국 퀴어미술의 어떤 경향]]></title>
+            <link>https://ildaro.com/9209</link>
+            <guid>https://ildaro.com/9209</guid>
+            <pubDate>Fri, 26 Nov 2021 09:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[“참으로 퀴어한 시간들이다. These are queer times indeed.” 부쩍 늘어난 퀴어 관련 창작물들을 접한 후, 기쁨과 감탄이 뒤섞인 소회였던 것으로 기억한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/202111264813452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Women’s Coworkers Are Women’, Now On My Way to Meet You]]></title>
             <link>https://ildaro.com/9208</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Nov 2021 08:12:39 GMT</pubDate>
             <content:encoded><![CDATA[앨범명과 같은 제목의 곡 “Skin”에는 “당신에게 주어진 피부는 살기 위해 만들어진 것임을 모릅니까?”라는 가사가 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110224531420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시 공간을 먹을 수 있는 ‘숲밭’으로 만드는 기후농부들]]></title>
-            <link>https://ildaro.com/9189</link>
-            <guid>https://ildaro.com/9189</guid>
-            <pubDate>Mon, 01 Nov 2021 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[도시에 살면서도 기후농부가 될 수 있을까? 방법이 있다! 바로 우리가 살고 있는 모든 공간을 먹을 수 있는 경관으로 바꾸는 것이다. 이를 숲밭, 포레스트 가드닝이라고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110130331203.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

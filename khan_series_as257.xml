@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202111261023001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202111261023001</guid>
+            <pubDate>Fri, 26 Nov 2021 01:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 독자들은 언론에서 교제 폭력(데이트폭력)에 대한 보도를 자주 접하게 되었다고 느낄지도 모르겠다. 실제로 ‘안전이별’이 청년 여성들 간 주요 공유 키워드가 된 2010년대 이후로, 교제 폭력 신고 건수가 날로 증가 추세에 있다고 한다. 최근 들어 발생한 교제 폭력 사건의 경우 폭력의 양상이 급격하게 심화된 경우가 많아 언론의 주목도가 더욱 높아졌다.교제 폭력과 같이 이전에는 사소하게 여겨지거나 개인적 문제로 치부되던 것을 사회구조적 문제로 바라보고 해...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/26/l_2021112201002888600259301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선후배가 함께 만든 '용화여고 창문미투' 그 후 3년간의 이야기]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111251530001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Nov 2021 06:15:48 GMT</pubDate>
             <content:encoded><![CDATA[‘최욱경, 앨리스의 고양이’전(국립현대미술관 과천)은 다재다능했던 최욱경(1940~1985)의 면모를 보여주는 코너를 마련했다. 문방사우와 낙관, 화구, 책들을 탁자에 모아 전시한다.최욱경은 1970년대 초 서예의 추상성을 구현한 작품을 선보였는데, 그 작품에 썼을 법한 대형 붓들이 벽에 걸렸다. 미술사 책들 옆 가로 놓인 책더미에 시집 4권이 있다. 미국 시인 다이앤 바코스키의 시집이다. 탁자 상판에 별도로 표지가 보이게 한 권 올려둔 게 &lt;Dancing on the Grave...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/19/l_2021111501001923000173081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년대생 여성 노동자 "우리는 일에 진심이다"]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111191022001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111191022001</guid>
-            <pubDate>Fri, 19 Nov 2021 01:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[청년 여성 노동자들은 ‘일’을 독립적인 인간으로 살기 위한 수단이며, 존재의 가치를 증명하는 활동으로 생각하는 것으로 나타났다. 이들은 일을 인생의 ‘디폴트(기본값)’라고 생각하며, 결혼과 출산은 삶의 부수적인 부분이라고 여겼다.한국여성노동자회는 이 같은 결과가 담긴 90년대생 여성노동자 4632명에 대한 온라인 설문조사와 19명에 대한 심층 인터뷰 결과를 16일 발표했다. 인터뷰 등은 저임금 및 단기 고용관계를 맺고 있는 2차 노동시장 노동자를 중심으로 했다....]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/19/l_2021111701002266400203781.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
