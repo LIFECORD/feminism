@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['묵음처리' 되었던 농촌 여성에게 소설은 해방구였다]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202111261529001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202111261529001</guid>
+            <pubDate>Fri, 26 Nov 2021 07:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[“삼백예순 날에서 삼백 날을 넘게 밭고랑을 기어다니고 소똥을 치우고 살아도 빚더미 속에서 다리 한번 제대로 펴보지 못하는데 서방이라는 작자까지 흘리고 다니는 일거리가 발에 채여서 지 맘대로 나오는 숨도 조절해서 쉬어야 할 판이었다.”(‘이른 봄’)정성숙 작가(56)의 첫 소설집 &lt;호미&gt;에는 “밭고랑을 기어다닌다”는 표현이 자주 등장한다. 농사는 그만큼 고된 일이지만 “농사꾼 모두가 부지런했던 죄의 값”으로 농산품 가격은 속절없이 떨어진다. 소설 속 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/26/l_2021112201002859600257111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202111261023001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Nov 2021 03:11:44 GMT</pubDate>
             <content:encoded><![CDATA[“아드님이 매니저님 닮아서 키 크면 여자들한테 인기 많겠다”는 말에 “내 아들 게이인데”라고 답하는 엄마가 있다. 27년차 항공사 승무원 강선화씨(52)이다. 직장에서 휴가를 신고하면서 사유란에 “자녀 성별 정정으로 법원 출석”이라고 적는 엄마가 있다. 34년차 소방공무원 정은애씨(58)이다. 연분홍치마가 제작한 다큐멘터리 영화 &lt;너에게 가는 길&gt;의 주인공인 이들은 각각 5년 전과 4년 전, 자식으로부터 커밍아웃을 받았다. 그리고 이제는 세상에 “나는 성소수자...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/22/l_2021111501001918300172621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규수, 여류로 불렸던 '화가' 최욱경 다시 보기]]></title>
-            <link>https://www.khan.co.kr/culture/art-architecture/article/202111191450001</link>
-            <guid>https://www.khan.co.kr/culture/art-architecture/article/202111191450001</guid>
-            <pubDate>Fri, 19 Nov 2021 06:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘최욱경, 앨리스의 고양이’전(국립현대미술관 과천)은 다재다능했던 최욱경(1940~1985)의 면모를 보여주는 코너를 마련했다. 문방사우와 낙관, 화구, 책들을 탁자에 모아 전시한다.최욱경은 1970년대 초 서예의 추상성을 구현한 작품을 선보였는데, 그 작품에 썼을 법한 대형 붓들이 벽에 걸렸다. 미술사 책들 옆 가로 놓인 책더미에 시집 4권이 있다. 미국 시인 다이앤 바코스키의 시집이다. 탁자 상판에 별도로 표지가 보이게 한 권 올려둔 게 &lt;Dancing on the Grave...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/19/l_2021111501001923000173081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
