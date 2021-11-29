@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,20 +118,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/l_2021112201002859600257111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 26 Nov 2021 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 26]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/l_2021112201002888600259301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[펑솨이 실종 논란이 남긴 것[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202111291025011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/china/article/202111291025011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Mon, 29 Nov 2021 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 29]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/29/l_2021112901003721100334371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰 "김병찬, 피해자가 스토킹 신고하자 보복살인 계획"[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111291349031/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111291349031/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 29 Nov 2021 05:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 29]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/29/l_2021112901003737000335901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경찰 "김병찬, 피해자가 스토킹 신고하자 보복살인 계획" (경향신문 ─ 연재 ─ 플랫)]]></title>
