@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차별에 맞선 어느 부부의 ‘특별한’ 용기]]></title>
+            <link>https://ildaro.com/9211</link>
+            <guid>https://ildaro.com/9211</guid>
+            <pubDate>Mon, 29 Nov 2021 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[“사실 우리가 이렇게 공개적으로 결혼식도 올리고 인터뷰도 하고 소송도 하지만, 그냥 길거리에서 손을 잡거나 팔짱 끼는 일은 잘 못해요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112940296748.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강정 해군기지 반대 운동은 오늘도 계속되고 있다]]></title>
             <link>https://ildaro.com/9210</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Nov 2021 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[지금 여성 영화인을 발굴하고자 하는 이유는 첫 번째, 영화라는 창의적인 노동에서 남녀의 기회가 전혀 균등하지 않기 때문입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110544077770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 연기노동자의 삶, 프리랜서는 오늘도]]></title>
-            <link>https://ildaro.com/9191</link>
-            <guid>https://ildaro.com/9191</guid>
-            <pubDate>Wed, 03 Nov 2021 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 여성 연기노동자를 어떻게 바라봐야 할까. 문소리 감독은 서사로, 손수현 감독은 충돌로 반항하며 표현한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110357337297.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
