@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 04:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰 "김병찬, 피해자가 스토킹 신고하자 보복살인 계획"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202111291349031</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202111291349031</guid>
+            <pubDate>Mon, 29 Nov 2021 05:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[스토킹 피해를 신고해 경찰의 신변보호를 받던 옛 연인을 살해한 김병찬(35)이 검찰에 송치됐다. 경찰은 김씨가 스토킹 범죄로 신고 당하자 계획적으로 살인을 저질렀다고 보고 살인죄보다 형량이 무거운 보복살인 혐의를 적용했다.서울경찰청은 29일 김씨를 검찰에 송치하면서 특가법상 보복살인 및 보복협박, 스토킹처벌법 위반, 상해, 주거침입, 특수협박, 협박, 특수감금 등 8개 혐의를 적용했다. 김씨는 지난 19일 오전 11시30분쯤 서울 중구 저동의 한 오피스텔에 거주하는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/29/l_2021112901003737000335901.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펑솨이 실종 논란이 남긴 것]]></title>
             <link>https://www.khan.co.kr/world/china/article/202111291025011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 01:54:05 GMT</pubDate>
             <content:encoded><![CDATA[오랜 친구인 윤이나, 황효진 작가는 걸어서 7분 거리에 산다. 매주 방송되는 팟캐스트 &lt;시스터후드&gt;의 공동 진행자이기도 하다. 방송에서 또 일상에서 수없이 대화를 나누고도 못다 한 말이 넘친 두 사람, 마침내 편지를 쓰기 시작했다. 코로나19의 맹위로 고립이 깊어지던 지난해 봄과 여름의 일이다.두 작가가 지난해 4월부터 8월까지 주고받은 스무 통의 편지를 엮은 서간집 &lt;자세한 건 만나서 얘기해&gt;는 그렇게 탄생했다. &lt;시스터후드&gt;에서 그랬듯 여...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/23/l_2021111201001517600136701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠더폭력 막으라는 요구가 '페미니즘 선동'이라는 이준석 대표]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111221643001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111221643001</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[[플랫브리핑] 젠더폭력 막으라는 요구가 '페미니즘 선동'이라는 이준석 대표 데이트 폭력으로 신변 보호를 받던 여성이 숨진 사실이 알려지자 빈발하는 스토킹범죄를 근절하기 위한 적극적인 노력을 촉구하는 목소리가 커지고 있다. 정작 여성들의 목소리를 듣고 안전 대책을 마련해야 할 야당 대표는 이러한 목소리를 ‘페미니즘 선동’으로 규정했다. '남성을 가해자로 일반화하지 말라'는 것이다.▼ 11개월이나 계속된 스토킹…경찰 보호도 소용이 없었다 ▲ 서울 중부경찰서...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/22/l_2021112201002889300259372.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
