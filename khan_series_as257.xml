@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 00:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이수정 "모르는 건 가르치며 갈 수 있지만 알면서 왜곡하는 건 못보겠더라"]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202111301018001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202111301018001</guid>
+            <pubDate>Tue, 30 Nov 2021 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[“모르는 건 가르치며 갈 수 있다.”이수정 경기대 범죄심리학과 교수는 29일 기자와의 전화 인터뷰에서 이렇게 말했다. 이 교수는 이날 윤석열 국민의힘 후보의 선거대책위원회(선대위)가 발표한 선대위 추가 인선에서 공동선대위원장으로 이름을 올렸다. 이재명 더불어민주당 대선 후보가 과거 조카를 변호하면서 주장한 내용을 보고 윤 후보 측 합류를 결심했다고 했다. 살인사건을 ‘데이트 폭력’으로 지칭하고 변호 전략으로 ‘음주감경’, ‘충동장애’ 등 심신미약 사유를...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/30/l_2021112901003761200338131.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰 "김병찬, 피해자가 스토킹 신고하자 보복살인 계획"]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202111291349031</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 06:12:12 GMT</pubDate>
             <content:encoded><![CDATA[집요한 스토킹을 당하다 살해된 서울 중구의 신변보호 여성은 사고 발생 전 최소 여섯 차례 경찰에 도움을 요청한 것으로 확인됐다. 경찰이 범행을 막을 수 있는 기회가 그만큼 있었지만 신변보호에 실패한 것이다.22일 피해여성 A씨의 직장동료들에 따르면, A씨는 전 남자친구 B씨와 헤어진 이후 약 11개월간 흉기를 통한 지속적인 협박과 스토킹, 괴롭힘을 당해왔다. “다시 만나달라”는 요구였다. A씨는 부산에서 근무하던 지난해 말 B씨를 주거침입으로 경찰에 한 차...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/23/l_2021112301002976500268121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무력감을 느낄 이들에게 버티는 사람이 있음을 전하는 편지들]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202111231025001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202111231025001</guid>
-            <pubDate>Tue, 23 Nov 2021 01:54:05 GMT</pubDate>
-            <content:encoded><![CDATA[오랜 친구인 윤이나, 황효진 작가는 걸어서 7분 거리에 산다. 매주 방송되는 팟캐스트 &lt;시스터후드&gt;의 공동 진행자이기도 하다. 방송에서 또 일상에서 수없이 대화를 나누고도 못다 한 말이 넘친 두 사람, 마침내 편지를 쓰기 시작했다. 코로나19의 맹위로 고립이 깊어지던 지난해 봄과 여름의 일이다.두 작가가 지난해 4월부터 8월까지 주고받은 스무 통의 편지를 엮은 서간집 &lt;자세한 건 만나서 얘기해&gt;는 그렇게 탄생했다. &lt;시스터후드&gt;에서 그랬듯 여...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/23/l_2021111201001517600136701.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

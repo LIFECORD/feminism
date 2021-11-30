@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 00:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀곡의 문 앞, 공포가 아니라 세상의 확장으로]]></title>
+            <link>https://ildaro.com/9212</link>
+            <guid>https://ildaro.com/9212</guid>
+            <pubDate>Tue, 30 Nov 2021 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[타인의 시선으로도, 자신의 진단으로도 풀리지 않는 ‘언어 없음’의 상태는 필연적으로 공포와 닿는다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021113033457020.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차별에 맞선 어느 부부의 ‘특별한’ 용기]]></title>
             <link>https://ildaro.com/9211</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 11:09:38 GMT</pubDate>
             <content:encoded><![CDATA[가난하게 살았고, 이사를 자주 다녀야 해서 불필요한 건 다 버려야 했어요. 소중한 책이나 물건도요. 역사라는 것도, 있는 사람들이 가질 수 있는 거라고 생각해요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110650494337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조감독 응모대상이 ‘대졸 남성’이던 시대, 여성 개척자들]]></title>
-            <link>https://ildaro.com/9192</link>
-            <guid>https://ildaro.com/9192</guid>
-            <pubDate>Fri, 05 Nov 2021 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금 여성 영화인을 발굴하고자 하는 이유는 첫 번째, 영화라는 창의적인 노동에서 남녀의 기회가 전혀 균등하지 않기 때문입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110544077770.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
