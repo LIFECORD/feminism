@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 12:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 13:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/24/2021112301002983000268901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['공무원1'의 분투에 이름을 붙이자 정치 드라마의 블루오션이 열렸다[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202111301407011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202111301407011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 30 Nov 2021 05:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 11. 30]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/30/l_2021112901003764000338391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[#스쿨미투 3년, 피해자 아버지에게 날아온 익명의 협박편지[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112011014001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202112011014001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 01 Dec 2021 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 01]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/01/l_2021120101000069800002591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['공무원1'의 분투에 이름을 붙이자 정치 드라마의 블루오션이 열렸다[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202111301407011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202111301407011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 30 Nov 2021 05:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 30]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/30/l_2021112901003764000338391.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대법 “미성년 여성 형상을 한 리얼돌, 수입 제한할 수 있다”[플랫] (경향신문 ─ 플랫)]]></title>
