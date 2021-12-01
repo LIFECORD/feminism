@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌려 쓰고 다시 쓰고…기후위기 시대의 경제]]></title>
+            <link>https://ildaro.com/9213</link>
+            <guid>https://ildaro.com/9213</guid>
+            <pubDate>Wed, 01 Dec 2021 09:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[제품의 지속가능성을 따질 때 두 가지 질문이면 충분한 것 같습니다. ‘얼마나 오래 잘 쓸 수 있는가’, ‘이 물건을 소비하는 것이 보이지 않는 노동과 자원 착취에 동...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120155472996.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀곡의 문 앞, 공포가 아니라 세상의 확장으로]]></title>
             <link>https://ildaro.com/9212</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Nov 2021 09:43:00 GMT</pubDate>
             <content:encoded><![CDATA[나는 질병을 가진 내 삶을 상상하지 못했다. 그런 경험들이 나와 당신들 사이의 ‘대화’를 포기하게 만들 것이라고도 생각하지 못했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110850367481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성소수자, 제주사람…사적인 이야기를 ‘우리의 역사’로]]></title>
-            <link>https://ildaro.com/9193</link>
-            <guid>https://ildaro.com/9193</guid>
-            <pubDate>Sat, 06 Nov 2021 11:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[가난하게 살았고, 이사를 자주 다녀야 해서 불필요한 건 다 버려야 했어요. 소중한 책이나 물건도요. 역사라는 것도, 있는 사람들이 가질 수 있는 거라고 생각해요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110650494337.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
