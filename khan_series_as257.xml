@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 00:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 01:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#스쿨미투 3년, 피해자 아버지에게 날아온 익명의 협박편지]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112011014001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112011014001</guid>
+            <pubDate>Wed, 01 Dec 2021 01:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[“K선생님은 C중학교 스쿨미투의 매우 사악한 학생들의 허위진술로 인해 고통스러운 나날을 보내고 계십니다. 그 중심에 아버님의 딸인 이현이(가명)가 있다면 믿으시겠습니까.”2019년 가을, 이현이씨(18)의 집에는 ‘보낸 사람’의 이름이 없는 편지가 도착했다. 1년 전 이씨가 허위 스쿨미투를 했으니 이제라도 진실을 밝히도록 아버지가 나서야 한다는 내용이었다. 편지 작성자는 자신을 “고3이 된 K교사의 제자들”이라고 칭했다. K교사는 당시 성추행 혐의로 기소돼 재판을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021120101000069800002591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['공무원1'의 분투에 이름을 붙이자 정치 드라마의 블루오션이 열렸다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202111301407011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 06:13:43 GMT</pubDate>
             <content:encoded><![CDATA[지난달 21일 스토킹처벌법이 시행된지 한 달이 지났지만 법이 지닌 한계가 뚜렷해 개정이 시급하다는 지적이 잇따르고 있다. 전문가들은 제한적인 스토킹 범위와 보호 대상을 넓히고 가해자 제재수단을 보강하는 동시에 피해자 지원을 더 확대해야 한다고 말한다.박보람 법률사무소 비움 변호사는 23일 한국여성정책연구원이 ‘스토킹 피해자 보호와 지원 강화를 위한 입법과제’를 주제로 진행하는 제32차 젠더와 입법포럼에서 “스토킹처벌법의 목적이 스토킹 행위의 제지와 피해...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/24/l_2021112301002973800267831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 보는 '청년'은 누구입니까]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202111241030011</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202111241030011</guid>
-            <pubDate>Wed, 24 Nov 2021 01:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[청년 활동가의 이름으로 살지만 모든 청년의 삶을 알지는 못한다. 내 이야기다. 나이는 30대 초반, 수도권을 벗어나 본 적이 없다. 스무 살 이후로는 서울에 살지만, 내 집은 가져본 적 없는 캥거루족이다. 4년제 대학을 나와 정규직으로 일하고 있다. 뭐 잘난 신상이라고 줄줄이 말하고 있나 싶지만, 겨우 몇 개의 객관적 지표가 말해주는 정형이 있다.서울에 사는 것만으로 나는 평균 이상이다. 또래 청년이라고 하면 자연스레 4년제 대학 졸업자, 정규직 노동자 위주...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/24/l_2021112301002983000268901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
