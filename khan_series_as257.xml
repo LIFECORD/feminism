@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 04:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대법 “미성년 여성 형상을 한 리얼돌, 수입 제한할 수 있다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112011340001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112011340001</guid>
+            <pubDate>Wed, 01 Dec 2021 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[여성을 본뜬 성인용품 ‘리얼돌’이 미성년 여성의 모습을 닮았다면 수입을 제한할 수 있다는 대법원 판단이 처음 나왔다.대법원 2부(주심 민유숙 대법관)는 25일 리얼돌 수입업자 A씨가 인천세관을 상대로 낸 수입 통관 보류처분 취소소송 상고심에서 A씨 승소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다.A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼돌 1개를 수입하겠다고 신고했다가 통관 보류 처분을 받게 되자 이듬해 인천세관의 처분을 취소...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021112601003501700313241.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#스쿨미투 3년, 피해자 아버지에게 날아온 익명의 협박편지]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112011014001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Nov 2021 01:55:22 GMT</pubDate>
             <content:encoded><![CDATA[“구장이 좁을 땐 수비를 좁혀서 해야 돼. 사람만 보지 말고, 볼하고 사람을 같이 봐. 상대팀에 발이 유독 빠른 선수들이 있으니까.” 지난 13일 오전 8시30분 광주시여성축구팀 ‘맏언니’인 김미화씨(54)는 동료 선수들과 식사를 하며 바쁘게 경기 전략을 세웠다. 경기도지사기 어울림축구대회 경기 당일 아침이었다. 첫 상대는 과천시여성축구팀이었다. 광주팀은 지난해 이 대회에서 과천팀에 밀려 준우승을 했다. 첫 경기부터 ‘설욕전’이자 ‘강 대 강 매치’인 셈이었다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/25/l_2021111701002235000200591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토킹처벌법 시행 한 달, 법에도 구멍이 너무 많다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111241424011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111241424011</guid>
-            <pubDate>Wed, 24 Nov 2021 06:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 21일 스토킹처벌법이 시행된지 한 달이 지났지만 법이 지닌 한계가 뚜렷해 개정이 시급하다는 지적이 잇따르고 있다. 전문가들은 제한적인 스토킹 범위와 보호 대상을 넓히고 가해자 제재수단을 보강하는 동시에 피해자 지원을 더 확대해야 한다고 말한다.박보람 법률사무소 비움 변호사는 23일 한국여성정책연구원이 ‘스토킹 피해자 보호와 지원 강화를 위한 입법과제’를 주제로 진행하는 제32차 젠더와 입법포럼에서 “스토킹처벌법의 목적이 스토킹 행위의 제지와 피해...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/24/l_2021112301002973800267831.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
