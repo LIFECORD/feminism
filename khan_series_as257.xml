@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['청년문제=남성문제'가 돼버린 대선, 그게 성차별 사회라는 증거다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112021014011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112021014011</guid>
+            <pubDate>Thu, 02 Dec 2021 01:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 이후. 기후위기를 낙관하는 이들은 없다. 팬데믹은 지속될 것이다. 2년간 일상의 불편은 말할 것도 없고 생계와 생명을 잃은 이들을 생각해 보라. 나는 당연히 이번 대선의 주요 의제가 환경, 노동 문제가 될 줄 알았다. 그러나 거대 양당은 일부 남성의 성차별 의식을 이용, 이를 표로 연결시키는 데 골몰하고 있다. 며칠 전 경향신문 보도대로, “젠더 지우기로 젠더 공략하는 ‘젠더 대선’”이다.최근 한국 사회에서 세대 차이(generation gap)만큼 골치 아픈 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/02/l_2021112401003218000288441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대법 “미성년 여성 형상을 한 리얼돌, 수입 제한할 수 있다”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112011340001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Nov 2021 07:11:46 GMT</pubDate>
             <content:encoded><![CDATA[“#WITH YOU(위드유)”, “WE CAN DO ANYTHING(위캔두애니싱)”, “#ME TOO(미투)” 2018년 봄 서울 노원구 용화여고에는 이런 문구의 포스트잇이 붙었다. 졸업생들이 2012년 겪은 성폭력을 고발하자 재학생들이 호응한 ‘창문미투’였다. ‘더는 참지 않겠다’는 서로의 마음을 확인한 소녀들은 거침이 없었다. 용화여고 이후 스쿨미투는 전국 100곳 남짓의 학교로 급격히 확산됐다. 한국의 학생인권사와 성평등사에 길이 남을 만한 스쿨미투는 이렇게 시작됐다.그후 3년 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/25/l_2021112201002891800259554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“축구는 그냥… 사랑” 차고, 달리고, 싸우는 언니들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111251018001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111251018001</guid>
-            <pubDate>Thu, 25 Nov 2021 01:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[“구장이 좁을 땐 수비를 좁혀서 해야 돼. 사람만 보지 말고, 볼하고 사람을 같이 봐. 상대팀에 발이 유독 빠른 선수들이 있으니까.” 지난 13일 오전 8시30분 광주시여성축구팀 ‘맏언니’인 김미화씨(54)는 동료 선수들과 식사를 하며 바쁘게 경기 전략을 세웠다. 경기도지사기 어울림축구대회 경기 당일 아침이었다. 첫 상대는 과천시여성축구팀이었다. 광주팀은 지난해 이 대회에서 과천팀에 밀려 준우승을 했다. 첫 경기부터 ‘설욕전’이자 ‘강 대 강 매치’인 셈이었다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/25/l_2021111701002235000200591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
