@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 00:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/25/l_2021111701002235000200591.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지난 일주일을 리뷰해봤다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/564</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/564</guid>
+            <pubDate>Thu, 02 Dec 2021 00:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 25일부터 어제(1일)까지는 '세계 여성 폭력 추방 주간'이었습니다. 특별한 주간을 가진다고 해서, 8년 사이 8.2배 증가한 가정폭력의 증가세가, 남성이 94.1%를 차지하는 불법촬영 범죄 가해 비율이, 한해 1만 건에 가까운 데이트 폭력 건수가 줄거나 멈추는 것은 아닐 것입니다. 하지만 적어도 이 기간만큼은 '젠더 폭력' 희생자를 애도하고, 사회가 나아가야 할 길을 고민하는 계기가 되어야 할 것입니다. 지난 1주일 '세계 여성 폭력 추방 주간' 한국에서 일어난 일을 리뷰합니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/888f2a23-b30e-4d30-bf8b-b711c673a0c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 여성들은 왜 죽어야 했나요 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/553</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/553</guid>
@@ -286,14 +294,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
             <content:encoded><![CDATA[3주 전에 보내드렸던 뉴스레터, 기억하시나요?  '남성 표준 세상'에서 데이터에는 젠더 공백이 생기고, 여성들의 경험은 간과되기 쉽다는 문제의식을 함께 나눠보았는데요. 이번 주에는 이 같은 문제의식을 공유하는 한국일보의 기사를 소개하려고 해요. 여러분은 주의력결핍과잉행동장애(ADHD) 증상을 떠올릴 때 어떤 모습이 그려지시나요? 혹시 눈에 띄는 과잉행동을 하는 어린 남자아이들의 모습이었나요? 그게 바로 이번 주의 주제입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/ee99021d-11fc-4166-94c8-f4c2a6f153b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자가 가난해지는 데에는 다 이유가 있다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/437</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/437</guid>
-            <pubDate>Sat, 23 Oct 2021 14:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 '돈'에 대해 이야기 해보려고 해요. 혹시 여러분은 여자라서 얼마를 '더' 손해 보는지, 계산을 해본 적 있으신가요? 그냥 고시원 말고 더 비싼 비용을 지불하고 '여성 전용' 고시원에 들어간 적은 없나요? 자취방 안전을 확보하기 위해 현관에 내어 놓은 '남성 신발'은 얼마였나요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e33ae7b6-9a7f-4df0-9c81-75459f0b9bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌려 쓰고 다시 쓰고…기후위기 시대의 경제 (일다 ─ 전체기사)]]></title>
