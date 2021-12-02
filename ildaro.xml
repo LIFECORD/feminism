@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 03:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 04:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Corset-free Movement, like a Girl]]></title>
+            <link>https://ildaro.com/9214</link>
+            <guid>https://ildaro.com/9214</guid>
+            <pubDate>Thu, 02 Dec 2021 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[I want to convey a more active message of support to those walking forbidden paths, those struggling on their own in the absence of role models....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120205259443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌려 쓰고 다시 쓰고…기후위기 시대의 경제]]></title>
             <link>https://ildaro.com/9213</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 09 Nov 2021 12:16:31 GMT</pubDate>
             <content:encoded><![CDATA[Three years have passed since the bullying and harassment I experienced, but I still feel helpless against school violence [if I were to experience it again]....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110949218662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아픈 몸’을 가지고, 당신에게 말 걸기]]></title>
-            <link>https://ildaro.com/9194</link>
-            <guid>https://ildaro.com/9194</guid>
-            <pubDate>Mon, 08 Nov 2021 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[나는 질병을 가진 내 삶을 상상하지 못했다. 그런 경험들이 나와 당신들 사이의 ‘대화’를 포기하게 만들 것이라고도 생각하지 못했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021110850367481.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
