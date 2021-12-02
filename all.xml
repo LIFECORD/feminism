@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 13:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 14:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,20 +111,20 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/25/2021111701002235000200591.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대법 “미성년 여성 형상을 한 리얼돌, 수입 제한할 수 있다”[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112011340001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112011340001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 01 Dec 2021 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 01]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/01/l_2021112601003501700313241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['청년문제=남성문제'가 돼버린 대선, 그게 성차별 사회라는 증거다[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112021014011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202112021014011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 02 Dec 2021 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 02]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/02/l_2021112401003218000288441.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법 “미성년 여성 형상을 한 리얼돌, 수입 제한할 수 있다”[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112011340001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112011340001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 01 Dec 2021 05:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 01]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/01/l_2021112601003501700313241.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무용수, 스파이, 인권운동가… 판테온 입성한 첫 흑인 여성의 무지갯빛 투쟁사[플랫] (경향신문 ─ 플랫)]]></title>
