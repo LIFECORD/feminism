@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최재천 "남성이 경제권을 독점하는 사회는 '자연'스럽지 않다"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112031404001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112031404001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 03 Dec 2021 05:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[최재천 이화여대 에코과학부 석좌교수는 2013년 경향신문과 여성 일자리에 대한 인터뷰를 진행하면서 ‘미니멈 크리티컬 매스(최소 임계 질량)’이라는 개념을 꺼내들었습니다. 실질적인 성평등을 실현하려면 일정 비율 이상의 여성 인력을 ‘인위적으로’ 확보해야 해야 한다는 주장을 펼치면서였습니다. 암컷이 중심이 되는 동물사회와 달리 인간사회는 남성이 경제권을 독점하며 여성을 지배해왔는데, 최 교수는 오히려 이 상태가 ‘자연스럽지’ 않은 것이라고 봤습니다. 여성 할당제는 “기울어진 추의 균형을 회복해나가는 과정”이라는 것이죠. 7년이 지난 지금, 가정과 일터에서의 성차별을 바로잡기 위한 논의는 얼마나 진전됐을까요. 플랫팀이 7년전 최 교수의 인터뷰 기사를 다시 소개합니다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/03/2021120201000319400024191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사람 잃고 '외양간'만 고치는 신변보호 대책]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112031003001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -101,14 +109,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <pubDate>Fri, 26 Nov 2021 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[요즘 독자들은 언론에서 교제 폭력(데이트폭력)에 대한 보도를 자주 접하게 되었다고 느낄지도 모르겠다. 실제로 ‘안전이별’이 청년 여성들 간 주요 공유 키워드가 된 2010년대 이후로, 교제 폭력 신고 건수가 날로 증가 추세에 있다고 한다. 최근 들어 발생한 교제 폭력 사건의 경우 폭력의 양상이 급격하게 심화된 경우가 많아 언론의 주목도가 더욱 높아졌다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/2021112201002888600259301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선후배가 함께 만든 '용화여고 창문미투' 그 후 3년간의 이야기]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202111251530001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202111251530001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 25 Nov 2021 07:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[“#WITH YOU(위드유)”, “WE CAN DO ANYTHING(위캔두애니싱)”, “#ME TOO(미투)” 2018년 봄 서울 노원구 용화여고에는 이런 문구의 포스트잇이 붙었다. 졸업생들이 2012년 겪은 성폭력을 고발하자 재학생들이 호응한 ‘창문미투’였다. ‘더는 참지 않겠다’는 서로의 마음을 확인한 소녀들은 거침이 없었다. 용화여고 이후 스쿨미투는 전국 100곳 남짓의 학교로 급격히 확산됐다. 한국의 학생인권사와 성평등사에 길이 남을 만한 스쿨미투는 이렇게 시작됐다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/25/2021112201002891800259554.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

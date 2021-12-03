@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최재천 "남성이 경제권을 독점하는 사회는 '자연'스럽지 않다"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112031404001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112031404001</guid>
+            <pubDate>Fri, 03 Dec 2021 05:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[최재천 이화여대 에코과학부 석좌교수는 2013년 경향신문과 여성 일자리에 대한 인터뷰를 진행하면서 ‘미니멈 크리티컬 매스(최소 임계 질량)’이라는 개념을 꺼내들었습니다. 실질적인 성평등을 실현하려면 일정 비율 이상의 여성 인력을 ‘인위적으로’ 확보해야 해야 한다는 주장을 펼치면서였습니다. 암컷이 중심이 되는 동물사회와 달리 인간사회는 남성이 경제권을 독점하며 여성을 지배해왔는데, 최 교수는 오히려 이 상태가 ‘자연스럽지’ 않은 것이라고 봤습니다. 여성 할...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/03/l_2021120201000319400024191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사람 잃고 '외양간'만 고치는 신변보호 대책]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112031003001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Nov 2021 01:54:28 GMT</pubDate>
             <content:encoded><![CDATA[중국 테니스 선수 펑솨이(彭師)의 행방에 관한 기사가 며칠 새 국내외 언론을 달궜다. 펑솨이는 2014년 중국인으로는 처음 여자 복식 세계랭킹 1위에 올랐던 테니스 스타다. 최근 그가 언론의 주목을 받은 것은 ‘미투(MeeToo)’ 선언 때문이다. 펑솨이는 지난 2일 중국 사회관계망서비스(SNS) 웨이보에 장가오리(張高麗) 전 중국 부총리로부터 성폭행을 당했다고 폭로하는 글을 올렸다. 장가오리는 2018년 은퇴 전까지 중국 공산당 중앙정치국 상무위원으로 권력 서열 7위였다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/29/l_2021112901003721100334371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['묵음처리' 되었던 농촌 여성에게 소설은 해방구였다]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202111261529001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202111261529001</guid>
-            <pubDate>Fri, 26 Nov 2021 07:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[“삼백예순 날에서 삼백 날을 넘게 밭고랑을 기어다니고 소똥을 치우고 살아도 빚더미 속에서 다리 한번 제대로 펴보지 못하는데 서방이라는 작자까지 흘리고 다니는 일거리가 발에 채여서 지 맘대로 나오는 숨도 조절해서 쉬어야 할 판이었다.”(‘이른 봄’)정성숙 작가(56)의 첫 소설집 &lt;호미&gt;에는 “밭고랑을 기어다닌다”는 표현이 자주 등장한다. 농사는 그만큼 고된 일이지만 “농사꾼 모두가 부지런했던 죄의 값”으로 농산품 가격은 속절없이 떨어진다. 소설 속 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/26/l_2021112201002859600257111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
