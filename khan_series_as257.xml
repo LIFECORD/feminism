@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 00:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 01:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람 잃고 '외양간'만 고치는 신변보호 대책]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112031003001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112031003001</guid>
+            <pubDate>Fri, 03 Dec 2021 01:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[스토킹이나 성폭력, 협박 등 피해자에 대한 ‘신변보호’ 조치건수가 최근 5년 사이 4배 가량 급증한 것으로 나타났다. 연간 2만명에 이르는 피해자들이 경찰의 신변보호를 받고 있지만 최근 서울 중구 오피스텔에서 발생한 ‘스토킹 살인’과 같은 참극을 막지 못하는 사례도 잇따르고 있다. 늘어만 가는 신변보호 요청을 뒷받침할 장비·인력·시스템이 총체적으로 미흡하다는 지적이 제기된다.경찰청에 따르면 올 들어 10월까지 내려진 신변보호 조치건수는 1만9206건에 이른다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/03/l_2021120301000437500034672.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무용수, 스파이, 인권운동가… 판테온 입성한 첫 흑인 여성의 무지갯빛 투쟁사]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202112021437001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Nov 2021 07:10:56 GMT</pubDate>
             <content:encoded><![CDATA[“삼백예순 날에서 삼백 날을 넘게 밭고랑을 기어다니고 소똥을 치우고 살아도 빚더미 속에서 다리 한번 제대로 펴보지 못하는데 서방이라는 작자까지 흘리고 다니는 일거리가 발에 채여서 지 맘대로 나오는 숨도 조절해서 쉬어야 할 판이었다.”(‘이른 봄’)정성숙 작가(56)의 첫 소설집 &lt;호미&gt;에는 “밭고랑을 기어다닌다”는 표현이 자주 등장한다. 농사는 그만큼 고된 일이지만 “농사꾼 모두가 부지런했던 죄의 값”으로 농산품 가격은 속절없이 떨어진다. 소설 속 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/26/l_2021112201002859600257111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202111261023001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202111261023001</guid>
-            <pubDate>Fri, 26 Nov 2021 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 독자들은 언론에서 교제 폭력(데이트폭력)에 대한 보도를 자주 접하게 되었다고 느낄지도 모르겠다. 실제로 ‘안전이별’이 청년 여성들 간 주요 공유 키워드가 된 2010년대 이후로, 교제 폭력 신고 건수가 날로 증가 추세에 있다고 한다. 최근 들어 발생한 교제 폭력 사건의 경우 폭력의 양상이 급격하게 심화된 경우가 많아 언론의 주목도가 더욱 높아졌다.교제 폭력과 같이 이전에는 사소하게 여겨지거나 개인적 문제로 치부되던 것을 사회구조적 문제로 바라보고 해...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/11/26/l_2021112201002888600259301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
