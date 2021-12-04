@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 08:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 09:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="https://image.hankookilbo.com/board/ee99021d-11fc-4166-94c8-f4c2a6f153b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레이에 대하여, 당신은 얼마나 알고 있나요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9216</link>
+            <guid>https://ildaro.com/9216</guid>
+            <pubDate>Sat, 04 Dec 2021 09:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[성소수자의 문제를 이야기할 때 얼마나 많은 불필요한 시점들이 있는가. 저들이 불편하다는, 저들이 보기 싫다는 이유로....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120452517121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성폭력 피해자가 온당히 ‘손해배상’ 받을 수 있어야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9215</link>
             <guid>https://ildaro.com/9215</guid>
@@ -445,14 +453,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[국회엔 정말 ‘충분한’ 시간이 없었던 것일까? 한국 사회는 여전히 차별금지법 제정을 하기에 이른 것일까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111142404870.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘폭포의 여왕’ 할머니의 실패담에 마음 끌리는 이유 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9196</link>
-            <guid>https://ildaro.com/9196</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[중년이라고 불리는 나이가 된 지금, 나 역시 애니처럼 앞으로 어떻게 살아야 할까, 어떻게 늙어 가야 할까 고민하곤 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111018574661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
