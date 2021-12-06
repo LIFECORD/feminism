@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 01:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="https://image.hankookilbo.com/board/ee99021d-11fc-4166-94c8-f4c2a6f153b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영혼을 파는(selling) 대신 항해한(sailing) 기록 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9217</link>
+            <guid>https://ildaro.com/9217</guid>
+            <pubDate>Mon, 06 Dec 2021 09:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[앨범 제목은 영혼을 파는(selling) 대신 항해하겠다(sailing)는 의미를 담고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120654329573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레이에 대하여, 당신은 얼마나 알고 있나요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9216</link>
             <guid>https://ildaro.com/9216</guid>
@@ -445,14 +453,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[기타하라 미노리 씨. 1990년대부터 그의 활동은 일본 페미니즘과 서브컬쳐 영역에서 독보적이었다. 여성을 위한 섹스 굿즈숍 ‘러브 피스 클럽’(LOVE PEACE CLUB)을 설립한...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111241403019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별금지법 제정, 아직도 시간이 필요하다는 국회에게 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9197</link>
-            <guid>https://ildaro.com/9197</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[국회엔 정말 ‘충분한’ 시간이 없었던 것일까? 한국 사회는 여전히 차별금지법 제정을 하기에 이른 것일까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111142404870.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
