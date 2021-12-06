@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투표도 '나중에' 하겠습니다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202112061344001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202112061344001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 06 Dec 2021 05:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[꾸중을 들을 게 뻔하지만 밝히고 싶다. 나는 내년 대선 때 기권하기로 마음먹었다.
+투표권이 생긴 이후로 꾸준히 선거에 참여했다. 찍고 싶은 후보가 명확한 적도 있었고, 당을 보고 찍은 적도 있었다. 당선 가능성은 적지만 지지하는 마음을 보태고 싶어 투표한 적도 있다. 점점 더 선택하기가 참 어렵구나 싶었지만 인생이 원래 그런 것 아니겠냐고, 완벽히 마음에 드는 선택지 같은 건 없는 것이라고 다독였다. 투표하지 않는 것은 부끄러운 일이라고 배웠기 때문이다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/06/2021120301000302300023051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최재천 "남성이 경제권을 독점하는 사회는 '자연'스럽지 않다"]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112031404001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -101,14 +110,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <content:encoded><![CDATA[“삼백예순 날에서 삼백 날을 넘게 밭고랑을 기어다니고 소똥을 치우고 살아도 빚더미 속에서 다리 한번 제대로 펴보지 못하는데 서방이라는 작자까지 흘리고 다니는 일거리가 발에 채여서 지 맘대로 나오는 숨도 조절해서 쉬어야 할 판이었다.”(‘이른 봄’)
 정성숙 작가(56)의 첫 소설집 &lt;호미&gt;에는 “밭고랑을 기어다닌다”는 표현이 자주 등장한다. 농사는 그만큼 고된 일이지만 “농사꾼 모두가 부지런했던 죄의 값”으로 농산품 가격은 속절없이 떨어진다. 소설 속 농촌은 ‘공기 좋고 물 좋은 고향땅’이란 환상과 거리가 멀다. 일할수록 불기만 하는 빚더미만 널려 있다. 여성 농민의 삶은 그 속에서도 유독 신산하다. 수록작 ‘이른 봄’에서 귀숙은 “호적상으로만 경석의 아내일 뿐 실상은 머슴”인 신세를 한탄한다. 논밭에서도 축사에서도 집안에서도 아내들은 남편보다 더 많이 일한다. 그러고도 어른 취급을 못 받는다. 가정 폭력에 시달린다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/2021112201002859600257111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안전이별' 필요한 ‘교제 폭력’ 의 현실]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202111261023001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 26 Nov 2021 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 독자들은 언론에서 교제 폭력(데이트폭력)에 대한 보도를 자주 접하게 되었다고 느낄지도 모르겠다. 실제로 ‘안전이별’이 청년 여성들 간 주요 공유 키워드가 된 2010년대 이후로, 교제 폭력 신고 건수가 날로 증가 추세에 있다고 한다. 최근 들어 발생한 교제 폭력 사건의 경우 폭력의 양상이 급격하게 심화된 경우가 많아 언론의 주목도가 더욱 높아졌다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/26/2021112201002888600259301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
