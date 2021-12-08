@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 00:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 02:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 보는 광고, 이미지들을 젠더 관점으로 읽기]]></title>
+            <link>https://ildaro.com/9219</link>
+            <guid>https://ildaro.com/9219</guid>
+            <pubDate>Wed, 08 Dec 2021 10:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[표상이 의도하는 것을 제대로 읽어내는 방법을 모르면, 무의식적으로 그 이미지에 세뇌당해버리게 되죠....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120820438655.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“자신이 겪는 이 일이 중요한 문제라고 말해주는 사람”]]></title>
             <link>https://ildaro.com/9218</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 Nov 2021 11:24:00 GMT</pubDate>
             <content:encoded><![CDATA[지도를 펼쳐 그가 살고 있다는 마을의 이름을 찾아냈다. 내가 있는 데서 여기까지가… 아, 나는 어디에 있는 거지?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111534003268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본의 미투(#MeToo)는 이렇게 시작됐다]]></title>
-            <link>https://ildaro.com/9199</link>
-            <guid>https://ildaro.com/9199</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[플라워 시위에 참여한 사람들은 99% 여성이었고, 세대도 폭넓은 사람들이 왔어요. 모두 자신의 이야기를 시작하는데. 그때 아 드디어 시작했구나 라고 느낀 순간이었어...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111328372182.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
