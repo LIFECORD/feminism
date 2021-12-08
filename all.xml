@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/11/30/2021112901003764000338391.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청소년 5명 중 1명 “디지털 성범죄 위험에 노출된 적 있다”[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112071454001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112071454001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 07 Dec 2021 08:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 07]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/07/l_2021120101000066800002271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[꼭 우리들 이야기같은 '술도녀'들의 너절한 일상[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112081006011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202112081006011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -126,10 +118,18 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120301000521900041051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[청소년 5명 중 1명 “디지털 성범죄 위험에 노출된 적 있다”[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112071454001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112071454001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 07 Dec 2021 08:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 07]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/07/l_2021120101000066800002271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패싱, 내가 나일 수 없는 세계에서 살아남는 법[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 06:12:25 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 08]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120201000298700022731.jpg" length="0" type="image/jpg"/>
         </item>
