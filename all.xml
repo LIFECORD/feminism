@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 22:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 23:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,14 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021112601003501700313241.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사라진 젠더 감수성을 찾아서 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/577</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/577</guid>
+            <pubDate>Wed, 08 Dec 2021 23:11:01 GMT</pubDate>
+            <content:encoded><![CDATA['성별에 의해 차별받지 않는 성평등 민주주의 구현' '모든 영역에서 실질적인 성평등 대책 수립' '혐오와 폭력으로부터 여성이 안전한 사회' 등 당시 민주당 서약서에 등장했던 문구들은 이번 대선에서 중요하게 다뤄지고 있을까요? 기대와 달리 현재까지는 성평등 원칙이 무너진 장면을 더 많이 보고 있는 것 같습니다. 거대 양당의 대선 주자가 페미니즘을 공격하는 남초 커뮤니티의 글을 공유하는가 하면, 성범죄 무고죄를 강화하겠다는 공약을 내걸고 있기 때문이죠. 이제 대선까지 100일도 채 남지 않았습니다. 이번 주 허스토리는 지금까지 대선 경선 및 정치권에서 일어난 일들을 젠더 관점에서 톺아봅니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/b18ddf58-0153-4667-bf6b-a7da1c649000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지난 일주일을 리뷰해봤다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/564</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/564</guid>
@@ -284,14 +292,6 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
             <content:encoded><![CDATA[과거 남성 연예인들이 장악했던 예능판에, 여성 출연자들이 늘어나고 여성 서사를 소재로 삼은 프로그램이 생겨나면서 다채로운 여성의 모습을 볼 수 있게 된 것. 참 즐거운 일이지 않나요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/188918f2-9577-4bde-bcef-9e6736be8647.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환자가 됐다, 그러자 행복해졌다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/455</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/455</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[3주 전에 보내드렸던 뉴스레터, 기억하시나요?  '남성 표준 세상'에서 데이터에는 젠더 공백이 생기고, 여성들의 경험은 간과되기 쉽다는 문제의식을 함께 나눠보았는데요. 이번 주에는 이 같은 문제의식을 공유하는 한국일보의 기사를 소개하려고 해요. 여러분은 주의력결핍과잉행동장애(ADHD) 증상을 떠올릴 때 어떤 모습이 그려지시나요? 혹시 눈에 띄는 과잉행동을 하는 어린 남자아이들의 모습이었나요? 그게 바로 이번 주의 주제입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/ee99021d-11fc-4166-94c8-f4c2a6f153b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매일 보는 광고, 이미지들을 젠더 관점으로 읽기 (일다 ─ 전체기사)]]></title>
