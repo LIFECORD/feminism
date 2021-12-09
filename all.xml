@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 21:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 22:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,20 +118,20 @@ A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼�
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/09/l_2021120901001145200098641.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패싱, 내가 나일 수 없는 세계에서 살아남는 법[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 08 Dec 2021 06:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 08]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120201000298700022731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[플랫pick]학대에서 벗어나기 위해 여성 가수 지망생이 한 일[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112091439001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202112091439001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 09 Dec 2021 06:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 09]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/09/l_2021120201000111200006181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패싱, 내가 나일 수 없는 세계에서 살아남는 법[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 08 Dec 2021 06:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 08]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120201000298700022731.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[학대에서 벗어나기 위해 여성 가수 지망생이 한 일[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
