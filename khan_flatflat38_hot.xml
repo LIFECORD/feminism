@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 01:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120301000521900041051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패싱, 내가 나일 수 없는 세계에서 살아남는 법[플랫]]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 08]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120201000298700022731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[여성을 '젖소'에 비유한 서울우유의 황당한 해명[플랫]]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112091000001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202112091000001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 09]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/09/l_2021120901001145200098641.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패싱, 내가 나일 수 없는 세계에서 살아남는 법[플랫]]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112081508011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 08]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/l_2021120201000298700022731.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
