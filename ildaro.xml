@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 03:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙고와 경청의 정치가 세계를 움직이다]]></title>
+            <link>https://ildaro.com/9220</link>
+            <guid>https://ildaro.com/9220</guid>
+            <pubDate>Thu, 09 Dec 2021 11:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 리더십으로 독일과 유럽뿐 아니라 세계 정치의 중심에 섰던 메르켈 총리의 지난 16년을 돌아본다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120934216518.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 보는 광고, 이미지들을 젠더 관점으로 읽기]]></title>
             <link>https://ildaro.com/9219</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[I look in the mirror. What I see is unfamiliar. Awkward. My hair, cut short last week, bothers me....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111609543863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무수한 ‘나’와 ‘너’가 서로에게 말을 걸 때]]></title>
-            <link>https://ildaro.com/9200</link>
-            <guid>https://ildaro.com/9200</guid>
-            <pubDate>Mon, 15 Nov 2021 11:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[지도를 펼쳐 그가 살고 있다는 마을의 이름을 찾아냈다. 내가 있는 데서 여기까지가… 아, 나는 어디에 있는 거지?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111534003268.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
