@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 00:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 01:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성을 '젖소'에 비유한 서울우유의 황당한 해명]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112091000001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112091000001</guid>
+            <pubDate>Thu, 09 Dec 2021 01:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[서울우유가 유기농 우유 광고 영상에서 젖소를 여성에 비유해 ‘여성혐오’라는 비판을 받았다. 해당 광고는 유튜브에서 8일 비공개로 전환됐다.서울우유는 지난달 29일 공식 유튜브 채널에 새로 제작한 유기농 우유를 홍보하는 광고 영상을 올렸다. 광고는 탐험가 차림을 한 남성이 카메라를 들고 숲속에서 무언가를 찾는 장면으로 시작된다. 이어 “그들을 만나러 도착한 곳. 자연 그대로의 깨끗함을 간직한 그곳에서 우리는 마침내 그들의 모습을 카메라에 담는 것에 성공했...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/09/l_2021120901001145200098641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패싱, 내가 나일 수 없는 세계에서 살아남는 법]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112081508011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 01:54:35 GMT</pubDate>
             <content:encoded><![CDATA[코로나 이후. 기후위기를 낙관하는 이들은 없다. 팬데믹은 지속될 것이다. 2년간 일상의 불편은 말할 것도 없고 생계와 생명을 잃은 이들을 생각해 보라. 나는 당연히 이번 대선의 주요 의제가 환경, 노동 문제가 될 줄 알았다. 그러나 거대 양당은 일부 남성의 성차별 의식을 이용, 이를 표로 연결시키는 데 골몰하고 있다. 며칠 전 경향신문 보도대로, “젠더 지우기로 젠더 공략하는 ‘젠더 대선’”이다.최근 한국 사회에서 세대 차이(generation gap)만큼 골치 아픈 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/02/l_2021112401003218000288441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대법 “미성년 여성 형상을 한 리얼돌, 수입 제한할 수 있다”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112011340001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112011340001</guid>
-            <pubDate>Wed, 01 Dec 2021 05:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[여성을 본뜬 성인용품 ‘리얼돌’이 미성년 여성의 모습을 닮았다면 수입을 제한할 수 있다는 대법원 판단이 처음 나왔다.대법원 2부(주심 민유숙 대법관)는 지난달 25일 리얼돌 수입업자 A씨가 인천세관을 상대로 낸 수입 통관 보류처분 취소소송 상고심에서 A씨 승소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다.A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼돌 1개를 수입하겠다고 신고했다가 통관 보류 처분을 받게 되자 이듬해 인천세관의 처분...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/01/l_2021112601003501700313241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
