@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학대에서 벗어나기 위해 여성 가수 지망생이 한 일[플랫]]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112091439001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112091439001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 09 Dec 2021 06:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 21세기의 주인공이 밤마다 1960년대의 가수지망생이 되는 영화 &lt;라스트 나잇 인 소호&gt;, 78회 베니스영화제 감독상을 수상한 제인 캠피언표 서부극 &lt;파워 오브 도그&gt; 입니다.
+1960년대 런던에서 목격한 악몽같은 현실 &lt;라스트 나잇 인 소호&gt;]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/09/2021120201000111200006181.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성을 '젖소'에 비유한 서울우유의 황당한 해명]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112091000001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -99,15 +108,6 @@
 대법원 2부(주심 민유숙 대법관)는 지난달 25일 리얼돌 수입업자 A씨가 인천세관을 상대로 낸 수입 통관 보류처분 취소소송 상고심에서 A씨 승소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다.
 A씨는 2019년 9월 중국 업체에서 여성의 신체 형상을 한 리얼돌 1개를 수입하겠다고 신고했다가 통관 보류 처분을 받게 되자 이듬해 인천세관의 처분을 취소해달라는 소송을 냈다. 이 인형은 전체 길이가 약 150㎝, 무게는 17.4㎏이었다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/01/2021112601003501700313241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#스쿨미투 3년, 피해자 아버지에게 날아온 익명의 협박편지]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112011014001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112011014001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 01 Dec 2021 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[“K선생님은 C중학교 스쿨미투의 매우 사악한 학생들의 허위진술로 인해 고통스러운 나날을 보내고 계십니다. 그 중심에 아버님의 딸인 이현이(가명)가 있다면 믿으시겠습니까.”
-2019년 가을, 이현이씨(18)의 집에는 ‘보낸 사람’의 이름이 없는 편지가 도착했다. 1년 전 이씨가 허위 스쿨미투를 했으니 이제라도 진실을 밝히도록 아버지가 나서야 한다는 내용이었다. 편지 작성자는 자신을 “고3이 된 K교사의 제자들”이라고 칭했다. K교사는 당시 성추행 혐의로 기소돼 재판을 받고 있었다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/01/2021120101000069800002591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

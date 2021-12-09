@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학대에서 벗어나기 위해 여성 가수 지망생이 한 일[플랫]]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112091439001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112091439001</guid>
+            <pubDate>Thu, 09 Dec 2021 06:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 21세기의 주인공이 밤마다 1960년대의 가수지망생이 되는 영화 &lt;라스트 나잇 인 소호&gt;, 78회 베니스영화제 감독상을 수상한 제인 캠피언표 서부극 &lt;파워 오브 도그&gt; 입니다.1960년대 런던에서 목격한 악몽같은 현실 &lt;라스트 나잇 인 소호&gt; 디자이너의 꿈을 꾸는 엘리(토마신 맥켄지)는 영국 런던의 패...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/09/l_2021120201000111200006181.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성을 '젖소'에 비유한 서울우유의 황당한 해명]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112091000001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 06:12:46 GMT</pubDate>
             <content:encoded><![CDATA[샹젤리제 극장에서 공연한 미국인 무용수, 세계 최초의 흑인 여성 슈퍼스타, 제2차 세계대전 스파이, 프랑스 공군 소위, 인종차별에 맞선 인권운동가. 여러 직업을 넘나들며 다채로운 삶을 살아온 조세핀 베이커의 인생에는 일맥상통하는 가치가 있었다. 바로 자유와 정의다. 이는 그녀가 프랑스 위인들을 기리는 판테온에 입성하는 열쇠가 되어주었다.베이커는 지난달 30일(현지시간) 흑인 여성으로선 처음으로 판테온에 안치됐다. 판테온은 18세기 지어진 신고전주의 성당으로 현...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/02/l_2021112901003799400341191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청년문제=남성문제'가 돼버린 대선, 그게 성차별 사회라는 증거다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112021014011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112021014011</guid>
-            <pubDate>Thu, 02 Dec 2021 01:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 이후. 기후위기를 낙관하는 이들은 없다. 팬데믹은 지속될 것이다. 2년간 일상의 불편은 말할 것도 없고 생계와 생명을 잃은 이들을 생각해 보라. 나는 당연히 이번 대선의 주요 의제가 환경, 노동 문제가 될 줄 알았다. 그러나 거대 양당은 일부 남성의 성차별 의식을 이용, 이를 표로 연결시키는 데 골몰하고 있다. 며칠 전 경향신문 보도대로, “젠더 지우기로 젠더 공략하는 ‘젠더 대선’”이다.최근 한국 사회에서 세대 차이(generation gap)만큼 골치 아픈 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/02/l_2021112401003218000288441.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
