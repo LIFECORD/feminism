@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 지금 바빠 생각 중이야]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112101646001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112101646001</guid>
+            <pubDate>Fri, 10 Dec 2021 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.[퇴근 후 만나요] 나 지금 바빠 생각 중이야 태희 : 나 지금 바빠. 생각 중이야.태희의 오빠 : 그게 노는 거지 뭐야?영화 &lt;고양이를 부탁해&gt;에 이런 대사가 나온다. 가만히 바쁠 수 있다. 노는 것과 바쁜 것이 대치되...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/10/l_2021120801001024600088452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미녀'가 등장하는 광고는 성공한다는 그 법칙은 틀렸다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112101108001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Dec 2021 05:11:31 GMT</pubDate>
             <content:encoded><![CDATA[최재천 이화여대 에코과학부 석좌교수는 2013년 경향신문과 여성 일자리에 대한 인터뷰를 진행하면서 ‘미니멈 크리티컬 매스(최소 임계 질량)’이라는 개념을 꺼내들었습니다. 실질적인 성평등을 실현하려면 일정 비율 이상의 여성 인력을 ‘인위적으로’ 확보해야 해야 한다는 주장을 펼치면서였습니다. 암컷이 중심이 되는 동물사회와 달리 인간사회는 남성이 경제권을 독점하며 여성을 지배해왔는데, 최 교수는 오히려 이 상태가 ‘자연스럽지’ 않은 것이라고 봤습니다. 여성 할...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/03/l_2021120201000319400024191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람 잃고 '외양간'만 고치는 신변보호 대책]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112031003001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112031003001</guid>
-            <pubDate>Fri, 03 Dec 2021 01:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[스토킹이나 성폭력, 협박 등 피해자에 대한 ‘신변보호’ 조치건수가 최근 5년 사이 4배 가량 급증한 것으로 나타났다. 연간 2만명에 이르는 피해자들이 경찰의 신변보호를 받고 있지만 최근 서울 중구 오피스텔에서 발생한 ‘스토킹 살인’과 같은 참극을 막지 못하는 사례도 잇따르고 있다. 늘어만 가는 신변보호 요청을 뒷받침할 장비·인력·시스템이 총체적으로 미흡하다는 지적이 제기된다.경찰청에 따르면 올 들어 10월까지 내려진 신변보호 조치건수는 1만9206건에 이른다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/03/l_2021120301000437500034672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

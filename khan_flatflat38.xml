@@ -4,9 +4,20 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 지금 바빠 생각 중이야]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112101646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112101646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 10 Dec 2021 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.
+[퇴근 후 만나요] 나 지금 바빠 생각 중이야
+태희 : 나 지금 바빠. 생각 중이야.
+태희의 오빠 : 그게 노는 거지 뭐야?]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/10/2021120801001024600088452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미녀'가 등장하는 광고는 성공한다는 그 법칙은 틀렸다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112101108001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -99,14 +110,6 @@
             <pubDate>Thu, 02 Dec 2021 06:12:32 GMT</pubDate>
             <content:encoded><![CDATA[샹젤리제 극장에서 공연한 미국인 무용수, 세계 최초의 흑인 여성 슈퍼스타, 제2차 세계대전 스파이, 프랑스 공군 소위, 인종차별에 맞선 인권운동가. 여러 직업을 넘나들며 다채로운 삶을 살아온 조세핀 베이커의 인생에는 일맥상통하는 가치가 있었다. 바로 자유와 정의다. 이는 그녀가 프랑스 위인들을 기리는 판테온에 입성하는 열쇠가 되어주었다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/02/2021112901003799400341191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청년문제=남성문제'가 돼버린 대선, 그게 성차별 사회라는 증거다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112021014011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112021014011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 02 Dec 2021 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 이후. 기후위기를 낙관하는 이들은 없다. 팬데믹은 지속될 것이다. 2년간 일상의 불편은 말할 것도 없고 생계와 생명을 잃은 이들을 생각해 보라. 나는 당연히 이번 대선의 주요 의제가 환경, 노동 문제가 될 줄 알았다. 그러나 거대 양당은 일부 남성의 성차별 의식을 이용, 이를 표로 연결시키는 데 골몰하고 있다. 며칠 전 경향신문 보도대로, “젠더 지우기로 젠더 공략하는 ‘젠더 대선’”이다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/02/2021112401003218000288441.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
