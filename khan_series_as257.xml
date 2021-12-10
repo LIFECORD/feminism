@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 01:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 02:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미녀'가 등장하는 광고는 성공한다는 그 법칙은 틀렸다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112101108001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112101108001</guid>
+            <pubDate>Fri, 10 Dec 2021 02:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[서울우유가 여성을 젖소에 비유하고, 불법촬영을 소재로 삼은 52초짜리 광고를 내놨다 뭇매를 맞았다. 영상을 내리고 “영상 속엔 여성 말고 남성도 있었다”는 해명과 함께 사과했지만, 논란은 쉽게 가시지 않는 분위기다.이번 사태를 보면서 기업을 취재하면서 줄곧 느껴온 ‘어떤 불편함’이 다시 떠올랐다. TV광고에 등장하는 ‘버츄얼 휴먼(가상 인간)’은 왜 모두 20대 초반의 마르고 젊은 여성일까. 기업이 보내온 신제품 이미지엔 왜 항상 여자 모델이 끼어 있는 것...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/10/l_2021120901001276800107311.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학대에서 벗어나기 위해 여성 가수 지망생이 한 일[플랫]]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112091439001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Dec 2021 01:54:06 GMT</pubDate>
             <content:encoded><![CDATA[스토킹이나 성폭력, 협박 등 피해자에 대한 ‘신변보호’ 조치건수가 최근 5년 사이 4배 가량 급증한 것으로 나타났다. 연간 2만명에 이르는 피해자들이 경찰의 신변보호를 받고 있지만 최근 서울 중구 오피스텔에서 발생한 ‘스토킹 살인’과 같은 참극을 막지 못하는 사례도 잇따르고 있다. 늘어만 가는 신변보호 요청을 뒷받침할 장비·인력·시스템이 총체적으로 미흡하다는 지적이 제기된다.경찰청에 따르면 올 들어 10월까지 내려진 신변보호 조치건수는 1만9206건에 이른다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/03/l_2021120301000437500034672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무용수, 스파이, 인권운동가… 판테온 입성한 첫 흑인 여성의 무지갯빛 투쟁사]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202112021437001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202112021437001</guid>
-            <pubDate>Thu, 02 Dec 2021 06:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[샹젤리제 극장에서 공연한 미국인 무용수, 세계 최초의 흑인 여성 슈퍼스타, 제2차 세계대전 스파이, 프랑스 공군 소위, 인종차별에 맞선 인권운동가. 여러 직업을 넘나들며 다채로운 삶을 살아온 조세핀 베이커의 인생에는 일맥상통하는 가치가 있었다. 바로 자유와 정의다. 이는 그녀가 프랑스 위인들을 기리는 판테온에 입성하는 열쇠가 되어주었다.베이커는 지난달 30일(현지시간) 흑인 여성으로선 처음으로 판테온에 안치됐다. 판테온은 18세기 지어진 신고전주의 성당으로 현...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/02/l_2021112901003799400341191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
