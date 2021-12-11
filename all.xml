@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 09:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 10:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://image.hankookilbo.com/board/188918f2-9577-4bde-bcef-9e6736be8647.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Deaf and Hard-of-Hearing Women Are Speaking Up! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9222</link>
+            <guid>https://ildaro.com/9222</guid>
+            <pubDate>Sat, 11 Dec 2021 10:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[At first I stewed over the lack of visibility the deaf community receives in Korea, but when I recognized such brooding was a luxury and that I could do something, I just started making videos....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121120107940.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[난민에게 국경을 열고 변곡점에 도달한 메르켈의 정치 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9221</link>
             <guid>https://ildaro.com/9221</guid>
@@ -446,14 +454,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[9.11 충격 등으로 아프간은 갑자기 국제적으로 높은 관심을 받기 시작했지만, 그것은 2003년 봄 이라크전쟁이 시작될 때까지의 일시적인 것에 불과했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111952306207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로 노점상 김종분, 노년 여성의 노동과 삶에 담긴 역사 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9202</link>
-            <guid>https://ildaro.com/9202</guid>
-            <pubDate>Wed, 17 Nov 2021 11:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울 지하철 왕십리역 11번 출구 앞에서 노점상을 하는 김종분 씨는 80대 여성이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111733484866.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
