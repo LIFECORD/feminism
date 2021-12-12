@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 03:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 04:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 여자의 최후의 만찬]]></title>
+            <link>https://ildaro.com/9223</link>
+            <guid>https://ildaro.com/9223</guid>
+            <pubDate>Sun, 12 Dec 2021 00:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[요컨대 이 이야기의 주인공은 무슨 사연인지 ‘정상 가족’을 꾸리지 못하고 궁벽한 산골에 혼자 살고 있으며, 보호자(?)는 물론 이른바 매력자본조차 없는 약자 중의...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121201441157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Deaf and Hard-of-Hearing Women Are Speaking Up!]]></title>
             <link>https://ildaro.com/9222</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[옛이야기에서 막내딸은 착하고 희생적인 인물로 그려질 때가 많다. 그런데 의 주인공은 이런 통념을 홀딱 뒤집는다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112029245899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제사회는 아프간 여성들의 저항에 연대하라]]></title>
-            <link>https://ildaro.com/9203</link>
-            <guid>https://ildaro.com/9203</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[9.11 충격 등으로 아프간은 갑자기 국제적으로 높은 관심을 받기 시작했지만, 그것은 2003년 봄 이라크전쟁이 시작될 때까지의 일시적인 것에 불과했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021111952306207.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
