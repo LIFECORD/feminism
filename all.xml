@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 10:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 11:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,6 +298,14 @@
             <enclosure url="https://image.hankookilbo.com/board/188918f2-9577-4bde-bcef-9e6736be8647.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘가난을 낙인찍는 사회’ 쪽방촌 주민들의 목소리 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9224</link>
+            <guid>https://ildaro.com/9224</guid>
+            <pubDate>Mon, 13 Dec 2021 11:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[가난의 얼굴로 ‘대표되는’ 쪽방촌 주민들의 과거와 현재 그리고 그들이 원하는 미래의 이야기를 담으며, 가난이 어떻게 사람들의 삶에 찾아오게 되는지 드러낸다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121324415750.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그 여자의 최후의 만찬 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9223</link>
             <guid>https://ildaro.com/9223</guid>
@@ -448,14 +456,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[좋은 집이란 대게 그런 식으로 통용된다. 좋은 집은 비싼 집. 좋은 집이란 내 소유의 집, 번듯한 집, 집 밑에 헬스장이나 수영장이 있는 집, 그거 다 있어도 임대아파트...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112213269963.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천 명을 잡아먹어야 될 수 있다는 ‘사람’은 누구인가 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9204</link>
-            <guid>https://ildaro.com/9204</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[옛이야기에서 막내딸은 착하고 희생적인 인물로 그려질 때가 많다. 그런데 의 주인공은 이런 통념을 홀딱 뒤집는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112029245899.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
