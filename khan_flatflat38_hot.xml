@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/13/l_2021121001001377500118321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나 지금 바빠 생각 중이야[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112101646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112101646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 10]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/10/l_2021120801001024600088452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국 정치가 여성을 소비하는 법[플랫]]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202112131028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/politics/politics-general/article/202112131028001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 13]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/13/l_2021120801000990100084891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유리창에 부딪힌 새의 죽음을 기록하는 여자들[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112141024001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112141024001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 14]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/14/l_2021120201000300500022881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

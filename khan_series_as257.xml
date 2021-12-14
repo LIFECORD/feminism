@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리창에 부딪힌 새의 죽음을 기록하는 여자들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112141024001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112141024001</guid>
+            <pubDate>Tue, 14 Dec 2021 01:59:28 GMT</pubDate>
+            <content:encoded><![CDATA[오목눈이, 진박새, 울새…서로 다른 새들의 사진이 매일 올라오는 인스타그램 계정이 있다. 새들이 자유롭게 나는 모습, 나무에 앉아 쉬는 모습은 아니다. 이 계정의 새들은 유리창 앞, 차가운 바닥에 누워있다. 목이 꺾여 있을 때도, 부리가 부러져 있을 때도 있다. 이화여자대학교 윈도우 스트라이크 모니터링 팀의 계정이다.이들에게 가을은 ‘충돌의 계절’이다. 올해 이화여대 내 ‘윈도우 스트라이크’(야생조류 유리창 충돌) 사례 중 9~10월 두 달 사이에 발견된 건수...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/14/l_2021120201000300500022881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[n번방방지법, 사전검열이 아니라 '범죄영상 필터링'이다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112131643001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 Dec 2021 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[서울 지역 초·중·고등학생 5명 중 1명이 채팅이나 사회관계망서비스(SNS) 등을 통해 디지털 성범죄 위험에 직접 노출된 경험이 있는 것으로 나타났다. 그러나 아동·청소년 중 상당수는 모르는 사람이라도 인터넷을 통해 친구가 될 수 있다고 생각하는 등 대책 마련이 시급하다는 지적이 나온다. 서울시는 디지털 성범죄 피해자들이 가장 필요로 하는 피해 촬영물 삭제 등을 지원하는 통합지원기관을 내년 상반기에 신설할 계획이다.30일 서울시가 발표한 초·중·고등학생 디지...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/07/l_2021120101000066800002271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이는 옷에서 입는 옷으로, 여성복의 기본값을 재정의하다[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112070943001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112070943001</guid>
-            <pubDate>Tue, 07 Dec 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[기지개만 켜도 옆구리가 터지는 블라우스, 사고 보니 장식용인 바지 주머니, 보풀이 심해 다음 해를 기약할 수 없는 니트. 쇼핑 후 매번 비슷한 실패담을 경험한다면 옷을 고르는 안목이 부족한 걸까 아니면 옷을 제대로 소화하지 못하는 ‘내 몸’이 문제일까.젠더리스 의류 브랜드 퓨즈서울 대표 김수정씨(28)는 “남성복의 완성도에 비해 터무니없이 나쁜 품질의 여성복은 오랜 차별이 관행으로 이어져 왔기 때문”이라며 “여성복의 기본값을 재설정해야 한다”고 말했다....]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/07/l_2021120701000829700070761.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
