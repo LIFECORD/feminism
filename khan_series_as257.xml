@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유롭게 춤추기 위한 조건]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112141451001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112141451001</guid>
+            <pubDate>Tue, 14 Dec 2021 06:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[엠넷 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파)에 출연한 댄서 아이키를 처음 알게 된 건 한 트윗 타래를 읽으면서였다. 어린 나이에 결혼해 아이가 있다는 사실을 밝히고 나자마자 방송에서 아이키를 ‘유부녀’, ‘엄마’로만 호출하는 게 무척 아쉽다는 내용이었다. 아이키가 누군지 몰랐지만 방송의 접근 방식이 훤히 그려지는 듯했다.비혼 인터뷰이로 방송에 나갔을 때였다. 아무리 하고 싶은 말을 해도 다른 말을 유도하는 것에 당황했다. 보아하니 돈도 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/14/l_2021121001001366000117431.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유리창에 부딪힌 새의 죽음을 기록하는 여자들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112141024001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Dec 2021 02:00:01 GMT</pubDate>
             <content:encoded><![CDATA[인생도 드라마 같다면 얼마나 좋을까. 우연이 반복돼 사랑하게 된 열정적인 단 한 명의 연인과, 내가 무슨 짓을 하든 항상 따뜻한 위로만을 건네는 친구와, 사명감을 가지고 일하는 내 영웅적인 활약에 박수를 보내는 일터가 존재한다면. 그뿐인가. 한 시즌 마무리할 때마다 만사가 착착 정리되고, 눈 깜짝하면 다음 시즌으로 넘어가 무한한 가능성의 새 일상이 펼쳐진다면. 불행히도 드라마처럼 매끄럽고 깔끔한 인생은 없다. 인생은 때로 구질구질하고, 주로 너저분하다. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/08/l_2021120301000521900041051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년 5명 중 1명 “디지털 성범죄 위험에 노출된 적 있다”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112071454001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112071454001</guid>
-            <pubDate>Tue, 07 Dec 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[서울 지역 초·중·고등학생 5명 중 1명이 채팅이나 사회관계망서비스(SNS) 등을 통해 디지털 성범죄 위험에 직접 노출된 경험이 있는 것으로 나타났다. 그러나 아동·청소년 중 상당수는 모르는 사람이라도 인터넷을 통해 친구가 될 수 있다고 생각하는 등 대책 마련이 시급하다는 지적이 나온다. 서울시는 디지털 성범죄 피해자들이 가장 필요로 하는 피해 촬영물 삭제 등을 지원하는 통합지원기관을 내년 상반기에 신설할 계획이다.30일 서울시가 발표한 초·중·고등학생 디지...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/07/l_2021120101000066800002271.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
