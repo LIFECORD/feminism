@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 22:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 23:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/09/l_2021120901001145200098641.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울우유는 대체 왜 그랬을까 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/589</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/589</guid>
+            <pubDate>Wed, 15 Dec 2021 23:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 한 주를 강타한 '서울우유 광고'를 주제로 가져왔어요. 물론 후진 감수성 그 자체는 비난받아야 마땅하나, 허스토리가 이미 반복되는 비판 한 마디를 더 얹을 필요는 없겠지요. 대신 허스토리는 이 부분에 주목합니다. 왜 서울우유라는 기업의 공적 의사결정은 잘못된 판단을 걸러내지 못했을까요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/67a248e9-d263-4720-b331-33aae651ce97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사라진 젠더 감수성을 찾아서 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/577</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/577</guid>
@@ -288,14 +296,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 허스토리 주제는 노벨상입니다. 매년 노벨상 발표 시기가 되면 '우수한 과학 인프라를 갖추고도 한국 과학자가 노벨상을 받지 못하는 까닭'을 찾으려는 분석이 이어집니다. 그런데 노벨상 수상을 국적이 아닌 성별을 중심으로 바라보면 어떨까요? 이렇게 질문이 바뀔 거예요. '왜 여성은 훌륭한 성과를 보여주고도 노벨상을 받지 못하나.']]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e37f4921-1767-4b30-95f2-075e4ed9724b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자의 적은 여자가 맞다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/468</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/468</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[과거 남성 연예인들이 장악했던 예능판에, 여성 출연자들이 늘어나고 여성 서사를 소재로 삼은 프로그램이 생겨나면서 다채로운 여성의 모습을 볼 수 있게 된 것. 참 즐거운 일이지 않나요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/188918f2-9577-4bde-bcef-9e6736be8647.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세종호텔 정리해고가 ‘여성 노동’의 문제인 이유 (일다 ─ 전체기사)]]></title>
