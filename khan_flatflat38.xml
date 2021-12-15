@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 00:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 01:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['왕십리 터줏대감' 김종분이 기억하는 둘째딸, 김귀정 열사]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112150952011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112150952011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 15 Dec 2021 09:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀정이가 길 건너에서 ‘엄마’하고 부르던 모습이 지금도 눈에 선해.”
+서울 성동구 왕십리역 11번 출구를 나와 2·3분 걸으면 30여년째 행당동 상점가 입구에 자리잡은 노점들을 만날 수 있다. 이 노점들은 어느새 왕십리 오거리 풍경 속에 녹아들어있다. 채소와 꽃, 옷가지 등을 파는 이들 노점에는 33년째 이 곳을 지켜온 터줏대감이 있다. 김종분씨(83)다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/15/2021121001001355400116661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유롭게 춤추기 위한 조건]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112141451001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -103,15 +112,6 @@
             <pubDate>Tue, 07 Dec 2021 08:12:40 GMT</pubDate>
             <content:encoded><![CDATA[서울 지역 초·중·고등학생 5명 중 1명이 채팅이나 사회관계망서비스(SNS) 등을 통해 디지털 성범죄 위험에 직접 노출된 경험이 있는 것으로 나타났다. 그러나 아동·청소년 중 상당수는 모르는 사람이라도 인터넷을 통해 친구가 될 수 있다고 생각하는 등 대책 마련이 시급하다는 지적이 나온다. 서울시는 디지털 성범죄 피해자들이 가장 필요로 하는 피해 촬영물 삭제 등을 지원하는 통합지원기관을 내년 상반기에 신설할 계획이다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/07/2021120101000066800002271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이는 옷에서 입는 옷으로, 여성복의 기본값을 재정의하다[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112070943001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112070943001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 07 Dec 2021 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[기지개만 켜도 옆구리가 터지는 블라우스, 사고 보니 장식용인 바지 주머니, 보풀이 심해 다음 해를 기약할 수 없는 니트. 쇼핑 후 매번 비슷한 실패담을 경험한다면 옷을 고르는 안목이 부족한 걸까 아니면 옷을 제대로 소화하지 못하는 ‘내 몸’이 문제일까.
-젠더리스 의류 브랜드 퓨즈서울 대표 김수정씨(28)는 “남성복의 완성도에 비해 터무니없이 나쁜 품질의 여성복은 오랜 차별이 관행으로 이어져 왔기 때문”이라며 “여성복의 기본값을 재설정해야 한다”고 말했다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/07/2021120701000829700070761.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

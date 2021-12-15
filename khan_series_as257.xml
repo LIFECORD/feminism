@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 00:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 01:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['왕십리 터줏대감' 김종분이 기억하는 둘째딸, 김귀정 열사]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112150952011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112150952011</guid>
+            <pubDate>Wed, 15 Dec 2021 01:56:58 GMT</pubDate>
+            <content:encoded><![CDATA[귀정이가 길 건너에서 ‘엄마’하고 부르던 모습이 지금도 눈에 선해.” 서울 성동구 왕십리역 11번 출구를 나와 2·3분 걸으면 30여년째 행당동 상점가 입구에 자리잡은 노점들을 만날 수 있다. 이 노점들은 어느새 왕십리 오거리 풍경 속에 녹아들어있다. 채소와 꽃, 옷가지 등을 파는 이들 노점에는 33년째 이 곳을 지켜온 터줏대감이 있다. 김종분씨(83)다.지난달 29일 만난 김종분씨는 여든이 훌쩍 넘은 나이에도 왕십리에서 한 자리를 지키며 노점을 하는 이유로 “정...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/15/l_2021121001001355400116661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유롭게 춤추기 위한 조건]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112141451001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Dec 2021 06:12:40 GMT</pubDate>
             <content:encoded><![CDATA[아름답고도 처연한 영화 한 편을 봤다. 레베카 홀 감독의 &lt;패싱(Passing)&gt;이다. ‘할렘 르네상스’라 불리던 1920년대 흑인 문화의 부흥기. 그러나 차별만은 여전히 엄혹하던 시절의 뉴욕. 백인 행세를 할 수 있을 만한 외모를 가진 두 흑인 여성의 다른 삶이 충돌하며 일어나는 비극적 사건을 다룬다. 관계의 빛과 그림자, 선망과 질투, 허위의식 같은 내밀하고 심층적인 서사에 인종과 계급, 젠더성 같은 무게 있는 주제가 고혹적으로 어우러진 작품이다. 늘 정치·...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/08/l_2021120201000298700022731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭 우리들 이야기같은 '술도녀'들의 너절한 일상]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112081006011</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112081006011</guid>
-            <pubDate>Wed, 08 Dec 2021 02:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[인생도 드라마 같다면 얼마나 좋을까. 우연이 반복돼 사랑하게 된 열정적인 단 한 명의 연인과, 내가 무슨 짓을 하든 항상 따뜻한 위로만을 건네는 친구와, 사명감을 가지고 일하는 내 영웅적인 활약에 박수를 보내는 일터가 존재한다면. 그뿐인가. 한 시즌 마무리할 때마다 만사가 착착 정리되고, 눈 깜짝하면 다음 시즌으로 넘어가 무한한 가능성의 새 일상이 펼쳐진다면. 불행히도 드라마처럼 매끄럽고 깔끔한 인생은 없다. 인생은 때로 구질구질하고, 주로 너저분하다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/08/l_2021120301000521900041051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
