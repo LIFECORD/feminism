@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투쟁의 최전선에 선 '스트릿 우먼 파이터']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112161409011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112161409011</guid>
+            <pubDate>Thu, 16 Dec 2021 06:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[투쟁이라는 단어 앞에서 늘 남성을 먼저 떠올렸다. 커다랗고 까슬까슬한 주먹을 쥔 채 하늘을 향해 치켜들고, 구릿빛 이마에는 해진 머리띠가 둘려있고, 다부진 체격을 다 덮지 못하는 낚시 조끼, 뒷면에는 요약된 요구안 또는 조직적 구호가 적혀 있는 사람이 선 모습. 오랫동안 왜인지 투쟁은 그런 모습이어야 익숙하다 느꼈다. 투쟁의 외형적 하자를 검토하는 사이, 누구에게나 삶은 곧 투쟁이라는 보편타당한 의미를 소거하고 말았다. 그저 건장한 남성이 투쟁의 주인이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/16/l_2021121401001769900153642.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족까지 보복살해 반복되는데… 지침만 만들고 지키진 않는 경찰]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112151423001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Dec 2021 06:12:48 GMT</pubDate>
             <content:encoded><![CDATA[플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 21세기의 주인공이 밤마다 1960년대의 가수지망생이 되는 영화 &lt;라스트 나잇 인 소호&gt;, 78회 베니스영화제 감독상을 수상한 제인 캠피언표 서부극 &lt;파워 오브 도그&gt; 입니다.1960년대 런던에서 목격한 악몽같은 현실 &lt;라스트 나잇 인 소호&gt; 디자이너의 꿈을 꾸는 엘리(토마신 맥켄지)는 영국 런던의 패...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/09/l_2021120201000111200006181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성을 '젖소'에 비유한 서울우유의 황당한 해명]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112091000001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112091000001</guid>
-            <pubDate>Thu, 09 Dec 2021 01:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[서울우유가 유기농 우유 광고 영상에서 젖소를 여성에 비유해 ‘여성혐오’라는 비판을 받았다. 해당 광고는 유튜브에서 8일 비공개로 전환됐다.서울우유는 지난달 29일 공식 유튜브 채널에 새로 제작한 유기농 우유를 홍보하는 광고 영상을 올렸다. 광고는 탐험가 차림을 한 남성이 카메라를 들고 숲속에서 무언가를 찾는 장면으로 시작된다. 이어 “그들을 만나러 도착한 곳. 자연 그대로의 깨끗함을 간직한 그곳에서 우리는 마침내 그들의 모습을 카메라에 담는 것에 성공했...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/09/l_2021120901001145200098641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

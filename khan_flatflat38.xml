@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투쟁의 최전선에 선 '스트릿 우먼 파이터']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112161409011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112161409011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 16 Dec 2021 06:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[투쟁이라는 단어 앞에서 늘 남성을 먼저 떠올렸다. 커다랗고 까슬까슬한 주먹을 쥔 채 하늘을 향해 치켜들고, 구릿빛 이마에는 해진 머리띠가 둘려있고, 다부진 체격을 다 덮지 못하는 낚시 조끼, 뒷면에는 요약된 요구안 또는 조직적 구호가 적혀 있는 사람이 선 모습. 오랫동안 왜인지 투쟁은 그런 모습이어야 익숙하다 느꼈다. 투쟁의 외형적 하자를 검토하는 사이, 누구에게나 삶은 곧 투쟁이라는 보편타당한 의미를 소거하고 말았다. 그저 건장한 남성이 투쟁의 주인이라 생각했다. 남성중심주의적 착각이었다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/16/2021121401001769900153642.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족까지 보복살해 반복되는데… 지침만 만들고 지키진 않는 경찰]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112151423001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -104,14 +112,6 @@
             <pubDate>Wed, 08 Dec 2021 06:12:25 GMT</pubDate>
             <content:encoded><![CDATA[아름답고도 처연한 영화 한 편을 봤다. 레베카 홀 감독의 &lt;패싱(Passing)&gt;이다. ‘할렘 르네상스’라 불리던 1920년대 흑인 문화의 부흥기. 그러나 차별만은 여전히 엄혹하던 시절의 뉴욕. 백인 행세를 할 수 있을 만한 외모를 가진 두 흑인 여성의 다른 삶이 충돌하며 일어나는 비극적 사건을 다룬다. 관계의 빛과 그림자, 선망과 질투, 허위의식 같은 내밀하고 심층적인 서사에 인종과 계급, 젠더성 같은 무게 있는 주제가 고혹적으로 어우러진 작품이다. 늘 정치·사회적 시선의 대상으로만 그려지는 다소 투박한 흑인 여성 클리셰에서 벗어나 섬세한 지성과 관능미를 가진 여성들이 등장하는 파격 또한 신선하다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/2021120201000298700022731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭 우리들 이야기같은 '술도녀'들의 너절한 일상]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112081006011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112081006011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 08 Dec 2021 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[인생도 드라마 같다면 얼마나 좋을까. 우연이 반복돼 사랑하게 된 열정적인 단 한 명의 연인과, 내가 무슨 짓을 하든 항상 따뜻한 위로만을 건네는 친구와, 사명감을 가지고 일하는 내 영웅적인 활약에 박수를 보내는 일터가 존재한다면. 그뿐인가. 한 시즌 마무리할 때마다 만사가 착착 정리되고, 눈 깜짝하면 다음 시즌으로 넘어가 무한한 가능성의 새 일상이 펼쳐진다면. 불행히도 드라마처럼 매끄럽고 깔끔한 인생은 없다. 인생은 때로 구질구질하고, 주로 너저분하다. 티빙(TVING) 오리지널 드라마 &lt;술꾼도시여자들&gt;(술도녀)은 이런 ‘현실 인생’을 다뤘다. 연인은 나를 떠나고, 친구는 내게 쌍욕을 하며, 직장은 나를 소진시킨다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/08/2021120301000521900041051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
