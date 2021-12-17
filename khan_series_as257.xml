@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뉴떡밥'과 '취케팅' 덕에 기력을 되찾았다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112171704001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112171704001</guid>
+            <pubDate>Fri, 17 Dec 2021 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.[퇴근 후 만나요] ‘뉴떡밥’과 ‘취케팅’ 덕에 기력을 되찾았다 ‘의욕’이라는 게 점점 없어지고 있다. 딱히 사고 싶은 물건도 없고, 가보고 싶은 맛집도 없다. 여행 참 좋아했지만 코시국에 막힌 해외 여행길에 휴가에 대한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/17/l_2021120801001028500088561.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블랙 페미니즘의 개척자' 벨 훅스, 69세로 별세]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112171101011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Dec 2021 08:13:28 GMT</pubDate>
             <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.[퇴근 후 만나요] 나 지금 바빠 생각 중이야 태희 : 나 지금 바빠. 생각 중이야.태희의 오빠 : 그게 노는 거지 뭐야?영화 &lt;고양이를 부탁해&gt;에 이런 대사가 나온다. 가만히 바쁠 수 있다. 노는 것과 바쁜 것이 대치되...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/10/l_2021120801001024600088452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미녀'가 등장하는 광고는 성공한다는 그 법칙은 틀렸다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112101108001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112101108001</guid>
-            <pubDate>Fri, 10 Dec 2021 02:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[서울우유가 여성을 젖소에 비유하고, 불법촬영을 소재로 삼은 52초짜리 광고를 내놨다 뭇매를 맞았다. 영상을 내리고 “영상 속엔 여성 말고 남성도 있었다”는 해명과 함께 사과했지만, 논란은 쉽게 가시지 않는 분위기다.이번 사태를 보면서 기업을 취재하면서 줄곧 느껴온 ‘어떤 불편함’이 다시 떠올랐다. TV광고에 등장하는 ‘버츄얼 휴먼(가상 인간)’은 왜 모두 20대 초반의 마르고 젊은 여성일까. 기업이 보내온 신제품 이미지엔 왜 항상 여자 모델이 끼어 있는 것...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/10/l_2021120901001276800107311.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
