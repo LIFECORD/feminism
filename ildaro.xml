@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 02:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 02:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주여성 엄마를 때린 아빠, 딸은 경찰서에 갔다]]></title>
+            <link>https://ildaro.com/9226</link>
+            <guid>https://ildaro.com/9226</guid>
+            <pubDate>Fri, 17 Dec 2021 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[여기서 내 현실이란, 아빠의 폭력이기도 하고 이 폭력을 크게 생각하지 않았던 친가 친척들과 마을 사람들이기도 해....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121722532869.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세종호텔 정리해고가 ‘여성 노동’의 문제인 이유]]></title>
             <link>https://ildaro.com/9225</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[성중립 화장실을 어떤 거대한 음모로 여기는 사람들을 종종 마주했다. 돌이켜 보면 모두 내 존재를 이해하지 못하는 사람들이라는 공통점이 있었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112437413264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년대생 노동자들, 안녕하지 못합니다]]></title>
-            <link>https://ildaro.com/9206</link>
-            <guid>https://ildaro.com/9206</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[(거래처 사장님이) 음료수를 사다 주시면 무조건 동영상을 찍어야 돼요. 막 이렇게 흔들면서 ‘사장님 감사합니다~’ 이걸 해야 되는 거예요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112331234621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
