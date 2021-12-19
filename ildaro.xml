@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 04:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 05:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목소리 내는 여성들에 대한 혐오와 린치를 멈춰라]]></title>
+            <link>https://ildaro.com/9227</link>
+            <guid>https://ildaro.com/9227</guid>
+            <pubDate>Sun, 19 Dec 2021 05:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[여성을 노린 페미사이드 사건에 대해 글을 썼더니 범행에 사용된 것과 똑같은 칼과 내 사진을 나란히 붙인 이미지가 댓글로 달렸다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121901424629.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주여성 엄마를 때린 아빠, 딸은 경찰서에 갔다]]></title>
             <link>https://ildaro.com/9226</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[In order to live in South Korea as a woman, one has to meet a number of conditions. It can be comparable to juggling....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112558411452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성중립 화장실은 ‘삶의 존엄’ 같은 것]]></title>
-            <link>https://ildaro.com/9207</link>
-            <guid>https://ildaro.com/9207</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[성중립 화장실을 어떤 거대한 음모로 여기는 사람들을 종종 마주했다. 돌이켜 보면 모두 내 존재를 이해하지 못하는 사람들이라는 공통점이 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112437413264.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
