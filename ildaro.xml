@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 00:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We need feminism in labor unions]]></title>
+            <link>https://ildaro.com/9228</link>
+            <guid>https://ildaro.com/9228</guid>
+            <pubDate>Mon, 20 Dec 2021 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[Starting from now, I am going to unveil the nightmare—or the reality that I wish was a dream—of our workplace, which men would never dream of....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122030537294.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[목소리 내는 여성들에 대한 혐오와 린치를 멈춰라]]></title>
             <link>https://ildaro.com/9227</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Nov 2021 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[“참으로 퀴어한 시간들이다. These are queer times indeed.” 부쩍 늘어난 퀴어 관련 창작물들을 접한 후, 기쁨과 감탄이 뒤섞인 소회였던 것으로 기억한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/202111264813452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Women’s Coworkers Are Women’, Now On My Way to Meet You]]></title>
-            <link>https://ildaro.com/9208</link>
-            <guid>https://ildaro.com/9208</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[In order to live in South Korea as a woman, one has to meet a number of conditions. It can be comparable to juggling....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112558411452.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
