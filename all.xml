@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,7 +301,7 @@
             <enclosure url="https://image.hankookilbo.com/board/e37f4921-1767-4b30-95f2-075e4ed9724b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[We need feminism in labor unions (일다 ─ 전체기사)]]></title>
+            <title><![CDATA[Nightmares of Our Workplace Men Would Never Imagine (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9228</link>
             <guid>https://ildaro.com/9228</guid>
             <pubDate>Mon, 20 Dec 2021 10:22:00 GMT</pubDate>
