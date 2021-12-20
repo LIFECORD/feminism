@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 13:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 14:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['뉴떡밥'과 '취케팅' 덕에 기력을 되찾았다[플랫]]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112171704001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112171704001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 17]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/17/l_2021120801001028500088561.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[신지예 “현실에서 가능한 선택지가 윤석열 후보라 생각했다”[플랫]]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202112201755001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 20]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/20/l_2021122001002569400222711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뉴떡밥'과 '취케팅' 덕에 기력을 되찾았다[플랫]]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112171704001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112171704001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 17]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/17/l_2021120801001028500088561.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흰색 방호복이 주는 공포…‘미소’로 바꾸고 싶었어요[플랫]]]></title>
