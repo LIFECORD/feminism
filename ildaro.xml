@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 00:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킬러 마녀에게 끌리는 이유]]></title>
+            <link>https://ildaro.com/9229</link>
+            <guid>https://ildaro.com/9229</guid>
+            <pubDate>Tue, 21 Dec 2021 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[너를 괴롭게 하는 사람을 모두 죽여주겠다며 웃는 마녀 앞에서 나는 과연 놀라서 고개를 가로저을까, 악당 같은 얼굴로 한 번 가 보자고 손을 잡을까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122152067396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nightmares of Our Workplace Men Would Never Imagine]]></title>
             <link>https://ildaro.com/9228</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 Nov 2021 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[강정 지킴이들은 여전히 해군기지 앞에서 ‘해군기지 반대 싸움’을 하고 있다. “강정 지킴이들은 그냥 ‘다르게’ 사는 사람들인 것 같아요."...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112809246335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금, 한국 퀴어미술의 어떤 경향]]></title>
-            <link>https://ildaro.com/9209</link>
-            <guid>https://ildaro.com/9209</guid>
-            <pubDate>Fri, 26 Nov 2021 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[“참으로 퀴어한 시간들이다. These are queer times indeed.” 부쩍 늘어난 퀴어 관련 창작물들을 접한 후, 기쁨과 감탄이 뒤섞인 소회였던 것으로 기억한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/202111264813452.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

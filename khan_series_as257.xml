@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 00:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재물손괴 적용되던 '스타킹 먹물테러' 실형 선고됐다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112211013001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112211013001</guid>
+            <pubDate>Tue, 21 Dec 2021 02:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[공공장소에서 스타킹을 신은 여성에게 먹물을 뿌리는 이른바 ‘스타킹 먹물테러’를 저지른 20대 남성에게 실형이 선고됐다. 이런 유형의 범죄는 그동안 처벌 조항이 마땅치 않아 스타킹 훼손의 책임(재물손괴)을 묻는 데 그쳤지만, 재판부는 성적 의도가 뚜렷하고 피해자들의 정신적 피해도 적지 않다며 엄하게 처벌했다.서울동부지법 형사9단독(전경세 판사)은 강제추행, 재물손괴, 성폭력범죄의 처벌 등에 관한 특례법 위반(성적 목적 다중이용장소 침입) 혐의 등으로 재판에 넘...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/21/l_2021122101002610200228521.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신지예 “현실에서 가능한 선택지가 윤석열 후보라 생각했다”]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202112201755001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Dec 2021 01:59:28 GMT</pubDate>
             <content:encoded><![CDATA[오목눈이, 진박새, 울새…서로 다른 새들의 사진이 매일 올라오는 인스타그램 계정이 있다. 새들이 자유롭게 나는 모습, 나무에 앉아 쉬는 모습은 아니다. 이 계정의 새들은 유리창 앞, 차가운 바닥에 누워있다. 목이 꺾여 있을 때도, 부리가 부러져 있을 때도 있다. 이화여자대학교 윈도우 스트라이크 모니터링 팀의 계정이다.이들에게 가을은 ‘충돌의 계절’이다. 올해 이화여대 내 ‘윈도우 스트라이크’(야생조류 유리창 충돌) 사례 중 9~10월 두 달 사이에 발견된 건수...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/14/l_2021120201000300500022881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[n번방방지법, 사전검열이 아니라 '범죄영상 필터링'이다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112131643001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112131643001</guid>
-            <pubDate>Mon, 13 Dec 2021 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[[플랫브리핑] n번방 방지법, ‘사전검열’이 아니라 ‘범죄영상 필터링’이다 대형 부가통신사업자의 디지털 성범죄물 유통 방지를 의무화하는 ‘n번방 방지법’이 지난 10일 시행됐다. 디지털 성폭력 근절에 플랫폼이 나서야 한다는 여성들의 요구가 모여 20대 국회 종료를 하루 앞두고 겨우 도입된 법안이다.하지만 이 법은 시행 하루 만에 ‘재개정’ 여론에 직면했다. 일반 카카오톡 채팅 등 개인 간의 사적 대화는 적용 대상이 아님에도 남초 커뮤니티를 중심으로 확산...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/13/l_2021121001001377500118321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
