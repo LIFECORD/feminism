@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 06:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유독 '안 된다'는 것이 많았던 시대, 한국 최초의 여성 영화감독 이야기]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112211501001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112211501001</guid>
+            <pubDate>Tue, 21 Dec 2021 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[“안 된다는 말, 난 하나도 안 무섭다. 내한테는 된다는 거보다 안 된다는 게 훨씬 많거든.” 태어난 지 100일을 갓 넘긴 아기를 업고 ‘레디-고!’를 외친다. 영화 세트장은 메가폰을 잡은 감독의 집 마당. 제작비를 아끼기 위해 밥 때가 되면 배우, 스태프들의 식사도 직접 차려낸다. 한국 최초의 여성 영화감독 박남옥(1923~2017)의 이야기다.지난 17일 서울 국립극장 무대에 오른 &lt;명색이 아프레걸&gt;은 여성에겐 유독 ‘안 된다’는 것이 많았던 시대, 사회적 통...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/21/l_2021121601002126000184601.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재물손괴 적용되던 '스타킹 먹물테러' 실형 선고됐다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112211013001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Dec 2021 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[엠넷 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파)에 출연한 댄서 아이키를 처음 알게 된 건 한 트윗 타래를 읽으면서였다. 어린 나이에 결혼해 아이가 있다는 사실을 밝히고 나자마자 방송에서 아이키를 ‘유부녀’, ‘엄마’로만 호출하는 게 무척 아쉽다는 내용이었다. 아이키가 누군지 몰랐지만 방송의 접근 방식이 훤히 그려지는 듯했다.비혼 인터뷰이로 방송에 나갔을 때였다. 아무리 하고 싶은 말을 해도 다른 말을 유도하는 것에 당황했다. 보아하니 돈도 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/14/l_2021121001001366000117431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유리창에 부딪힌 새의 죽음을 기록하는 여자들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112141024001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112141024001</guid>
-            <pubDate>Tue, 14 Dec 2021 01:59:28 GMT</pubDate>
-            <content:encoded><![CDATA[오목눈이, 진박새, 울새…서로 다른 새들의 사진이 매일 올라오는 인스타그램 계정이 있다. 새들이 자유롭게 나는 모습, 나무에 앉아 쉬는 모습은 아니다. 이 계정의 새들은 유리창 앞, 차가운 바닥에 누워있다. 목이 꺾여 있을 때도, 부리가 부러져 있을 때도 있다. 이화여자대학교 윈도우 스트라이크 모니터링 팀의 계정이다.이들에게 가을은 ‘충돌의 계절’이다. 올해 이화여대 내 ‘윈도우 스트라이크’(야생조류 유리창 충돌) 사례 중 9~10월 두 달 사이에 발견된 건수...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/14/l_2021120201000300500022881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
