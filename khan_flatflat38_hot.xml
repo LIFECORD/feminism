@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 05:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/20/l_2021122001002569400222711.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[흰색 방호복이 주는 공포…‘미소’로 바꾸고 싶었어요[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112201031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112201031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 20]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/20/l_2021122001002460200215371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[재물손괴 적용되던 '스타킹 먹물테러' 실형 선고됐다[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112211013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202112211013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 21]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021122101002610200228521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흰색 방호복이 주는 공포…‘미소’로 바꾸고 싶었어요[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112201031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112201031001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 20]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/20/l_2021122001002460200215371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
