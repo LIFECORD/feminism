@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[신지예 “현실에서 가능한 선택지가 윤석열 후보라 생각했다”[플랫]]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202112201755001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202112201755001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 20]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/20/l_2021122001002569400222711.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[유독 '안 된다'는 것이 많았던 시대, 한국 최초의 여성 영화감독 이야기[플랫]]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112211501001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -30,6 +22,14 @@
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 21]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021122101002610200228521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마녀법'으로 처형 당했던 여성들, 수백년 만에 누명 벗을까[플랫]]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 22]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/22/l_2021122001002516800220051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
