@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마녀법'으로 처형 당했던 여성들, 수백년 만에 누명 벗을까]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202112221359001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202112221359001</guid>
+            <pubDate>Wed, 22 Dec 2021 05:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[마녀 재판에서 억울하게 처형 당한 피해자들이 수백년 만에 사면받을 수 있을까.영국 선데이타임스는 19일(현지시간) 스코틀랜드 의회 최다석을 차지한 국민당원을 수반으로 한 스코틀랜드 정부가 마녀사냥법을 적용받아 무고하게 기소당했던 피해자들을 사면하는 법안에 대한 지지를 표명했다고 보도했다. 현재 스코틀랜드 의회 129석 중 국민당은 64석, 연정을 이루고 있는 녹색당은 7석을 차지하고 있다. 해당 법안이 의회를 통과하면 영국 최초로 마녀사냥 피해자들의 유죄 기...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/22/l_2021122001002516800220051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유독 '안 된다'는 것이 많았던 시대, 한국 최초의 여성 영화감독 이야기]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202112211501001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Dec 2021 01:56:58 GMT</pubDate>
             <content:encoded><![CDATA[귀정이가 길 건너에서 ‘엄마’하고 부르던 모습이 지금도 눈에 선해.” 서울 성동구 왕십리역 11번 출구를 나와 2·3분 걸으면 30여년째 행당동 상점가 입구에 자리잡은 노점들을 만날 수 있다. 이 노점들은 어느새 왕십리 오거리 풍경 속에 녹아들어있다. 채소와 꽃, 옷가지 등을 파는 이들 노점에는 33년째 이 곳을 지켜온 터줏대감이 있다. 김종분씨(83)다.지난달 29일 만난 김종분씨는 여든이 훌쩍 넘은 나이에도 왕십리에서 한 자리를 지키며 노점을 하는 이유로 “정...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/15/l_2021121001001355400116661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유롭게 춤추기 위한 조건]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112141451001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112141451001</guid>
-            <pubDate>Tue, 14 Dec 2021 06:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[엠넷 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파)에 출연한 댄서 아이키를 처음 알게 된 건 한 트윗 타래를 읽으면서였다. 어린 나이에 결혼해 아이가 있다는 사실을 밝히고 나자마자 방송에서 아이키를 ‘유부녀’, ‘엄마’로만 호출하는 게 무척 아쉽다는 내용이었다. 아이키가 누군지 몰랐지만 방송의 접근 방식이 훤히 그려지는 듯했다.비혼 인터뷰이로 방송에 나갔을 때였다. 아무리 하고 싶은 말을 해도 다른 말을 유도하는 것에 당황했다. 보아하니 돈도 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/14/l_2021121001001366000117431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
