@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 22:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 23:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -123,20 +123,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021121601002126000184601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[재물손괴 적용되던 '스타킹 먹물테러' 실형 선고됐다[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112211013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112211013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 21 Dec 2021 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 21]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021122101002610200228521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['마녀법'으로 처형 당했던 여성들, 수백년 만에 누명 벗을까[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 22 Dec 2021 05:11:12 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 22]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/22/l_2021122001002516800220051.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재물손괴 적용되던 '스타킹 먹물테러' 실형 선고됐다[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112211013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112211013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 21 Dec 2021 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 21]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021122101002610200228521.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['마녀법'으로 처형 당했던 여성들, 수백년 만에 누명 벗을까 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -219,6 +219,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/15/l_2021121001001355400116661.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자를 돕는 여자, 댄서 아이키 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/601</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/601</guid>
+            <pubDate>Wed, 22 Dec 2021 23:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 허스토리의 '여자를 돕는 여자들(여.돕.여)' 크라우드 펀딩이 종료됩니다. 한 달 넘게 진행된 허스토리의 깜짝 프로젝트에 정말 많은 분들이 응원의 마음을 보태주셨어요. 그에 보답하는 마음으로, 여.돕.여 번외 인터뷰를 준비했습니다. 이미 많은 분이 지난주 뉴스레터로 눈치채셨겠지만, 이번 인터뷰의 주인공은 댄서 아이키인데요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/e4ca174e-75ae-4977-80d5-691024ccafff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울우유는 대체 왜 그랬을까 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/589</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/589</guid>
@@ -289,14 +297,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
             <content:encoded><![CDATA[지난 14일, 미성년자를 포함한 여성들을 협박해 성착취 영상물을 제작하고 판매한 텔레그램 대화방 '박사방'의 운영자 조주빈(26)에게 징역 42년이 확정됐습니다. 42년이란 형량, 어떻게 생각하시나요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/57fc45bb-e74c-468d-8fb0-c8948e30fd5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['남성만의 잔치'가 된 노벨상 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/479</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/479</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 허스토리 주제는 노벨상입니다. 매년 노벨상 발표 시기가 되면 '우수한 과학 인프라를 갖추고도 한국 과학자가 노벨상을 받지 못하는 까닭'을 찾으려는 분석이 이어집니다. 그런데 노벨상 수상을 국적이 아닌 성별을 중심으로 바라보면 어떨까요? 이렇게 질문이 바뀔 거예요. '왜 여성은 훌륭한 성과를 보여주고도 노벨상을 받지 못하나.']]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e37f4921-1767-4b30-95f2-075e4ed9724b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘청년 간병인’ 강도영 사건이 남긴 숙제를 풀자 (일다 ─ 전체기사)]]></title>
