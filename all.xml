@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 23:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 00:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,20 +115,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/14/2021120201000300500022881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유독 '안 된다'는 것이 많았던 시대, 한국 최초의 여성 영화감독 이야기[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112211501001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112211501001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 21 Dec 2021 06:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 21]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021121601002126000184601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['마녀법'으로 처형 당했던 여성들, 수백년 만에 누명 벗을까[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 22 Dec 2021 05:11:12 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 22]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/22/l_2021122001002516800220051.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유독 '안 된다'는 것이 많았던 시대, 한국 최초의 여성 영화감독 이야기[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202112211501001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202112211501001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 21 Dec 2021 06:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 21]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/l_2021121601002126000184601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재물손괴 적용되던 '스타킹 먹물테러' 실형 선고됐다[플랫] (경향신문 ─ 플랫)]]></title>
