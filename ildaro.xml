@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 11:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 12:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“민법 799조, 이제 폐지합시다”]]></title>
+            <link>https://ildaro.com/9231</link>
+            <guid>https://ildaro.com/9231</guid>
+            <pubDate>Thu, 23 Dec 2021 12:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대선판에 ‘가족’이 등장하기 시작했다. 대선 후보들의 ‘가족 리스크’가 모든 뉴스의 메인을 차지한 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122316522909.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘청년 간병인’ 강도영 사건이 남긴 숙제를 풀자]]></title>
             <link>https://ildaro.com/9230</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Nov 2021 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[타인의 시선으로도, 자신의 진단으로도 풀리지 않는 ‘언어 없음’의 상태는 필연적으로 공포와 닿는다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021113033457020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별에 맞선 어느 부부의 ‘특별한’ 용기]]></title>
-            <link>https://ildaro.com/9211</link>
-            <guid>https://ildaro.com/9211</guid>
-            <pubDate>Mon, 29 Nov 2021 11:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[“사실 우리가 이렇게 공개적으로 결혼식도 올리고 인터뷰도 하고 소송도 하지만, 그냥 길거리에서 손을 잡거나 팔짱 끼는 일은 잘 못해요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021112940296748.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
