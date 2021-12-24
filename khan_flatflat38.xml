@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 00:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 02:00:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양육비 미지급자 신상 공개한 '배드파더스' 대표 2심 '유죄']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112241021001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112241021001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 24 Dec 2021 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[양육비를 주지 않는 부모의 신상을 공개한 사이트 ‘배드파더스’ 대표 구본창씨(58)가 2심에서 유죄를 선고받았다.
+수원고법 형사1부(부장판사 윤성식)는 23일 이 사건 선고공판에서 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의로 기소된 구씨에게 무죄를 선고한 원심을 파기하고 벌금 100만원의 선고를 유예했다. 선고유예는 가벼운 범죄에 일정 기간 형의 선고를 보류했다가 면소(공소권이 사라져 기소되지 않음)된 것으로 간주하는 판결이다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/24/2021122401003118200271301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언니가 원하는 장례식을 위해선 여자도 상주가 될수 있어야 했다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112231013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,14 +114,6 @@
             <content:encoded><![CDATA[귀정이가 길 건너에서 ‘엄마’하고 부르던 모습이 지금도 눈에 선해.”
 서울 성동구 왕십리역 11번 출구를 나와 2·3분 걸으면 30여년째 행당동 상점가 입구에 자리잡은 노점들을 만날 수 있다. 이 노점들은 어느새 왕십리 오거리 풍경 속에 녹아들어있다. 채소와 꽃, 옷가지 등을 파는 이들 노점에는 33년째 이 곳을 지켜온 터줏대감이 있다. 김종분씨(83)다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/15/2021121001001355400116661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유롭게 춤추기 위한 조건]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112141451001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112141451001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 14 Dec 2021 06:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[엠넷 서바이벌 프로그램 &lt;스트릿 우먼 파이터&gt;(스우파)에 출연한 댄서 아이키를 처음 알게 된 건 한 트윗 타래를 읽으면서였다. 어린 나이에 결혼해 아이가 있다는 사실을 밝히고 나자마자 방송에서 아이키를 ‘유부녀’, ‘엄마’로만 호출하는 게 무척 아쉽다는 내용이었다. 아이키가 누군지 몰랐지만 방송의 접근 방식이 훤히 그려지는 듯했다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/14/2021121001001366000117431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
