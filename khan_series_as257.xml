@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 02:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 02:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양육비 미지급자 신상 공개한 '배드파더스' 대표 2심 '유죄']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112241021001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112241021001</guid>
+            <pubDate>Fri, 24 Dec 2021 02:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[양육비를 주지 않는 부모의 신상을 공개한 사이트 ‘배드파더스’ 대표 구본창씨(58)가 2심에서 유죄를 선고받았다.수원고법 형사1부(부장판사 윤성식)는 23일 이 사건 선고공판에서 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의로 기소된 구씨에게 무죄를 선고한 원심을 파기하고 벌금 100만원의 선고를 유예했다. 선고유예는 가벼운 범죄에 일정 기간 형의 선고를 보류했다가 면소(공소권이 사라져 기소되지 않음)된 것으로 간주하는 판결이다.재판부는 “양...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/24/l_2021122401003118200271301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언니가 원하는 장례식을 위해선 여자도 상주가 될수 있어야 했다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112231013001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Dec 2021 06:12:24 GMT</pubDate>
             <content:encoded><![CDATA[투쟁이라는 단어 앞에서 늘 남성을 먼저 떠올렸다. 커다랗고 까슬까슬한 주먹을 쥔 채 하늘을 향해 치켜들고, 구릿빛 이마에는 해진 머리띠가 둘려있고, 다부진 체격을 다 덮지 못하는 낚시 조끼, 뒷면에는 요약된 요구안 또는 조직적 구호가 적혀 있는 사람이 선 모습. 오랫동안 왜인지 투쟁은 그런 모습이어야 익숙하다 느꼈다. 투쟁의 외형적 하자를 검토하는 사이, 누구에게나 삶은 곧 투쟁이라는 보편타당한 의미를 소거하고 말았다. 그저 건장한 남성이 투쟁의 주인이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/16/l_2021121401001769900153642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족까지 보복살해 반복되는데… 지침만 만들고 지키진 않는 경찰]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112151423001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112151423001</guid>
-            <pubDate>Wed, 15 Dec 2021 06:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[범죄 피해자의 신변보호 시 신고자는 물론 가족까지 보호할 수 있는 경찰 내부 규정이 있음에도 최근 ‘송파 신변보호자 가족 살해’ 사건에서는 적용되지 않은 것으로 파악됐다. 일반 신변보호 때도 신고자 가족은 보호대상이 될 수 있는데, 이번의 경우 경찰이 성범죄 관련 사건으로 인지하고도 가족을 보호조치 대상에 포함시키지 않은 것이다.지난 4월30일 시행된 경찰청 훈령인 ‘피해자 보호 및 지원에 관한 규칙’ 제28조에 따르면 피해자가 ‘생명 또는 신체에 대한...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/15/l_2021121401001783500154661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
