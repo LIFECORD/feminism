@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 06:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 07:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,14 +115,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/15/2021121401001783500154661.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['마녀법'으로 처형 당했던 여성들, 수백년 만에 누명 벗을까[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202112221359001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 22 Dec 2021 05:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 22]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/22/l_2021122001002516800220051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[언니가 원하는 장례식을 위해선 여자도 상주가 될수 있어야 했다[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112231013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202112231013001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -137,6 +129,14 @@
             <pubDate>Fri, 24 Dec 2021 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 24]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/24/l_2021122401003118200271301.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑했던 군대가 외면한 딸의 죽음, 부모는 투사가 됐다[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112241446001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112241446001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 24 Dec 2021 06:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 24]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/24/l_2021122301002978000259801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑했던 군대가 외면한 딸의 죽음, 부모는 투사가 됐다 (경향신문 ─ 연재 ─ 플랫)]]></title>
