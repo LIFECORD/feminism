@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 00:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 01:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 가까이 스치는 칼날, 엄마]]></title>
+            <link>https://ildaro.com/9232</link>
+            <guid>https://ildaro.com/9232</guid>
+            <pubDate>Sat, 25 Dec 2021 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[세상이 나 죽지 말라고 내 딸을 내렸다. 우리는 세상에서 하나였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122544091498.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“민법 779조, 이제 폐지합시다”]]></title>
             <link>https://ildaro.com/9231</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
             <content:encoded><![CDATA[제품의 지속가능성을 따질 때 두 가지 질문이면 충분한 것 같습니다. ‘얼마나 오래 잘 쓸 수 있는가’, ‘이 물건을 소비하는 것이 보이지 않는 노동과 자원 착취에 동...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120155472996.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀곡의 문 앞, 공포가 아니라 세상의 확장으로]]></title>
-            <link>https://ildaro.com/9212</link>
-            <guid>https://ildaro.com/9212</guid>
-            <pubDate>Tue, 30 Nov 2021 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[타인의 시선으로도, 자신의 진단으로도 풀리지 않는 ‘언어 없음’의 상태는 필연적으로 공포와 닿는다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202111/2021113033457020.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
