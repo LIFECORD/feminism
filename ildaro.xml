@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 11:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 12:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘배우자 동의’ 있어야 임신중단 가능하다니 이상하지 않아요?]]></title>
+            <link>https://ildaro.com/9233</link>
+            <guid>https://ildaro.com/9233</guid>
+            <pubDate>Sun, 26 Dec 2021 12:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[“말도 안 돼!라고 생각했죠. 가장 불안했던 건, 그게 이상하다는 목소리가 전혀 들리지 않는 점이었어요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122637481863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 가까이 스치는 칼날, 엄마]]></title>
             <link>https://ildaro.com/9232</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 00:58:00 GMT</pubDate>
             <content:encoded><![CDATA[I want to convey a more active message of support to those walking forbidden paths, those struggling on their own in the absence of role models....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120205259443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌려 쓰고 다시 쓰고…기후위기 시대의 경제]]></title>
-            <link>https://ildaro.com/9213</link>
-            <guid>https://ildaro.com/9213</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[제품의 지속가능성을 따질 때 두 가지 질문이면 충분한 것 같습니다. ‘얼마나 오래 잘 쓸 수 있는가’, ‘이 물건을 소비하는 것이 보이지 않는 노동과 자원 착취에 동...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120155472996.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
