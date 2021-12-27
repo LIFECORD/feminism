@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이렇게 된 이상 페미니즘이 청와대로 간다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202112271358001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202112271358001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 27 Dec 2021 05:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[시트콤 &lt;이렇게 된 이상 청와대로 간다&gt;의 차정원(배해선)은 보수 정당의 검사 출신 4선 의원으로 지금 당장 당선 가능성이 없는 4, 5위 대권주자가 되기보단, 세를 불려 ‘차기’ 또는 ‘차차기’ 대권을 노리고자 하는 야심 많은 인물이다. 그의 명분은 오직 자신의 정치적 포지션을 강화하는 것에 있다. 자신의 행보에 방해가 되는 인물은 뒷조사를 통해 회유와 협박을 서슴지 않고, 적대적인 관계의 인물과도 타협해서 쇼를 기획한다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/27/2021122701003366100294331.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑했던 군대가 외면한 딸의 죽음, 부모는 투사가 됐다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112241446001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,14 +113,6 @@
             <pubDate>Thu, 16 Dec 2021 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[투쟁이라는 단어 앞에서 늘 남성을 먼저 떠올렸다. 커다랗고 까슬까슬한 주먹을 쥔 채 하늘을 향해 치켜들고, 구릿빛 이마에는 해진 머리띠가 둘려있고, 다부진 체격을 다 덮지 못하는 낚시 조끼, 뒷면에는 요약된 요구안 또는 조직적 구호가 적혀 있는 사람이 선 모습. 오랫동안 왜인지 투쟁은 그런 모습이어야 익숙하다 느꼈다. 투쟁의 외형적 하자를 검토하는 사이, 누구에게나 삶은 곧 투쟁이라는 보편타당한 의미를 소거하고 말았다. 그저 건장한 남성이 투쟁의 주인이라 생각했다. 남성중심주의적 착각이었다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/16/2021121401001769900153642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족까지 보복살해 반복되는데… 지침만 만들고 지키진 않는 경찰]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112151423001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112151423001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 15 Dec 2021 06:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[범죄 피해자의 신변보호 시 신고자는 물론 가족까지 보호할 수 있는 경찰 내부 규정이 있음에도 최근 ‘송파 신변보호자 가족 살해’ 사건에서는 적용되지 않은 것으로 파악됐다. 일반 신변보호 때도 신고자 가족은 보호대상이 될 수 있는데, 이번의 경우 경찰이 성범죄 관련 사건으로 인지하고도 가족을 보호조치 대상에 포함시키지 않은 것이다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/15/2021121401001783500154661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
