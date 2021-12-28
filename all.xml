@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -121,20 +121,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/27/l_2021122701003366100294331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['피고인 방어권' 위해 성폭력 피해 아동이 꼭 법정에 나와야한다는 헌재[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112281413001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112281413001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 28 Dec 2021 06:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 28]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/28/l_2021122701003393300296071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이진주의 finterview]"마트엔 왜 구부러진 가지가 없을까" 어글리어스를 만든 이 질문[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112281011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202112281011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Tue, 28 Dec 2021 10:11:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 28]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/28/l_2021122401003120200271521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피고인 방어권' 위해 성폭력 피해 아동이 꼭 법정에 나와야한다는 헌재[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112281413001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112281413001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 28]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/28/l_2021122701003393300296071.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['피고인 방어권' 위해 성폭력 피해 아동이 꼭 법정에 나와야한다는 헌재 (경향신문 ─ 연재 ─ 플랫)]]></title>
