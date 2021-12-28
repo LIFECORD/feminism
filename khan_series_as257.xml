@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 00:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 01:58:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마트엔 왜 구부러진 가지가 없을까" 어글리어스를 만든 이 질문[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112281011001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112281011001</guid>
+            <pubDate>Tue, 28 Dec 2021 01:58:16 GMT</pubDate>
+            <content:encoded><![CDATA[외모에 대한 편견은 비단 사람에게만 있는 것은 아니다. 표면에 자국이 있는 파프리카나 곧게 자라지 못한 가지는 대형마트로 가지 못해 못난이 농산물로 분류된다. 못난이 농산물은 마땅한 판매처를 찾기 힘들어 헐값에 ‘즙’ 재료가 되거나 폐기 처리되는 경우가 대부분이다. 못생겼다는 이유 만으로 버려지는 농산물을 구해 농가 소득을 보장하고, 소비자에게는 친환경 농산물을 합리적인 가격에 구입할 수 있도록 국내 최초로 못난이 농산물 구독 서비스를 내놓은 어글리...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/28/l_2021122401003120200271521.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 된 이상 페미니즘이 청와대로 간다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202112271358001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Dec 2021 02:00:26 GMT</pubDate>
             <content:encoded><![CDATA[“환자들이 하루 한 번이라도 웃었으면 좋겠다는 생각으로 방호복에 스티커를 붙여요.”모든 코로나19 격리병동이 그렇듯, 국민건강보험 일산병원 코로나19 격리병동에도 환자들이 저마다 근심과 걱정을 지고 온다. 하얀 방호복을 뒤집어쓴 의료진이 무서운 어린이부터 밖에 두고 온 손자의 끼니를 걱정하는 할머니, 배 속의 아이가 더 걱정인 임신부까지 각양각색이다. 이곳에 근무하는 백의영 간호사(35)는 환자들이 걱정을 조금이라도 덜었으면 하는 마음으로 자신의 방호복에 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/20/l_2021122001002460200215371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴떡밥'과 '취케팅' 덕에 기력을 되찾았다]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112171704001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112171704001</guid>
-            <pubDate>Fri, 17 Dec 2021 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[퇴근 후는 온전히 나를 위한 회복의 시간입니다. 일상에 지쳐 쉬는 방법을 잊은 당신에게, 경향신문 여성 기자들이 퇴근 후 시간과 주말의 일상을 공유하는 [퇴근후, 만나요]를 연재합니다. 누군가의 사소한 일상이 영감이 될 수도 있으니까요.[퇴근 후 만나요] ‘뉴떡밥’과 ‘취케팅’ 덕에 기력을 되찾았다 ‘의욕’이라는 게 점점 없어지고 있다. 딱히 사고 싶은 물건도 없고, 가보고 싶은 맛집도 없다. 여행 참 좋아했지만 코시국에 막힌 해외 여행길에 휴가에 대한...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/17/l_2021120801001028500088561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
