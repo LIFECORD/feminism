@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 22:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 23:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 방식대로 2021년 총결산!]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/613</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/613</guid>
+            <pubDate>Wed, 29 Dec 2021 23:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[올해 4월 첫 뉴스레터를 보낸 후 우리가 함께 보낸 첫 해가 벌써 이렇게 지나갔어요. 다음 뉴스레터를 보낼 때면 우리의 두 번째 해를 맞이하겠죠? 올 한 해 정말 고생 많으셨습니다. 이번 뉴스레터는 주제 별로 올해의 화두를 요약해 봤습니다. 다 읽고 나면 틀림없이 올해도 우리 참 잘 버텼다는 마음이 들 것입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c3439e5c-5b4c-44a0-bf55-00372763ed4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자를 돕는 여자, 댄서 아이키]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/601</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
             <content:encoded><![CDATA[이들은 인공지능(AI)으로 만들어진 가상의 존재라는 공통점이 있어요. 로지는 SNS 팔로워 수가 10만 명이 넘는 인플루언서인데요. 고도의 AI와 그래픽 기술로 빚어낸 가상인간이라 사람보다 더 사람 같아 보여요. '이루다'는 올해 초에 공개된 AI 챗봇 프로그램이었죠. 그리고 '시리'는 애플에서 내놓은 AI 음성비서입니다. 이들의 공통점이 하나 더 있어요. 모두 여성이라는 점입니다]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/d88ac346-e8c4-4b13-a252-f30b2f84b05f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 악마가 아니라 범죄자일 뿐이다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/490</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/490</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[지난 14일, 미성년자를 포함한 여성들을 협박해 성착취 영상물을 제작하고 판매한 텔레그램 대화방 '박사방'의 운영자 조주빈(26)에게 징역 42년이 확정됐습니다. 42년이란 형량, 어떻게 생각하시나요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/57fc45bb-e74c-468d-8fb0-c8948e30fd5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
