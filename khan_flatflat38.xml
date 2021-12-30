@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["육아휴직은 쪼개질 수 없는 권리" 작은 변호사 조직이 이끈 큰 판결]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112301337001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112301337001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 30 Dec 2021 05:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[최근 서울고등법원은 직장맘 A씨가 서울지방고용노동청을 상대로 낸 육아휴직급여 부지급 처분소송 파기환송심에서 “서울지방고용노동청은 A씨에게 미지급한 육아휴직급여를 지급하라”고 원고 승소 판결했다. 육아휴직급여 청구권을 놓고 약 5년을 끌어온 법정 공방이 마무리된 셈이다. 이 사건은 육아휴직자가 청구기간 내 육아휴직급여를 일부 청구했다면 나머지 급여를 고용보험법이 정한 청구기간(1년) 내에 청구하지 않았더라도 급여를 받을 수 있다는 선례를 남겼다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/30/2021122701003433300298451.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여가부, 스토킹처벌법 이어 '스토킹피해자보호법' 제정 추진한다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112301026001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -101,15 +109,6 @@
             <content:encoded><![CDATA[공공장소에서 스타킹을 신은 여성에게 먹물을 뿌리는 이른바 ‘스타킹 먹물테러’를 저지른 20대 남성에게 실형이 선고됐다. 이런 유형의 범죄는 그동안 처벌 조항이 마땅치 않아 스타킹 훼손의 책임(재물손괴)을 묻는 데 그쳤지만, 재판부는 성적 의도가 뚜렷하고 피해자들의 정신적 피해도 적지 않다며 엄하게 처벌했다.
 서울동부지법 형사9단독(전경세 판사)은 강제추행, 재물손괴, 성폭력범죄의 처벌 등에 관한 특례법 위반(성적 목적 다중이용장소 침입) 혐의 등으로 재판에 넘겨진 A씨에게 징역 2년을 선고했다고 19일 밝혔다. 40시간의 성폭력 치료 프로그램 이수와 5년간 아동·청소년 관련 기관, 장애인복지시설 취업 제한도 명령했다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/21/2021122101002610200228521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신지예 “현실에서 가능한 선택지가 윤석열 후보라 생각했다”]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202112201755001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202112201755001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 20 Dec 2021 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[“좌도, 우도 아닌 진전하는 대한민국을 만들기 위해 현실에서 가능한 선택지가 윤석열 후보라 생각했다”.
-신지예 전 한국여성정치네트워크 대표가 20일 국민의힘 새시대준비위원회 간담회에서 밝힌 국민의힘 합류 소회다. 이날 새시대위 수석부위원장으로 영입된 신 전 대표는 서울 여의도 국민의힘 당사에서 기자들과 만나 “권력형 성범죄와 2차 가해로 피해자를 공격하는 더불어민주당 후보와 그들이 다시 정권을 잡으면 안된다는 생각에 절박한 마음으로 이곳에 섰다”며 합류 이유를 설명했다. 김한길 새시대위원장은 “중도나 소위 합리적 진보라 불리는 분들 모시기 위한 노력의 일환”이라며 신 전 대표 영입 취지를 설명했다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/20/2021122001002569400222711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

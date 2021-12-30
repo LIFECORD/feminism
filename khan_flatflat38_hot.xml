@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['피고인 방어권' 위해 성폭력 피해 아동이 꼭 법정에 나와야한다는 헌재[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112281413001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112281413001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 28]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/28/l_2021122701003393300296071.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['남성 청소년의 여성화'가 규제 대상이라는 중국 정부[플랫]]]></title>
             <link>https://www.khan.co.kr/world/china/article/202112291106001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 30]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/30/l_2021122701003419300297662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["육아휴직은 쪼개질 수 없는 권리" 작은 변호사 조직이 이끈 큰 판결[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112301337001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112301337001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 30]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/30/l_2021122701003433300298451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

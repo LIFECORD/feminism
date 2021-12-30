@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["육아휴직은 쪼개질 수 없는 권리" 작은 변호사 조직이 이끈 큰 판결]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202112301337001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202112301337001</guid>
+            <pubDate>Thu, 30 Dec 2021 05:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[최근 서울고등법원은 직장맘 A씨가 서울지방고용노동청을 상대로 낸 육아휴직급여 부지급 처분소송 파기환송심에서 “서울지방고용노동청은 A씨에게 미지급한 육아휴직급여를 지급하라”고 원고 승소 판결했다. 육아휴직급여 청구권을 놓고 약 5년을 끌어온 법정 공방이 마무리된 셈이다. 이 사건은 육아휴직자가 청구기간 내 육아휴직급여를 일부 청구했다면 나머지 급여를 고용보험법이 정한 청구기간(1년) 내에 청구하지 않았더라도 급여를 받을 수 있다는 선례를 남겼다.이 사건을...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/30/l_2021122701003433300298451.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여가부, 스토킹처벌법 이어 '스토킹피해자보호법' 제정 추진한다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202112301026001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Dec 2021 05:12:28 GMT</pubDate>
             <content:encoded><![CDATA[마녀 재판에서 억울하게 처형 당한 피해자들이 수백년 만에 사면받을 수 있을까.영국 선데이타임스는 19일(현지시간) 스코틀랜드 의회 최다석을 차지한 국민당원을 수반으로 한 스코틀랜드 정부가 마녀사냥법을 적용받아 무고하게 기소당했던 피해자들을 사면하는 법안에 대한 지지를 표명했다고 보도했다. 현재 스코틀랜드 의회 129석 중 국민당은 64석, 연정을 이루고 있는 녹색당은 7석을 차지하고 있다. 해당 법안이 의회를 통과하면 영국 최초로 마녀사냥 피해자들의 유죄 기...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/22/l_2021122001002516800220051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유독 '안 된다'는 것이 많았던 시대, 한국 최초의 여성 영화감독 이야기]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202112211501001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202112211501001</guid>
-            <pubDate>Tue, 21 Dec 2021 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[“안 된다는 말, 난 하나도 안 무섭다. 내한테는 된다는 거보다 안 된다는 게 훨씬 많거든.” 태어난 지 100일을 갓 넘긴 아기를 업고 ‘레디-고!’를 외친다. 영화 세트장은 메가폰을 잡은 감독의 집 마당. 제작비를 아끼기 위해 밥 때가 되면 배우, 스태프들의 식사도 직접 차려낸다. 한국 최초의 여성 영화감독 박남옥(1923~2017)의 이야기다.지난 17일 서울 국립극장 무대에 오른 &lt;명색이 아프레걸&gt;은 여성에겐 유독 ‘안 된다’는 것이 많았던 시대, 사회적 통...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/21/l_2021121601002126000184601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
