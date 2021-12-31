@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 05:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 06:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세월이 흘러도 갓 지른 비명처럼 생생하게, 최승자가 돌아왔다]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202112311456001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202112311456001</guid>
+            <pubDate>Fri, 31 Dec 2021 06:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[“김민정씨, 나 최승잔데요, 나 최승자라고요, 내가요, 책을 읽고 있었는데요……. 그때 말한 내 책 두 권 있잖아요, 그거 내주세요.”2019년 11월27일, 출판사 난다의 대표 김민정 시인은 오래 기다린 전화를 받았다. 모든 시인의 첫사랑, 최승자 시인(69)이었다. 2015년 그의 산문집을 다시 펴내고 싶다는 제안을 건넨 후 4년 만에 돌아온 답이었다. “그거 내주세요.” 한마디와 함께 최승자 산문집 &lt;한 게으른 시인의 이야기&gt; &lt;어떤 나무들은&gt;이 잇달아 우리...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/31/l_2021122701003443200298811.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈북민 인권운동가 박지현씨, 더 타임스 '올해의 영웅']]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202112310955001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 Dec 2021 02:32:56 GMT</pubDate>
             <content:encoded><![CDATA[양육비를 주지 않는 부모의 신상을 공개한 사이트 ‘배드파더스’ 대표 구본창씨(58)가 2심에서 유죄를 선고받았다.수원고법 형사1부(부장판사 윤성식)는 23일 이 사건 선고공판에서 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의로 기소된 구씨에게 무죄를 선고한 원심을 파기하고 벌금 100만원의 선고를 유예했다. 선고유예는 가벼운 범죄에 일정 기간 형의 선고를 보류했다가 면소(공소권이 사라져 기소되지 않음)된 것으로 간주하는 판결이다.재판부는 “양...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/24/l_2021122401003118200271301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니가 원하는 장례식을 위해선 여자도 상주가 될수 있어야 했다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112231013001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112231013001</guid>
-            <pubDate>Thu, 23 Dec 2021 01:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[“여자는 상주 못한다기에 ‘저 여자 아닙니다’ 했더니 양복과 완장을 주더라고요.”작가이자 영화감독으로도 알려진 싱어송라이터 이랑(35)은 지난 10일 세 살 터울의 언니를 떠나보냈다. 급작스레 찾아온 이별 앞에서 그는 애도의 방식을 고민했다. 마지막 가는 길은 언니와 어울리는 것들로 채우고 싶었다. 키우던 강아지를 등에 업은 채 언니가 활짝 웃는 사진을 영정으로 놓았다. 생전에 좋아했던 귀걸이, 공주님 왕관과 요술봉, 금색 술이 달린 공연 의상으로 제단을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/23/l_2021122301002928700254742.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
