@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 02:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 03:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d88ac346-e8c4-4b13-a252-f30b2f84b05f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수탉이 울어도 선녀는 닭장으로 돌아가지 않는다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9237</link>
+            <guid>https://ildaro.com/9237</guid>
+            <pubDate>Sat, 01 Jan 2022 11:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[나무꾼은 가난한 산골 총각이다. 노루를 숨겨주는 따뜻한 품성을 지녔지만 총을 든 가부장 사회의 일원이기도 하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010145409060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기후위기 시대의 생존방식은 ‘탈성장’, ‘연결’되는 삶 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9236</link>
             <guid>https://ildaro.com/9236</guid>
@@ -445,14 +453,6 @@
             <pubDate>Tue, 07 Dec 2021 09:54:00 GMT</pubDate>
             <content:encoded><![CDATA[내가 일하면서 만났던 청년 노동자들에게는 “자신이 겪는 이 일이 중요한 문제라고 말해주는 사람이 아무도 없”었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120705379247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영혼을 파는(selling) 대신 항해한(sailing) 기록 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9217</link>
-            <guid>https://ildaro.com/9217</guid>
-            <pubDate>Mon, 06 Dec 2021 09:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[앨범 제목은 영혼을 파는(selling) 대신 항해하겠다(sailing)는 의미를 담고 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120654329573.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
