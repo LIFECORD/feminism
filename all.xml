@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 03:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 04:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d88ac346-e8c4-4b13-a252-f30b2f84b05f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[낯선 이를 환대하는 마음은 바람을 따라 흐른다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9238</link>
+            <guid>https://ildaro.com/9238</guid>
+            <pubDate>Sun, 02 Jan 2022 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[새해 첫 보름달이 뜨는 날이면 남도 끄트머리에 있는 바닷가 마을에 찾아가곤 한다. 헌식굿을 구경하러 농악단 친구들과 함께 간다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010252455856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[수탉이 울어도 선녀는 닭장으로 돌아가지 않는다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9237</link>
             <guid>https://ildaro.com/9237</guid>
@@ -445,14 +453,6 @@
             <pubDate>Wed, 08 Dec 2021 10:14:00 GMT</pubDate>
             <content:encoded><![CDATA[표상이 의도하는 것을 제대로 읽어내는 방법을 모르면, 무의식적으로 그 이미지에 세뇌당해버리게 되죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120820438655.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“자신이 겪는 이 일이 중요한 문제라고 말해주는 사람” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9218</link>
-            <guid>https://ildaro.com/9218</guid>
-            <pubDate>Tue, 07 Dec 2021 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[내가 일하면서 만났던 청년 노동자들에게는 “자신이 겪는 이 일이 중요한 문제라고 말해주는 사람이 아무도 없”었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120705379247.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
