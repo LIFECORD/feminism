@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 06:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불량식품은 안되는데 불량주거는 왜?]]></title>
+            <link>https://ildaro.com/9239</link>
+            <guid>https://ildaro.com/9239</guid>
+            <pubDate>Mon, 03 Jan 2022 06:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[지금 우리는 대선 후보에게 물어야 한다. 당신이 생각하는 집다운 집은 무엇이냐고....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010307188104.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낯선 이를 환대하는 마음은 바람을 따라 흐른다]]></title>
             <link>https://ildaro.com/9238</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 11:21:00 GMT</pubDate>
             <content:encoded><![CDATA[독특한 리더십으로 독일과 유럽뿐 아니라 세계 정치의 중심에 섰던 메르켈 총리의 지난 16년을 돌아본다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120934216518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 보는 광고, 이미지들을 젠더 관점으로 읽기]]></title>
-            <link>https://ildaro.com/9219</link>
-            <guid>https://ildaro.com/9219</guid>
-            <pubDate>Wed, 08 Dec 2021 10:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[표상이 의도하는 것을 제대로 읽어내는 방법을 모르면, 무의식적으로 그 이미지에 세뇌당해버리게 되죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120820438655.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
