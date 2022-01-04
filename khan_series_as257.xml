@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 02:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['퀴어들의 주제가'에서 퀴어가 사라졌다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201041008001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201041008001</guid>
+            <pubDate>Tue, 04 Jan 2022 02:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 앞둔 지난 달 31일 서울시가 주최한 ‘보신각, 제야의 종’ 온라인 타종식 축하 무대에서 성소수자를 언급한 가사 내용이 삭제돼 논란이 일고 있다. 서울시는 타 방송사에서 쓰인 음원을 그대로 사용했다며 “의도적으로 성소수자를 배제한 것은 아니”라고 해명했다.사전 제작된 당일 축하무대에는 퓨전국악밴드 ‘훌’과 ‘서도밴드’, 댄스팀 ‘라치카’가 참여했다. 공연은 오후 11시40분부터 서울시 유튜브·페이스북은 물론 tbs교통방송, 지상파·케이블 방송사를 통해 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/04/l_2022010301000329500023111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아흔이 넘어도 계속되는 '김밥 할머니'의 나누는 삶]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201031116001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Dec 2021 05:11:44 GMT</pubDate>
             <content:encoded><![CDATA[시트콤 &lt;이렇게 된 이상 청와대로 간다&gt;의 차정원(배해선)은 보수 정당의 검사 출신 4선 의원으로 지금 당장 당선 가능성이 없는 4, 5위 대권주자가 되기보단, 세를 불려 ‘차기’ 또는 ‘차차기’ 대권을 노리고자 하는 야심 많은 인물이다. 그의 명분은 오직 자신의 정치적 포지션을 강화하는 것에 있다. 자신의 행보에 방해가 되는 인물은 뒷조사를 통해 회유와 협박을 서슴지 않고, 적대적인 관계의 인물과도 타협해서 쇼를 기획한다.‘정권교체 2030의 힘으로!’라...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/27/l_2021122701003366100294331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑했던 군대가 외면한 딸의 죽음, 부모는 투사가 됐다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112241446001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112241446001</guid>
-            <pubDate>Fri, 24 Dec 2021 06:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[9, 6, 2, 3, 3. 이 숫자들은 딸을 잃은 아버지의 치열했던 일곱 달의 기록이다. 정보공개청구 9번, 민원 신청 6번, 이의 신청 2번, 8비행단장 면담 3번, 내용증명 3번. 아버지는 딸의 죽음의 진실을 밝히기 위해 도합 23번 군의 문을 두드렸다. 상관으로부터 성추행을 당한 공군 8전투비행단 소속 A하사가 지난 5월 스스로 목숨을 끊은 뒤 부모는 투사가 됐다.A하사의 아버지 B씨(57)는 지난 19일 “내가 이렇게 지내는 것이 사건의 실체를 밝히는 데는 도움이 될 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/24/l_2021122301002978000259801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
