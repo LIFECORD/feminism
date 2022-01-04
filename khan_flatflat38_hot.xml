@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 00:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/31/l_2021122701003443200298811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈북민 인권운동가 박지현씨, 더 타임스 '올해의 영웅'[플랫]]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202112310955001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202112310955001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 31]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/31/l_2021122901003710200323051.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['퀴어들의 주제가'에서 퀴어가 사라졌다[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201041008001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201041008001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 04]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/04/l_2022010301000329500023111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
