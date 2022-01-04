@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 11:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 12:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d88ac346-e8c4-4b13-a252-f30b2f84b05f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“점심시간 1시간을 우리가 30년만에 찾은 거예요” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9240</link>
+            <guid>https://ildaro.com/9240</guid>
+            <pubDate>Tue, 04 Jan 2022 12:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[“여자들에게 제일 무서운 게, 직장 먼 데 보내버리겠다는 거잖아요. 그렇게 달달 볶으면 사람이 나가는 거예요.”(송윤숙 씨, 당시 한국통신 노조 복지부장)...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010401115991.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[불량식품은 안되는데 불량주거는 왜? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9239</link>
             <guid>https://ildaro.com/9239</guid>
@@ -445,14 +453,6 @@
             <pubDate>Fri, 10 Dec 2021 08:14:18 GMT</pubDate>
             <content:encoded><![CDATA[자신의 이해관계를 관철하기 위해 혐오와 폭력이 도구로 사용되는 모든 자리에서, 민주시민으로서 우리는 더 이상 관용을 베풀지 말아야 합니다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121043145515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숙고와 경청의 정치가 세계를 움직이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9220</link>
-            <guid>https://ildaro.com/9220</guid>
-            <pubDate>Thu, 09 Dec 2021 11:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 리더십으로 독일과 유럽뿐 아니라 세계 정치의 중심에 섰던 메르켈 총리의 지난 16년을 돌아본다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021120934216518.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
