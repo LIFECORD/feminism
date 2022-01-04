@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 15:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 16:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아흔이 넘어도 계속되는 '김밥 할머니'의 나누는 삶[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201031116001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201031116001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 03]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/03/l_2021123101003998400348791.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['퀴어들의 주제가'에서 퀴어가 사라졌다[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201041008001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 04]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/04/l_2022010301000329500023111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아흔이 넘어도 계속되는 '김밥 할머니'의 나누는 삶[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201031116001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201031116001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 03]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/03/l_2021123101003998400348791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["무슬림 여성들을 팝니다" 여성혐오 광고의 재등장이 의미하는 것[플랫]]]></title>
