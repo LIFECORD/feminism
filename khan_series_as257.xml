@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 06:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 07:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["무슬림 여성들을 팝니다" 여성혐오 광고의 재등장이 의미하는 것]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201041419001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201041419001</guid>
+            <pubDate>Tue, 04 Jan 2022 07:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[인도에서 무슬림 여성들의 사진을 온라인 애플리케이션(앱)에 무단으로 게재하고, 이들을 경매에 부치는 일이 6개월 만에 다시 발생했다.타임스오브인디아 등 현지매체는 지난 1일(현지시간) 인도에서 오픈소스 플랫폼인 깃허브의 ‘불리 바이(Bulli Bai)’라는 앱에 100명이 넘는 무슬림 여성들이 본인도 모르는 사이에 판매되는 상품으로 올라와 있었다고 보도했다. 피해 여성들은 최연소 노벨평화상 수상자인 말랄라 유사프자이 등 사회운동가, 언론인, 정치인 등 평소에 무슬림 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/04/l_2022010301000329400023052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['퀴어들의 주제가'에서 퀴어가 사라졌다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201041008001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 01:58:16 GMT</pubDate>
             <content:encoded><![CDATA[외모에 대한 편견은 비단 사람에게만 있는 것은 아니다. 표면에 자국이 있는 파프리카나 곧게 자라지 못한 가지는 대형마트로 가지 못해 못난이 농산물로 분류된다. 못난이 농산물은 마땅한 판매처를 찾기 힘들어 헐값에 ‘즙’ 재료가 되거나 폐기 처리되는 경우가 대부분이다. 못생겼다는 이유 만으로 버려지는 농산물을 구해 농가 소득을 보장하고, 소비자에게는 친환경 농산물을 합리적인 가격에 구입할 수 있도록 국내 최초로 못난이 농산물 구독 서비스를 내놓은 어글리...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/28/l_2021122401003120200271521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 된 이상 페미니즘이 청와대로 간다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202112271358001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202112271358001</guid>
-            <pubDate>Mon, 27 Dec 2021 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[시트콤 &lt;이렇게 된 이상 청와대로 간다&gt;의 차정원(배해선)은 보수 정당의 검사 출신 4선 의원으로 지금 당장 당선 가능성이 없는 4, 5위 대권주자가 되기보단, 세를 불려 ‘차기’ 또는 ‘차차기’ 대권을 노리고자 하는 야심 많은 인물이다. 그의 명분은 오직 자신의 정치적 포지션을 강화하는 것에 있다. 자신의 행보에 방해가 되는 인물은 뒷조사를 통해 회유와 협박을 서슴지 않고, 적대적인 관계의 인물과도 타협해서 쇼를 기획한다.‘정권교체 2030의 힘으로!’라...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/27/l_2021122701003366100294331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
