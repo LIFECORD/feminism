@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 09:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 10:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/04/l_2022010301000329500023111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["무슬림 여성들을 팝니다" 여성혐오 광고의 재등장이 의미하는 것[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201041419001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201041419001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 04 Jan 2022 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 04]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/04/l_2022010301000329400023052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[새해 첫날부터 3명의 여성이 살해당했다[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202201051055001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/europe-russia/article/202201051055001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 05]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/05/l_2022010501000501400040161.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["무슬림 여성들을 팝니다" 여성혐오 광고의 재등장이 의미하는 것[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201041419001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201041419001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 04 Jan 2022 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 04]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/04/l_2022010301000329400023052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해 첫날부터 3명의 여성이 살해당했다 (경향신문 ─ 연재 ─ 플랫)]]></title>
