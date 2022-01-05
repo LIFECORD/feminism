@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 22:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 23:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/28/l_2021122701003393300296071.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자를 위한 나라는... 있다? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/626</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/626</guid>
+            <pubDate>Wed, 05 Jan 2022 23:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[해의 첫 허스토리 뉴스레터를 이렇게 보내드리게 되어 무척 반갑습니다. 누가 뭐라 해도 올해 가장 중요한 이벤트는 3월 9일 대통령 선거일 겁니다. 지난해 마지막 뉴스레터에서 정치, 사회뿐 아니라 다양한 분야를 다루고 싶다고 했지만, 민망하게도 신년 첫 메일부터 정치를 다루는 이유입니다. 대통령을 뽑는다는 것은 우리 삶의 근간을 이루는 많은 법과 제도, 관점이 바뀔 정도로 중요한 일이니까요!]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/a5f20f11-a242-4b2d-817f-67b3c1442f72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리 방식대로 2021년 총결산! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/613</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/613</guid>
@@ -286,14 +294,6 @@
             <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
             <content:encoded><![CDATA[지난주에 예고했듯 오늘(11월 4일) 허스토리의 새 프로젝트를 공개해요. 자신이 분투하는 곳에서 여성의 영토를 넓혀가며, 결과적으로 다른 여성을 돕는 이들의 서사를 기록하는 시리즈, '여자를 돕는 여자들(여.돕.여)' 인터뷰가 공개됐습니다. 평소에 허스토리의 SNS를 팔로우하고 계신 분들은 이미 첫 화의 주인공을 눈치채고 계셨죠?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/eac05ee4-3cb6-45b5-9705-8ecb9e6fb224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로지' '이루다' '시리' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/504</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/504</guid>
-            <pubDate>Thu, 02 Dec 2021 18:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[이들은 인공지능(AI)으로 만들어진 가상의 존재라는 공통점이 있어요. 로지는 SNS 팔로워 수가 10만 명이 넘는 인플루언서인데요. 고도의 AI와 그래픽 기술로 빚어낸 가상인간이라 사람보다 더 사람 같아 보여요. '이루다'는 올해 초에 공개된 AI 챗봇 프로그램이었죠. 그리고 '시리'는 애플에서 내놓은 AI 음성비서입니다. 이들의 공통점이 하나 더 있어요. 모두 여성이라는 점입니다]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/d88ac346-e8c4-4b13-a252-f30b2f84b05f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“점심시간 1시간을 우리가 30년만에 찾은 거예요” (일다 ─ 전체기사)]]></title>
