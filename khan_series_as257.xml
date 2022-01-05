@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 00:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 첫날부터 3명의 여성이 살해당했다]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202201051055001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202201051055001</guid>
+            <pubDate>Wed, 05 Jan 2022 02:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스와 그리스 등 세계 곳곳에서 페미사이드(여성 살해) 사건이 잇따르면서 더욱 강력한 법적 조치를 마련해야 한다는 목소리가 커지고 있다.3일(현지시간) 프랑스24 등 현지 매체 보도에 따르면 프랑스에서는 새해 첫날부터 세 건의 페미사이드가 발생했다. 첫 번째 희생자는 프랑스 서부 도시 소뮈르 인근에 사는 28세 여성으로 남자친구의 칼에 찔렸다. 프랑스 동부 뫼르트에모젤주에서는 56세 여성이 집에서 남편의 칼에 찔렸다. 세 번째 희생자는 프랑스 남부 휴양 도시...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/05/l_2022010501000501400040161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["무슬림 여성들을 팝니다" 여성혐오 광고의 재등장이 의미하는 것]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201041419001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 06:12:45 GMT</pubDate>
             <content:encoded><![CDATA[아동 성폭력 피해자의 증언 영상을 재판 증거로 쓸 수 있도록 한 법률 조항이 헌법에 저촉된다고 헌법재판소가 판단했다. 반복된 피해 진술로 인한 2차 피해를 막으려고 생긴 이 조항이 피고인의 반대신문권을 제한한다는 것이다. 그러나 헌재의 이번 결정으로 영상진술 녹화자료의 증거능력이 제한되면 아동 성폭력 피해자도 법정에서 적어도 한 차례는 반대 신문을 받아야 하는데, 반대 신문을 이해할 수 없는 아동 피해자가 많은 데다 반대 신문 과정에서 2차 피해를 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/28/l_2021122701003393300296071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["마트엔 왜 구부러진 가지가 없을까" 어글리어스를 만든 이 질문[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112281011001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112281011001</guid>
-            <pubDate>Tue, 28 Dec 2021 01:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[외모에 대한 편견은 비단 사람에게만 있는 것은 아니다. 표면에 자국이 있는 파프리카나 곧게 자라지 못한 가지는 대형마트로 가지 못해 못난이 농산물로 분류된다. 못난이 농산물은 마땅한 판매처를 찾기 힘들어 헐값에 ‘즙’ 재료가 되거나 폐기 처리되는 경우가 대부분이다. 못생겼다는 이유 만으로 버려지는 농산물을 구해 농가 소득을 보장하고, 소비자에게는 친환경 농산물을 합리적인 가격에 구입할 수 있도록 국내 최초로 못난이 농산물 구독 서비스를 내놓은 어글리...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/28/l_2021122401003120200271521.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
