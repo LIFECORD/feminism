@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 00:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상에 있지만 행정엔 없는 '미명이']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201061000001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201061000001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 06 Jan 2022 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이의 이름은 ‘미명’이다. 김미명, 박미명이어서가 아니라 공식적인 이름이 없기 때문에 성명 미상, 미명이다.
+아이는 신체 일부에 선천적 장애가 있다. 태어난 지 3년이 지났지만 보육원은 미명이의 장애인 등록 및 서비스 신청을 하지 못하고 있다. 국가의 법과 제도에서 미명이는 ‘없는 아이’이기 때문이다. 미명이는 생후 출생부모가 즉각 출생신고를 하지 않아 여태껏 ‘이름 없음’, ‘주민등록번호 없음’으로 살고 있다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/06/2022010301000207000014211.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 첫날부터 3명의 여성이 살해당했다]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202201051055001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -102,14 +111,6 @@
             <pubDate>Tue, 28 Dec 2021 10:11:00 GMT</pubDate>
             <content:encoded><![CDATA[외모에 대한 편견은 비단 사람에게만 있는 것은 아니다. 표면에 자국이 있는 파프리카나 곧게 자라지 못한 가지는 대형마트로 가지 못해 못난이 농산물로 분류된다. 못난이 농산물은 마땅한 판매처를 찾기 힘들어 헐값에 ‘즙’ 재료가 되거나 폐기 처리되는 경우가 대부분이다. 못생겼다는 이유 만으로 버려지는 농산물을 구해 농가 소득을 보장하고, 소비자에게는 친환경 농산물을 합리적인 가격에 구입할 수 있도록 국내 최초로 못난이 농산물 구독 서비스를 내놓은 어글리어스 대표 최현주씨(32)를 지난 21일 전화로 만났다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/28/2021122401003120200271521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 된 이상 페미니즘이 청와대로 간다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202112271358001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202112271358001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 27 Dec 2021 05:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[시트콤 &lt;이렇게 된 이상 청와대로 간다&gt;의 차정원(배해선)은 보수 정당의 검사 출신 4선 의원으로 지금 당장 당선 가능성이 없는 4, 5위 대권주자가 되기보단, 세를 불려 ‘차기’ 또는 ‘차차기’ 대권을 노리고자 하는 야심 많은 인물이다. 그의 명분은 오직 자신의 정치적 포지션을 강화하는 것에 있다. 자신의 행보에 방해가 되는 인물은 뒷조사를 통해 회유와 협박을 서슴지 않고, 적대적인 관계의 인물과도 타협해서 쇼를 기획한다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2021/12/27/2021122701003366100294331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
