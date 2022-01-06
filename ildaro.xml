@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 08:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤 삶은 존재 자체로 투쟁이다]]></title>
+            <link>https://ildaro.com/9241</link>
+            <guid>https://ildaro.com/9241</guid>
+            <pubDate>Thu, 06 Jan 2022 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[가끔 누군가가 이렇게 말한다. “한쪽 눈이 아프다”고. 땅이는 지금 아프지 않다. 전에 아팠을 뿐이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010621571377.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“점심시간 1시간을 우리가 30년만에 찾은 거예요”]]></title>
             <link>https://ildaro.com/9240</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Dec 2021 10:12:53 GMT</pubDate>
             <content:encoded><![CDATA[At first I stewed over the lack of visibility the deaf community receives in Korea, but when I recognized such brooding was a luxury and that I could do something, I just started making videos....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121120107940.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[난민에게 국경을 열고 변곡점에 도달한 메르켈의 정치]]></title>
-            <link>https://ildaro.com/9221</link>
-            <guid>https://ildaro.com/9221</guid>
-            <pubDate>Fri, 10 Dec 2021 08:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[자신의 이해관계를 관철하기 위해 혐오와 폭력이 도구로 사용되는 모든 자리에서, 민주시민으로서 우리는 더 이상 관용을 베풀지 말아야 합니다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121043145515.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
