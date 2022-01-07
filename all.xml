@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 10:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 11:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,6 +299,14 @@
             <enclosure url="https://image.hankookilbo.com/board/eac05ee4-3cb6-45b5-9705-8ecb9e6fb224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우린 밴드지, 걸(girl) 밴드가 아니야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9242</link>
+            <guid>https://ildaro.com/9242</guid>
+            <pubDate>Fri, 07 Jan 2022 11:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[“침대에서도 베이스기타를 칠 때의 얼굴을 하고 있냐”고 질문을 받았던 에스티의 실화를 바탕으로 곡을 만들었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010734139494.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어떤 삶은 존재 자체로 투쟁이다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9241</link>
             <guid>https://ildaro.com/9241</guid>
@@ -449,14 +457,6 @@
             <pubDate>Sun, 12 Dec 2021 00:53:00 GMT</pubDate>
             <content:encoded><![CDATA[요컨대 이 이야기의 주인공은 무슨 사연인지 ‘정상 가족’을 꾸리지 못하고 궁벽한 산골에 혼자 살고 있으며, 보호자(?)는 물론 이른바 매력자본조차 없는 약자 중의...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121201441157.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deaf and Hard-of-Hearing Women Are Speaking Up! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9222</link>
-            <guid>https://ildaro.com/9222</guid>
-            <pubDate>Sat, 11 Dec 2021 10:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[At first I stewed over the lack of visibility the deaf community receives in Korea, but when I recognized such brooding was a luxury and that I could do something, I just started making videos....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121120107940.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
