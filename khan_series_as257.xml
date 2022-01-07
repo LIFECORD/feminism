@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 06:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마지막 집회를 기다리는 수요시위의 30번째 생일]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201071416001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201071416001</guid>
+            <pubDate>Fri, 07 Jan 2022 06:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[TV 화면에서 할머니들을 본 게 벌써 30년 전이다. 일제강점기, 소녀였던 그들은 일본군에 의해 낯선 땅으로 끌려가 성착취를 당했다. 그러곤 할머니가 되어 일제의 만행을 폭로했다. 전쟁은 약자에게, 특히 여성에게 잔혹했다. 전쟁 성폭력에 짓밟히고도 꿋꿋하게 생존해 고통을 증언하는 그들에게 경외심을 느꼈다.위안부 피해 할머니들과 시민사회가 서울 종로구 옛 주한 일본대사관 앞에서 일본 정부의 사과를 요구하는 시위를 시작한 것은 1992년 1월8일 수요일이었다. 이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/07/l_2022010701000883800072291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 옷벗기기 게임이 15세 등급?]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201071028001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Dec 2021 02:00:21 GMT</pubDate>
             <content:encoded><![CDATA[탈북민 출신의 인권운동가 박지현씨(53)가 영국 일간 더타임스 일요판이 선정한 ‘올해의 영웅’에 이름을 올렸다. 타임스는 북한에서의 고난을 극복하고 인권 증진에 힘써온 그의 모습이 많은 이들에게 영감을 불어넣었다고 평가했다.타임스는 26일(현지시간) 더 공정하고 안전한 사회를 만들기 위해 싸운 이들과 생명을 살리기 위해 개인적 희생을 한 이들, 코로나19 팬데믹 와중에 묵묵히 선을 행한 이들을 대상으로 올해의 영웅 20여명을 선정했다고 밝혔다.올해의 영웅 명단...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/31/l_2021122901003710200323051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["육아휴직은 쪼개질 수 없는 권리" 작은 변호사 조직이 이끈 큰 판결]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202112301337001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202112301337001</guid>
-            <pubDate>Thu, 30 Dec 2021 05:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[최근 서울고등법원은 직장맘 A씨가 서울지방고용노동청을 상대로 낸 육아휴직급여 부지급 처분소송 파기환송심에서 “서울지방고용노동청은 A씨에게 미지급한 육아휴직급여를 지급하라”고 원고 승소 판결했다. 육아휴직급여 청구권을 놓고 약 5년을 끌어온 법정 공방이 마무리된 셈이다. 이 사건은 육아휴직자가 청구기간 내 육아휴직급여를 일부 청구했다면 나머지 급여를 고용보험법이 정한 청구기간(1년) 내에 청구하지 않았더라도 급여를 받을 수 있다는 선례를 남겼다.이 사건을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/30/l_2021122701003433300298451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
